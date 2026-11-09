@@ -1,0 +1,3352 @@
+<div align="center">
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-prompts"><img src="../assets/banner.jpg" alt="Awesome GPT Image 2 提示词" width="100%"></a>
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey)](../LICENSE)
+[![Prompts](https://img.shields.io/badge/Prompts-874_cases-111111)](../README_zh-CN.md#menu)
+[![Try GPT Image 2 on APIKO](https://img.shields.io/badge/Try_GPT_Image_2-on_APIKO-4F46E5)](https://apiko.app/zh/models/gpt-image-2?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-prompts&utm_content=model_try)
+[![GPT Image 2 API docs](https://img.shields.io/badge/GPT_Image_2-API_docs-111111)](https://apiko.app/zh/docs/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-prompts&utm_content=docs)
+
+[![🇺🇸 English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8_English-Default-4F46E5)](ui.md)
+[![🇨🇳 简体中文](https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Current-111111)](ui_zh-CN.md)
+[![🇹🇼 繁體中文](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%BC_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E6%9F%A5%E7%9C%8B-4F46E5)](ui_zh-TW.md)
+[![🇰🇷 한국어](https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7_%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%B3%B4%EA%B8%B0-4F46E5)](ui_ko.md)
+
+</div>
+
+# 🖥️ UI · Awesome GPT Image 2 提示词
+
+[← 返回 README](../README_zh-CN.md) · 本页共 116 条。提示词保持原文，未翻译。
+
+> 界面截图、品牌板、分镜和信息图，都由带标注的分区拼成。
+
+- [中文野生动物信息图](#ui-01)
+- [手写笔记本照片](#ui-03)
+- [宋朝社交媒体动态](#ui-04)
+- [多平台内容截图](#ui-05)
+- [太祖李成桂的 X 主页](#ui-07)
+- [风格转界面设计系统](#ui-08)
+- [桃太郎讲解幻灯片](#ui-09)
+- [博物馆风汉服拆解信息图](#ui-10)
+- [手相诊断报告](#ui-11)
+- [书法字帖页](#ui-12)
+- [唐吉诃德促销波普海报](#ui-13)
+- [日本抽卡手游界面](#ui-14)
+- [赛博朋克霓虹界面设计系统](#ui-17)
+- [日本 AI 游戏开发概览幻灯片](#ui-19)
+- [塞尔达风 PvP 游戏截图](#ui-20)
+- [参考图风格的落地页](#ui-21)
+- [Apple Pods Pro 3 耳机电商信息图](#ui-23)
+- [Apple Pods Pro 3 耳塞电商信息图](#ui-24)
+- [美妆产品商业营销摄影](#ui-25)
+- [3A 游戏截图概念设计](#ui-26)
+- [西班牙语晨间美妆缩略图](#ui-27)
+- [电影感城市爆炸追逐](#ui-28)
+- [动漫虚拟主播我的世界直播缩略图](#ui-29)
+- [治愈动漫 ASMR 采耳少女](#ui-30)
+- [赛博朋克 404 女巫召唤](#ui-36)
+- [动漫音乐集训宣传海报](#ui-38)
+- [热带鹦鹉像素马赛克](#ui-39)
+- [温室酒吧里的金色鸡尾酒](#ui-40)
+- [多格图板模板](#ui-41)
+- [手写逼真信件](#ui-42)
+- [动漫少女与男子约会拼贴照](#ui-44)
+- [奢华生活野马照片](#ui-45)
+- [哥特机器人战士大教堂主视觉](#ui-47)
+- [云朵形状涂鸦生成](#ui-48)
+- [居酒屋实景里的动漫角色](#ui-50)
+- [冬季帐篷里的动漫露营者](#ui-51)
+- [宝马性能社交海报](#ui-52)
+- [电影感鸡肉馍馍广告海报](#ui-53)
+- [怀旧 16 张情侣照片网格](#ui-54)
+- [动漫 BL 宣传缩略图](#ui-55)
+- [夜晚的艺术家与空灵缪斯](#ui-56)
+- [手绘分镜表](#ui-57)
+- [前后端数据库 SaaS 信息图](#ui-58)
+- [个人形象分析图卡](#ui-59)
+- [12 格分镜海报](#ui-60)
+- [品牌拼贴社交模板](#ui-61)
+- [穿搭拆解图表](#ui-62)
+- [食谱信息图版式](#ui-63)
+- [个人色彩分析图板](#ui-64)
+- [未来大厅时装连拍序列](#ui-65)
+- [带标注的咖啡桌情绪板](#ui-66)
+- [高级时装饮料营销板](#ui-67)
+- [全网百万关注挑战界面设计](#ui-68)
+- [舒适日出书桌平铺图](#ui-69)
+- [定制汽车蓝图草图渲染](#ui-70)
+- [莫斯科风味美食信息图](#ui-71)
+- [足球球衣 Q 版手办](#ui-72)
+- [博物馆爆炸组装图](#ui-73)
+- [X 个人资料卡抠图女孩](#ui-74)
+- [手机屏幕破屏广告](#ui-75)
+- [异想天开的民俗涂鸦插画](#ui-76)
+- [车辆参考工程信息图](#ui-77)
+- [温网直播转播截图](#ui-78)
+- [手写学习信息图海报](#ui-79)
+- [品牌形象情绪板系统](#ui-80)
+- [景观建筑图板](#ui-81)
+- [平面设计作品集样机](#ui-82)
+- [新黑色电影角色设计板](#ui-83)
+- [向日性建筑图板](#ui-84)
+- [品牌形象规范图板](#ui-85)
+- [2027 插画桌历](#ui-86)
+- [单色奢华汽车海报网格](#ui-87)
+- [车辆爆炸视图](#ui-88)
+- [男士变帅分析海报](#ui-89)
+- [东京粉色时尚拼贴](#ui-90)
+- [索尼相机参考信息图](#ui-91)
+- [桌面配置盘点信息图](#ui-92)
+- [各国体育信息图](#ui-93)
+- [模切贴纸插画](#ui-94)
+- [韦特塔罗牌](#ui-95)
+- [情景喜剧片头分镜表](#ui-96)
+- [品牌形象规范图板](#ui-97)
+- [可收藏科学百科卡片](#ui-98)
+- [宠物世界杯分镜表](#ui-99)
+- [电影感联系表生成器](#ui-100)
+- [技术风食物标注信息图](#ui-101)
+- [巴扎劫案分镜卡](#ui-102)
+- [奢华新手包愿景板](#ui-103)
+- [压印金属 Logo 浮雕](#ui-104)
+- [雕塑感水果包装设计](#ui-105)
+- [奢华香水信息图广告](#ui-106)
+- [3A 游戏加载画面人像](#ui-107)
+- [能量饮料分镜网格](#ui-108)
+- [动漫短片开发板](#ui-109)
+- [杂志风解剖信息图海报](#ui-110)
+- [石墨咖啡馆分镜](#ui-111)
+- [威尼斯旅行博主拼贴](#ui-112)
+- [现代食谱信息图板](#ui-113)
+- [INNER SIGNAL 品牌海报系列](#ui-114)
+- [工业包装设计稿](#ui-115)
+- [镀铬 Logo 杂志视觉系统](#ui-116)
+- [护肤 UGC 分镜板](#ui-117)
+- [早期互联网作品集页面](#ui-118)
+- [彩铅照片转绘](#ui-119)
+- [吉祥物品牌识别设计表](#ui-120)
+- [建筑风产品目录页](#ui-121)
+- [王者仍在呼吸题头版式](#ui-122)
+- [AR 超市购物 POV 界面](#ui-124)
+- [北欧食谱书配方版式](#ui-125)
+- [模块化品牌图标系统](#ui-126)
+- [远征规划指挥板](#ui-127)
+- [Flash Chat 应用图标](#ui-129)
+- [九宫格产品企划](#ui-130)
+- [3D 音乐播放器图标套组](#ui-131)
+- [Y2K 原宿品牌徽章](#ui-132)
+- [怀旧记忆网格布局](#ui-133)
+
+<a id="ui-01"></a>
+### 681. 中文野生动物信息图
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-01#ui-01)** · [原帖](https://x.com/iamaiistudio/status/2068852226844664044)
+
+<table>
+<tr><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-01#ui-01"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-01.webp" width="260" alt="中文野生动物信息图 – GPT Image 2 1"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-01#ui-01"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-01-2.webp" width="260" alt="中文野生动物信息图 – GPT Image 2 2"></a></td></tr>
+</table>
+
+**提示词:**
+
+```text
+Design a visually rich infographic about an endangered animal using Chinese text. Feature a photorealistic animal as the main focal point, surrounded by annotated diagrams, structured callouts, and concise labels covering its habitat, diet, and distinctive traits. Blend photorealism with bold graphic design elements including color blocking, icons, and layered shapes on a clean background. Make it dense with information, tactile in feel, and professionally crafted.
+```
+
+<a id="ui-03"></a>
+### 682. 手写笔记本照片
+
+作者 [@patrickassale](https://x.com/patrickassale) · 4:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-03#ui-03)** · [原帖](https://x.com/patrickassale/status/2044569086013718958)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-03#ui-03"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-03.webp" width="480" alt="手写笔记本照片 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
+```
+
+<a id="ui-04"></a>
+### 683. 宋朝社交媒体动态
+
+作者 [@Panda20230902](https://x.com/Panda20230902) · 1:2 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-04#ui-04)** · [原帖](https://x.com/Panda20230902/status/2045385588065313057)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-04#ui-04"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-04.webp" width="320" alt="宋朝社交媒体动态 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+"宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名"苏东坡SuShi_Official"，发布内容"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱："，配图为工笔画风格的东坡肉特写，点赞列表"黄庭坚、秦观、佛印等126人"，评论区"王安石：呵呵""司马光：还是那个味道"，界面元素如点赞图标用宋代花纹替代，状态栏显示"大宋移动 5G"和"元丰三年"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作
+```
+
+<a id="ui-05"></a>
+### 684. 多平台内容截图
+
+作者 [@MrLarus](https://x.com/MrLarus) · 1:2 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-05#ui-05)** · [原帖](https://x.com/MrLarus/status/2045373105041007013)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-05#ui-05"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-05.webp" width="320" alt="多平台内容截图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+1、生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸
+2、生成抖音内容截图，主题：跟上AI浪潮9.9包教会，iPhone尺寸
+3、生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸
+4、生成快手内容截图：主题：直播离婚预告，iPhone尺寸
+```
+
+<a id="ui-07"></a>
+### 685. 太祖李成桂的 X 主页
+
+作者 [@SKA_Neotype](https://x.com/SKA_Neotype) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-07#ui-07)** · [原帖](https://x.com/SKA_Neotype/status/2044637900978217334)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-07#ui-07"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-07.webp" width="320" alt="太祖李成桂的 X 主页 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
+```
+
+<a id="ui-08"></a>
+### 686. 风格转界面设计系统
+
+作者 [@stark_nico99](https://x.com/stark_nico99) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-08#ui-08)** · [原帖](https://x.com/stark_nico99/status/2045836554451706125)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-08#ui-08"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-08.webp" width="320" alt="风格转界面设计系统 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮以及其它。把这套视觉风格作为参考生成网页。我尝试了宇宙、飞行、蝴蝶主题。
+```
+
+<a id="ui-09"></a>
+### 687. 桃太郎讲解幻灯片
+
+作者 [@yammamon](https://x.com/yammamon) · 3:2 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-09#ui-09)** · [原帖](https://x.com/yammamon/status/2045778624092254603)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-09#ui-09"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-09.webp" width="480" alt="桃太郎讲解幻灯片 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+「いらすとや」のほのぼのとした雰囲気と、「霞ヶ関スライド」の圧倒的な情報密度を融合させた、桃太郎の解説スライド（ポンチ絵）を作成して
+```
+
+<a id="ui-10"></a>
+### 688. 博物馆风汉服拆解信息图
+
+作者 [@MrLarus](https://x.com/MrLarus) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-10#ui-10)** · [原帖](https://x.com/MrLarus/status/2045504669401653414)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-10#ui-10"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-10.webp" width="320" alt="博物馆风汉服拆解信息图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
+
+要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
+
+整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。
+
+版式固定为：
+- 顶部：中文主标题 + 副标题 + 导语
+- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写
+- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明
+- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释
+- 底部：穿着顺序 / 构成流程图 + 核心特征总结
+
+若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
+
+避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
+```
+
+<a id="ui-11"></a>
+### 689. 手相诊断报告
+
+作者 [@agi_aibusi](https://x.com/agi_aibusi) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-11#ui-11)** · [原帖](https://x.com/agi_aibusi/status/2046530764871696750)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-11#ui-11"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-11.webp" width="320" alt="手相诊断报告 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+GPT-image-2でこの手相を診断して詳細な鑑定書を作って
+生命線・知能線・感情線・運命線・太陽線・財運線・結婚線を、線の形状・濃淡・枝分かれ・起点終点まで分析すること。
+助言を重点的に高品質な占い鑑定書にまとめること。
+```
+
+<a id="ui-12"></a>
+### 690. 书法字帖页
+
+作者 [@MrLarus](https://x.com/MrLarus) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-12#ui-12)** · [原帖](https://x.com/MrLarus/status/2046510310253539764)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-12#ui-12"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-12.webp" width="320" alt="书法字帖页 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+生成一张【字体】书法临摹字帖
+```
+
+<a id="ui-13"></a>
+### 691. 唐吉诃德促销波普海报
+
+作者 [@loglogrog](https://x.com/loglogrog) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-13#ui-13)** · [原帖](https://x.com/loglogrog/status/2046437230127034774)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-13#ui-13"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-13.webp" width="320" alt="唐吉诃德促销波普海报 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポップ風に実際のドンキに貼っているような感じで画像生成してください
+```
+
+<a id="ui-14"></a>
+### 692. 日本抽卡手游界面
+
+作者 [@the_wheel_2024](https://x.com/the_wheel_2024) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-14#ui-14)** · [原帖](https://x.com/the_wheel_2024/status/2046519658166317160)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-14#ui-14"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-14.webp" width="320" alt="日本抽卡手游界面 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+日本のソシャゲのガチャ画面を生成して、
+```
+
+<a id="ui-17"></a>
+### 693. 赛博朋克霓虹界面设计系统
+
+作者 [@AZLnfvp](https://x.com/AZLnfvp) · 3:2 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-17#ui-17)** · [原帖](https://x.com/AZLnfvp/status/2046468976092533180)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-17#ui-17"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-17.webp" width="480" alt="赛博朋克霓虹界面设计系统 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+用未来都市风格生成UI设计系统,灵感来自赛博朋克城市夜景,包含霓虹灯、玻璃建筑反射、高对比光影,配色以紫色、蓝色、粉色霓虹为主,设计网页Dashboard、移动端界面、卡片、按钮、控件等,视觉炫酷、层次丰富、科技感极强
+```
+
+<a id="ui-19"></a>
+### 694. 日本 AI 游戏开发概览幻灯片
+
+作者 [@ailovedirector](https://x.com/ailovedirector) · 3:2 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-19#ui-19)** · [原帖](https://x.com/ailovedirector/status/2046905387274891296)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-19#ui-19"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-19.webp" width="480" alt="日本 AI 游戏开发概览幻灯片 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+横長のパワポ画像ここで生成してみて　どのモデル使ってるか判定するから、今のAIゲーム開発の概要をまとめた1枚パワポで　日本語で
+
+ゲーム開発の技術に関して、工数ベースでどこにパワーかかるかの分析資料といかに量産が大事かについての説明とかのパワポ画も作って
+```
+
+<a id="ui-20"></a>
+### 695. 塞尔达风 PvP 游戏截图
+
+作者 [@khaiinit](https://x.com/khaiinit) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-20#ui-20)** · [原帖](https://x.com/khaiinit/status/2047219694130827273)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-20#ui-20"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-20.webp" width="480" alt="塞尔达风 PvP 游戏截图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+based on the generated character help me generate a screenshot of screenshot of an pvp game themed around *zelda: wind breaker*
+```
+
+<a id="ui-21"></a>
+### 696. 参考图风格的落地页
+
+作者 [@D_studioproject](https://x.com/D_studioproject) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-21#ui-21)** · [原帖](https://x.com/D_studioproject/status/2047212826264211540)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-21#ui-21"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-21.webp" width="320" alt="参考图风格的落地页 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Create a landing page using this image as a reference for style and color grading.
+```
+
+<a id="ui-23"></a>
+### 697. Apple Pods Pro 3 耳机电商信息图
+
+作者 [@meng_dagg695](https://x.com/meng_dagg695) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-23#ui-23)** · [原帖](https://x.com/meng_dagg695/status/2047935217231663186)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-23#ui-23"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-23.webp" width="320" alt="Apple Pods Pro 3 耳机电商信息图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+High-impact e-commerce infographic for "Apple Pods Pro 3" 
+premium wireless over-ear headphones.
+
+FOREGROUND - PRODUCT HERO SHOT
+Extreme close-up of a hand holding a sleek, 
+matte-white premium over-ear headphone toward the camera 
+at a slight angle. The headphone features:
+- Glossy white ear cushions with soft memory foam padding
+- Brushed aluminum silver headband with subtle Apple Pods 
+  Pro 3 embossed branding
+- Black mesh speaker grille visible on the ear cup face
+- A tiny glowing green LED status indicator on the 
+  right ear cup edge
+- Subtle touch-control icons etched on the outer cup surface
+
+Macro-lens shallow depth of field — hand and headphone 
+slightly blurred at edges to create cinematic depth. 
+Product remains razor-sharp in center frame.
+
+CENTRAL SUBJECT — MODEL
+In the mid-ground: a smiling young woman with freckles 
+and wavy pastel-pink hair. She wears:
+- A vibrant lime-green knit beanie
+- A psychedelic black and white-striped long-sleeve shirt
+- The white over-ear headphones resting stylishly 
+  around her neck (not on ears) — one hand casually 
+  touching the ear cup
+
+Expression: relaxed, confident, joyful. 
+She is glancing slightly off-camera with a natural smile.
+
+BACKGROUND & ATMOSPHERE
+Clean soft-focus studio backdrop — light gray gradient 
+fading to warm white at center. 
+
+Atmospheric overlays:
+- Diagonal rainbow prism lens flares cutting across 
+  upper-left to lower-right
+- Soft pastel light leaks in pink and yellow at corners
+- 4–5 blurred white over-ear headphones floating 
+  artistically in the background at various depths 
+  and rotation angles
+- Subtle bokeh circles from background studio lights
+
+Lighting: Soft professional three-point studio lighting. 
+Key light from upper-left, fill light right side. 
+Rim light behind model for separation. 
+Glossy highlights on headphone surfaces catching light naturally.
+
+TYPOGRAPHY & LAYOUT — Sans-Serif, Clean white 
+TOP CENTER (behind model, large background text):
+→ Massive bold oversized text: "HEADPHONES"
+   Semi-transparent white, spanning full width behind subject
+
+TOP RIGHT CORNER:
+→ Bold clean text: "Apple Pods Pro 3"
+   Subtitle smaller text: "Over-Ear Wireless"
+
+MID LEFT:
+→ Icon: small sound wave symbol
+→ Bold text: "Premium Sound"
+→ Sub-text: "Active Noise Cancellation + Transparency Mode"
+
+MID RIGHT:
+→ Extra-large bold numeral: "40"
+→ Smaller text below: "hours of battery life"
+
+LOWER LEFT:
+→ Extra-large bold numeral: "0"
+   with "to" beside it → then bold "100%"
+→ Sub-text: "Fast charge — 10 min = 3hrs playback"
+
+BOTTOM RIGHT:
+→ Extra-large bold numeral: "1"
+→ Sub-text: "Year Warranty Included"
+
+BOTTOM CENTER (fine print style):
+→ Small elegant text: 
+   "Bluetooth 5.4  |  Hi-Res Audio Certified  
+    |  Foldable Design  |  USB-C Charging"
+
+TECHNICAL SPECS
+Resolution: 8K ultra-sharp
+Style: Commercial product photography meets 
+       editorial fashion advertising
+Color Palette: White, lime green, pastel pink, 
+               rainbow prism accents
+Focus: Tack-sharp on headphone product — 
+       shallow DOF on everything else
+Lens: 85mm macro, slight low angle
+Render Quality: Hyperrealistic, clean ad aesthetic, 
+                vibrant yet professional color grading
+```
+
+<a id="ui-24"></a>
+### 698. Apple Pods Pro 3 耳塞电商信息图
+
+作者 [@rovvmut_](https://x.com/rovvmut_) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-24#ui-24)** · [原帖](https://x.com/rovvmut_/status/2047912710365761828)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-24#ui-24"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-24.webp" width="320" alt="Apple Pods Pro 3 耳塞电商信息图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
+```
+
+<a id="ui-25"></a>
+### 699. 美妆产品商业营销摄影
+
+作者 [@AIwithSarah_](https://x.com/AIwithSarah_) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-25#ui-25)** · [原帖](https://x.com/AIwithSarah_/status/2047904483359760677)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-25#ui-25"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-25.webp" width="320" alt="美妆产品商业营销摄影 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A high-resolution commercial marketing photograph features a young woman with sleek dark hair and a pink ribbed top in a neutral grey studio setting, centered behind a glossy Ellie Beauty spray bottle held prominently in the foreground. The composition is energized by vibrant, lime-green graphic "swooshes" and floating pill-shaped callouts that highlight product features like "glossy finish" and "upto 450°F protection" in bold black sans-serif text. The lighting is professionally diffused, casting soft highlights on the model’s face while creating a sharp, vertical reflection on the metallic green-to-gold gradient bottle label. Topping the scene is a large, lime-green headline in the upper right asking, "What does it do?", altogether creating a clean, modern, and high-contrast aesthetic with a shallow depth of field that keeps the product and the model's focused expression in sharp relief.
+```
+
+<a id="ui-26"></a>
+### 700. 3A 游戏截图概念设计
+
+作者 [@ChiefMonkeyMike](https://x.com/ChiefMonkeyMike) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-26#ui-26)** · [原帖](https://x.com/ChiefMonkeyMike/status/2047828814580138156)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-26#ui-26"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-26.webp" width="480" alt="3A 游戏截图概念设计 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+generate screenshots from a AAA video game based off what The Sims Castaways sequel could look like. https://t.co/aL7hMdUYvj
+```
+
+<a id="ui-27"></a>
+### 701. 西班牙语晨间美妆缩略图
+
+作者 [@S0N_IA_](https://x.com/S0N_IA_) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-27#ui-27)** · [原帖](https://x.com/S0N_IA_/status/2047414367243657296)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-27#ui-27"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-27.webp" width="320" alt="西班牙语晨间美妆缩略图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A vertical 9:16 TikTok-style GRWM beauty thumbnail set in a warm, sunlit Mediterranean-inspired bedroom. A stylish young woman with {argument name="hair color" default="dark brown"} hair in a messy curly updo sits at a marble vanity, leaning forward with one arm folded and the other hand applying lip balm or lipstick to her mouth. Her face is covered by a centered rectangular blur block for privacy, but the rest of her styling is elegant and natural: tan glowing skin, delicate gold necklace with a small round pendant, thin gold bracelet, stacked gold rings, and a white lace camisole with thin straps. In the foreground on the vanity are exactly 7 visible beauty objects: 1 round tabletop vanity mirror on the left, 1 cup holding 5 makeup brushes, 1 clear glass dropper bottle, 1 tall white pump skincare bottle, 1 small black dropper bottle, 1 beige rounded cosmetic sponge or puff, and 1 pale green squeeze tube on the right. The background shows a softly blurred cozy bedroom with 1 arched window on the left, 1 leafy potted plant, 1 bed with white bedding and a mustard accent pillow, exposed wooden ceiling detail, and 1 framed landscape painting on the wall. Use golden-hour sunlight streaming from the left, soft shadows, creamy skin tones, shallow depth of field, luxury lifestyle editorial photography, intimate self-care mood, polished but natural composition. Add bold playful Spanish headline text in the upper left in three stacked lines reading {argument name="headline text" default="Mi rutina de belleza matutina"}, with each line large and rounded, white outline and soft drop shadow, using pastel colors: first line white, second line pink, third line pale yellow. Add 3 pink doodle accent strokes above the headline, 1 curved pink underline-swoosh beneath it, and 1 small yellow sun icon to the right of the last line. Place a clean white {argument name="brand text" default="Pollo.ai"} logo in the upper right. High-end influencer thumbnail aesthetic, crisp product focus in foreground, warm inviting lifestyle scene.
+```
+
+<a id="ui-28"></a>
+### 702. 电影感城市爆炸追逐
+
+作者 [@Gugombly](https://x.com/Gugombly) · 3:2 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-28#ui-28)** · [原帖](https://x.com/Gugombly/status/2047310862428303636)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-28#ui-28"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-28.webp" width="480" alt="电影感城市爆炸追逐 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A cinematic photorealistic action scene in a rainy downtown city street canyon, showing {argument name="main subject" default="a dark-haired man in his 30s"} sprinting directly toward the camera in the center foreground with a tense survival expression, wearing a soaked dark jacket, dark shirt, and dark pants, mid-stride with one arm pumping forward. Behind him, a massive urban explosion tears through the street and lower facade of a high-rise building, sending a huge cloud of smoke, fire, dust, shattered concrete, glass, and metal debris outward in all directions. The scene includes exactly 3 visible damaged vehicles: 1 dark sedan in the left foreground with headlights on and a crumpled hood splashing through rainwater, 1 wrecked dark car in the right midground with severe front-end damage, and 1 overturned or airborne black SUV tilted upward behind it on the right side. Wet asphalt reflects headlights, firelight, and gray skyscrapers. Dense debris fills the air, with chunks of rubble frozen in motion. Overcast stormy daylight, desaturated blue-gray color palette with orange fire accents, dramatic motion blur in flying debris but sharp focus on the running figure, low-angle wide-lens composition, blockbuster disaster-movie realism, ultra-detailed textures, high contrast, dynamic depth, volumetric smoke, rain spray, cinematic lighting. Add a white {argument name="watermark text" default="Pollo.ai"} logo in the top-right corner.
+```
+
+<a id="ui-29"></a>
+### 703. 动漫虚拟主播我的世界直播缩略图
+
+作者 [@rerxmsz06](https://x.com/rerxmsz06) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-29#ui-29)** · [原帖](https://x.com/rerxmsz06/status/2047261622121705782)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-29#ui-29"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-29.webp" width="480" alt="动漫虚拟主播我的世界直播缩略图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a wide 16:9 composition, with a neon purple and pink streamer room. Center the scene on a cute catgirl VTuber sitting at a desk, shown from the waist up, leaning forward energetically with one hand on a computer mouse and the other hand reaching toward the viewer. She has {argument name="hair color" default="light orange-blonde"} bob-cut hair with soft bangs, fluffy brown-and-cream cat ears, and a visible cat tail. Her face is intentionally obscured by a solid rectangular censor block in the center. She wears a black-and-white maid-inspired outfit with a frilly white blouse, black dress bodice, puff sleeves, white ruffles, black ribbon bow, and a gold bell choker. Place a mechanical keyboard with bright RGB lighting on the desk, a glowing gaming mouse, and a streamer microphone on the far left with pink-purple LED lighting. Put 2 cat-themed desk items in the foreground: a plush cat face on the bottom left and a black cat-shaped mug on the bottom right. Behind her is a gaming chair with paw-print details. On the left side, add large bold Korean headline text in thick white block letters with black fill shadows and a glowing purple outline, stacked in 2 lines: {argument name="headline text" default="방송중 대참사"}. Below it, add a smaller yellow comic-style burst caption with black outline reading {argument name="sub text" default="> 크리퍼 실화냐"}. On the right side, show 1 large computer monitor angled inward, displaying a Minecraft-like scene with bright blue sky, green trees, water, and a large green Creeper popping out toward the viewer, outlined dramatically like a sticker cutout. Add starburst effects and neon accents around the monitor to heighten the chaos. Use exaggerated thumbnail aesthetics: ultra-saturated colors, sharp cel shading, thick outlines, glossy highlights, high contrast, dynamic perspective, and a clickworthy streamer-disaster mood.
+```
+
+<a id="ui-30"></a>
+### 704. 治愈动漫 ASMR 采耳少女
+
+作者 [@Shion_yamabuki](https://x.com/Shion_yamabuki) · 3:2 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-30#ui-30)** · [原帖](https://x.com/Shion_yamabuki/status/2047232198382964969)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-30#ui-30"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-30.webp" width="480" alt="治愈动漫 ASMR 采耳少女 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bedroom at night, seated close to the viewer with her knees pulled up and a black 3Dio-style binaural microphone centered in front of her. She has {argument name="hair color" default="deep violet"} hair in a loose messy updo with wispy bangs framing her face, large sparkling {argument name="eye color" default="blue"} eyes, a gentle blush, and a sweet open-mouth smile. Her head is tilted slightly toward the viewer in a warm, affectionate pose. She wears a delicate white lace camisole with thin straps and an oversized fluffy knit cardigan in {argument name="cardigan color" default="soft pink-lavender"} draped off her shoulders, creating a tender, intimate late-night healing atmosphere. Both hands lightly touch the white silicone ears of the microphone as if about to give an ear massage. The room is softly lit with pink and amber ambient lighting, heavy curtains in the background, a bed or sofa with plush cushions, warm fairy-light bokeh, and a small plant on the right side. Add glowing handwritten Japanese neon text integrated into the composition: on the left, 4 text elements reading "とろける", "耳", "マッサージ", and "ASMR" with 2 small heart symbols; on the right, vertical text reading "いっぱい癒してあげるね...♡". Use a polished modern anime style, highly detailed face and hair, glossy eyes, smooth luminous skin, soft shading, pastel highlights, shallow depth of field, romantic cozy streamer-thumbnail composition, and a soothing feminine color palette dominated by pink, lavender, cream, and warm gold.
+```
+
+<a id="ui-36"></a>
+### 705. 赛博朋克 404 女巫召唤
+
+作者 [@Eris_Create_Lab](https://x.com/Eris_Create_Lab) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-36#ui-36)** · [原帖](https://x.com/Eris_Create_Lab/status/2047537707904274795)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-36#ui-36"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-36.webp" width="320" alt="赛博朋克 404 女巫召唤 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a dense futuristic city at night, viewed from a slightly elevated angle. The main subject is a petite young witch girl with pale skin, short icy blue bobbed hair, pointed elf-like ears, and glowing red eyes, wearing a sly confident smile. She raises a black wand overhead in her right hand, with a dangling orb charm at the tip glowing faintly purple and red. Her oversized crooked witch hat is black with purple lining and covered in stitched patches, warning labels, straps, and white graphics including a large “404” and a skull emblem. She wears a black and purple techwear outfit: oversized hooded jacket with many straps and tags, black crop top with “404” on the chest, layered belts, short bottoms, fishnet on one leg, black lace-up combat boots, chokers, and metallic accessories. Several hanging straps and tags visibly read words like “WITCH 404,” “404,” and glitch-themed markings. Beneath and beside her, a large glowing violet magic circle mixed with hacker interface aesthetics is projected on the rooftop floor, filled with occult rings, sigils, a central skull symbol, and scattered neon system text such as error-code fragments, creating a fusion of sorcery and digital corruption. Emerging from the circle is 1 large armored summoned figure: a black futuristic demon-knight or robotic familiar with jagged reflective armor, a narrow purple-lit visor, and a heavy weapon held in one hand, partially dissolving into purple energy shards and smoke. The background shows a sprawling rainy megacity of apartment towers and industrial rooftops, packed with windows, balconies, cables, signs, and haze. On a nearby building wall is a giant vertical graffiti-style sign with 3 readable elements: “404”, “Witch”, and “ERROR NOT FOUND”, plus a smaller “E404”. Additional purple neon glitch text and symbols are scattered across rooftops and in the air. Use a dark palette of black, indigo, and deep violet with sharp magenta-purple highlights, cinematic contrast, reflective wet surfaces, dense detail, and a high-end polished illustration style. The mood is occult, edgy, stylish, and dangerous, combining urban fantasy, hacker aesthetics, and magical summoning.
+```
+
+<a id="ui-38"></a>
+### 706. 动漫音乐集训宣传海报
+
+作者 [@sorane_aimusic](https://x.com/sorane_aimusic) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-38#ui-38)** · [原帖](https://x.com/sorane_aimusic/status/2047507066697507134)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-38#ui-38"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-38.webp" width="320" alt="动漫音乐集训宣传海报 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a dramatic Japanese anime-style promotional thumbnail poster for an event, vertical 4:5 composition, ultra-detailed, cinematic, neon-lit, high contrast, designed like a social media announcement image. The main subject is a beautiful anime girl centered slightly right, shown from the waist up, with long flowing {argument name="hair color" default="deep blue"} hair blowing in the wind, decorated with small star hairpins, wearing a dark hoodie and large studio headphones around her neck, against a glowing sunset-to-night city skyline filled with sparkling lights, music-energy particles, lens flares, and flying glowing petals. Her face area is obscured by a soft rectangular blur block. Use a vivid palette of electric blue, violet, magenta, gold, and sunset orange. Fill the design with layered Japanese typography that is crisp, readable, and integrated into the art like a polished event advertisement. Include exactly 8 major text groups: top left copy reading 「始まるのは、キミと創る 音楽の物語。」 with a smaller subcopy beneath reading 「AIを使って、みんなで音楽をつくる特別な3日間。」; top right a glowing marquee sign reading 「GW連休!」 and a smaller neon box below reading 「みんなで最高の音楽をつくろう!」; center main title with small English text 「AI MUSIC BOOTCAMP 2」 above huge Japanese title text 「AI音楽 ブートキャンプ 2」; a gigantic gold metallic announcement across the middle reading 「開催決定!」; a date bar reading 「開催期間」 followed by 「5.2 SAT 土」 and 「5.4 MON 月」; a hashtag callout near the bottom reading 「参加はカンタン!! #AI音楽ブートキャンプ2 をつけて投稿するだけ!」; a lower encouragement line reading 「初心者も大歓迎! みんなで最高の音楽体験を!」; and 3 bottom feature captions with icons reading 「一緒に学ぶ 仲間とつながる」, 「AIで創る 新しい音楽体験」, and 「想いをカタチに 自分だけの1曲を」. On the left edge, add a vertical filmstrip with exactly 4 inset panels showing the same girl in music-related scenes: 1) performing on a stage before a crowd, 2) working at a music production desk with screens and equipment, 3) singing into a microphone, 4) playing an acoustic guitar. Add exactly 2 neon music-themed icon illustrations in the lower area: a tilted smartphone with a music note on the lower left and a glowing microphone with musical notes on the lower right. Make the text effects glossy, luminous, and embossed with gold and white highlights, with energetic streaks and spark explosions around the headline. The overall feeling should be inspiring, celebratory, futuristic, and emotionally uplifting, like a high-impact Japanese Golden Week music bootcamp ad for {argument name="event name" default="AI音楽ブートキャンプ 2"}.
+```
+
+<a id="ui-39"></a>
+### 707. 热带鹦鹉像素马赛克
+
+作者 [@erikmackinnon](https://x.com/erikmackinnon) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-39#ui-39)** · [原帖](https://x.com/erikmackinnon/status/2048190288179675290)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-39#ui-39"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-39.webp" width="480" alt="热带鹦鹉像素马赛克 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown branch in the middle of dense rainforest foliage. The entire image is rendered as a tight grid of tiny square tiles with visible black outlines, creating a stained-glass or LED-screen effect. The bird is shown in side profile facing right, with a large curved black beak, a pale cream face, a bright red-orange forehead and throat, vivid green upper body, and long wings and tail in saturated blue and cyan. The surrounding jungle is filled edge to edge with layered green leaves in many shades, with a soft light green glow behind the parrot to separate it from the background. High color contrast, rich tropical palette, crisp tile pattern, centered composition, decorative digital mosaic aesthetic.
+```
+
+<a id="ui-40"></a>
+### 708. 温室酒吧里的金色鸡尾酒
+
+作者 [@FernandesK47117](https://x.com/FernandesK47117) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-40#ui-40)** · [原帖](https://x.com/FernandesK47117/status/2048183925294371147)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-40#ui-40"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-40.webp" width="320" alt="温室酒吧里的金色鸡尾酒 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A cinematic vertical photo of a hand holding up a large balloon wine glass filled with a sparkling golden-yellow citrus cocktail in a lush indoor greenhouse bar. The drink is backlit by warm late-afternoon sunlight, making it glow translucent amber. Inside the glass there is 1 visible citrus wedge, and at the rim there is 1 fresh mint garnish cluster. The hand enters from the lower left, delicately gripping the stem, wearing 1 chunky translucent amber bracelet. The setting is dense with tropical greenery, hanging ferns, and vine-covered walls, with a bright greenhouse roof structure visible overhead and 2 warm exposed hanging bulbs softly glowing in the background. Use shallow depth of field with creamy bokeh, strong sun rays filtering through leaves, soft haze, and rich green-and-gold color contrast. Add a blurred foreground leaf or plant along the right edge to frame the composition. The lower background should suggest a busy café or cocktail lounge with indistinct people, but keep them heavily out of focus. Photorealistic, elegant lifestyle photography, moody yet sun-drenched, shot from a low angle looking upward at the raised glass, high detail on condensation, glass reflections, and the luminous drink.
+```
+
+<a id="ui-41"></a>
+### 709. 多格图板模板
+
+作者 [@aimikoda](https://x.com/aimikoda) · 4:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-41#ui-41)** · [原帖](https://x.com/aimikoda/status/2048183782876778821)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-41#ui-41"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-41.webp" width="480" alt="多格图板模板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a {argument name="grid layout" default="4x3"} borderless grid where each panel is an independent image of the {argument name="subject" default="a young woman"}. Maintain strong subject consistency across all panels, with consistent color and lighting. Depict {argument name="theme" default="childhood memories"} with a {argument name="mood" default="warm, nostalgic"} mood in {argument name="style" default="nostalgic cinematic realism"} style. No text. No gap.
+```
+
+<a id="ui-42"></a>
+### 710. 手写逼真信件
+
+作者 [@mosthssan](https://x.com/mosthssan) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-42#ui-42)** · [原帖](https://x.com/mosthssan/status/2048160477658980711)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-42#ui-42"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-42.webp" width="320" alt="手写逼真信件 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a highly realistic image of a handwritten letter containing a ({argument name="message" default="message or reflection carrying meanings of affection and loyalty to my account followers"}) on lined paper, with very touching words written in liquid ink pen
+```
+
+<a id="ui-44"></a>
+### 711. 动漫少女与男子约会拼贴照
+
+作者 [@AIillust_studio](https://x.com/AIillust_studio) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-44#ui-44)** · [原帖](https://x.com/AIillust_studio/status/2048099186214900130)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-44#ui-44"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-44.webp" width="480" alt="动漫少女与男子约会拼贴照 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A 4x4 photo collage of 16 warm, cinematic lifestyle snapshots featuring a real adult man and an anime-style young woman companion posed together as if in casual date photos. The man has short dark hair, light skin, an average build, and wears a plain dark navy or black long-sleeve shirt; his face is intentionally obscured and softly blurred in every frame. The anime girl has long blonde twin ponytails, large blue eyes, light skin, and a slim petite build, wearing a black sleeveless top, layered silver necklaces including a cross pendant, black wrist accessories, a red plaid pleated mini skirt, and black-and-white striped thigh-high socks. Blend realistic photography with a convincingly integrated 2D anime character, keeping her clean cel-shaded look while matching the scene lighting, perspective, focus, and color grading so she appears naturally present beside him. Use moody evening tones, soft bokeh, shallow depth of field, and intimate candid couple energy. The 16 panels are: 1) close indoor portrait with both seated close together, the girl resting beside him; 2) nighttime city street side profile conversation under blurred streetlights; 3) indoors, both reading a book together, the girl leaning on his shoulder; 4) outdoor cafe table, both holding takeaway coffee cups; 5) restaurant table with multiple dishes visible, dining together; 6) mirror selfie in an elevator, the man holding a smartphone while the girl makes a peace sign; 7) car interior road-trip shot, the man driving and the anime girl in the passenger seat; 8) seaside sunset from behind, both sitting side by side watching the ocean; 9) neon-lit city night portrait, the girl pointing toward the camera; 10) intimate elevator close-up, the girl with eyes closed leaning affectionately against him; 11) full mirror selfie in an elevator showing more of both outfits; 12) night city skyline portrait with a lit tower in the background; 13) camera selfie close-up, the man holding a compact camera toward a mirror or reflective surface; 14) cozy indoor lounge moment, the man holding a glass of red wine while the girl smiles and makes a peace sign; 15) rear full-body rainy night street shot, the pair walking away hand in hand under glowing streetlights; 16) extreme close-up night portrait with the girl flashing a peace sign. Keep the collage tightly gridded with thin white dividers, square overall format, consistent amber-brown color grading, romantic urban realism, and subtle social-media photo-dump aesthetics.
+```
+
+<a id="ui-45"></a>
+### 712. 奢华生活野马照片
+
+作者 [@Just_sharon7](https://x.com/Just_sharon7) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-45#ui-45)** · [原帖](https://x.com/Just_sharon7/status/2048095904138485962)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-45#ui-45"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-45.webp" width="320" alt="奢华生活野马照片 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A stylish young woman with {argument name="hair style" default="long wavy blonde hair"}, defined cheekbones, and a confident expression, wearing black sunglasses and a {argument name="clothing" default="thick white puffer jacket"} over a fitted black top, standing confidently in front of a {argument name="car" default="vibrant hot-pink Ford Mustang"}. She is posing with one hand slightly raised near her chest, exuding effortless attitude and elegance. The car is parked on a scenic coastal road lined with blooming pink cherry blossom trees and tall palm trees. Behind them is a calm sea under a dramatic overcast sky with soft clouds. Pink petals are scattered on the wet asphalt. A wooden bench is visible on the left side near the water. Cinematic lighting, photorealistic, ultra-detailed skin texture, natural lighting reflections, Instagram-style luxury lifestyle shot, vibrant colors, moody atmosphere, 8k resolution --ar 9:16 --stylize 250
+```
+
+<a id="ui-47"></a>
+### 713. 哥特机器人战士大教堂主视觉
+
+作者 [@yanagihara_0805](https://x.com/yanagihara_0805) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-47#ui-47)** · [原帖](https://x.com/yanagihara_0805/status/2048085829713842405)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-47#ui-47"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-47.webp" width="320" alt="哥特机器人战士大教堂主视觉 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A cinematic dark fantasy anime illustration in a ruined gothic cathedral, vertical composition. Show a lone female android-like warrior from behind, centered slightly low in frame, kneeling or sitting back on her heels on a reflective stone floor. She has extremely long flowing {argument name="hair color" default="silver white"} hair spreading across the floor and air, a sleek black blindfold visor covering her eyes, and a black high-cut gothic combat dress with elegant straps, long black opera gloves, and thigh-high black boots. Her physique is slim and graceful. She holds 1 large ornate sword upright in front of her, with both hands resting on the hilt, the blade planted on the ground like a memorial. The sword has a dark blade and a decorative gold ring-like guard near the handle. The atmosphere is solemn, tragic, and reverent. Place 3 tall pointed arched windows in the background, glowing with cold white backlight through haze and dust. Include 4 stone angel statues total: 2 larger angels in the left background and 2 in the right background, partially obscured by fog and darkness. Fill the air with drifting ash, snow-like particles, black debris fragments, and a few faint orange embers near the floor. Use dramatic volumetric light rays, soft bloom, smoky mist, high contrast, and a desaturated palette of charcoal gray, silver, blue-gray, and black. The scene should feel like a memorial after a battle, highly detailed, ultra-polished, melancholic, ethereal, and game key art inspired by {argument name="franchise title" default="NieR:Automata"}. Add 1 vertical Japanese title inscription near the lower left reading {argument name="vertical text" default="儚き夢と共にあれ"}, with 1 small vertical English subtitle beside it reading {argument name="subtitle text" default="NieR:Automata"}.
+```
+
+<a id="ui-48"></a>
+### 714. 云朵形状涂鸦生成
+
+作者 [@Gorden_Sun](https://x.com/Gorden_Sun) · 5:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-48#ui-48)** · [原帖](https://x.com/Gorden_Sun/status/2048080137149899133)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-48#ui-48"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-48.webp" width="480" alt="云朵形状涂鸦生成 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Based on the shape of the {argument name="subject" default="clouds"} in the image, identify what object, animal, or person they most resemble. Do not change the original image; instead, draw that object, animal, or person over the original image in a {argument name="art style" default="doodle"} style.
+```
+
+<a id="ui-50"></a>
+### 715. 居酒屋实景里的动漫角色
+
+作者 [@sub_raw_jin](https://x.com/sub_raw_jin) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-50#ui-50)** · [原帖](https://x.com/sub_raw_jin/status/2048066779835220392)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-50#ui-50"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-50.webp" width="480" alt="居酒屋实景里的动漫角色 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A candid indoor restaurant photo in a realistic anime-inspired style, showing two young women seated at a small worn wooden table inside a cozy Japanese izakaya with vertical wood-paneled walls and a clear plastic tent-like curtain on the right side. The camera is slightly above table height and angled diagonally toward the table, creating a casual snapshot feeling. One woman is in the left foreground with her back mostly to the viewer, leaning forward over the table; she has long straight dark hair and wears a bulky dark navy or black puffer jacket with a large hood. The second woman sits across from her on the right, facing the camera with a relaxed posture and one arm bent on the table; she has shoulder-length dark brown to black hair, a center part, a black puffer jacket, and a light inner shirt. Replace only the people with clean, natural-looking anime characters while keeping the restaurant environment photorealistic and unchanged. Preserve the mixed-media look of anime characters composited believably into a real photo. On the table, include 2 stainless steel mugs, 2 pairs of chopsticks, 1 smartphone with a bright blue case near the center-left edge of the table, 1 cigarette pack near the right woman, 1 large oval plate with thinly sliced white onions and a lemon wedge, 1 small dish of green vegetables, 1 small plate of brown food, 1 small plate with toast or grilled bread, 1 small dark bowl, 2 small empty white bowls, and 1 printed handwritten Japanese menu sheet lying on the lower right corner of the table. In the upper left background, include a wooden counter with white ceramic bottles and dishes, plus 1 handwritten Japanese wall menu poster. Warm indoor lighting, everyday nightlife atmosphere, documentary realism, detailed wood grain, slightly cluttered tabletop, authentic casual dining scene in Japan.
+```
+
+<a id="ui-51"></a>
+### 716. 冬季帐篷里的动漫露营者
+
+作者 [@sub_raw_jin](https://x.com/sub_raw_jin) · 2:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-51#ui-51)** · [原帖](https://x.com/sub_raw_jin/status/2048066779835220392)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-51#ui-51"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-51.webp" width="480" alt="冬季帐篷里的动漫露营者 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A cozy winter camping scene inside a large beige canvas tent, rendered as a semi-realistic anime illustration with natural lighting and realistic environmental detail. Show exactly 2 seated young women around a compact kerosene heater used as a camp table, with a large black metal pot resting on top. The viewpoint is a candid wide-angle photo composition from slightly above seated height, making the scene feel like a casual snapshot taken inside the tent. The woman on the left has {argument name="hair color" default="dark brown"} hair tied in a high ponytail with loose bangs, and wears a fluffy brown fleece jacket, dark pants, and a red lanyard with an ID card. She sits in a low camping chair and leans forward, using chopsticks over a small bowl or food container in her hands. The woman on the right has {argument name="hair color" default="black"} shoulder-length hair and wears a muted purple hoodie layered under a black puffer vest, light gray sweatpants, and dark shoes. She sits in another low camping chair, resting her cheek on one hand in a relaxed, sleepy pose. Keep both faces obscured by a soft rectangular blur block, as if anonymized in a posted photo. Around them, include exactly 4 red beverage cans visible in the scene: 2 on the wooden table planks near the center, 1 cropped in the lower right foreground, and 1 farther back near the right side. Build a low U-shaped arrangement of 3 wooden bench planks surrounding the heater. Add small camping details: 1 olive duffel bag on the left ground, 1 plastic storage box with supplies behind the left woman, 1 white plastic shopping bag on top of the box, 1 small bowl on the table, 1 colorful snack package on the right-side plank, 1 soft brown cloth on the far left floor, and 1 black metal rack frame standing at the back right. The tent interior should have taut canvas walls, visible seams and support poles, a gravel ground, and a warm muted color palette. Preserve the feeling of a real camping photo where only the people have been turned into anime-style characters while the setting remains highly realistic.
+```
+
+<a id="ui-52"></a>
+### 717. 宝马性能社交海报
+
+作者 [@harboriis](https://x.com/harboriis) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-52#ui-52)** · [原帖](https://x.com/harboriis/status/2048063332624843046)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-52#ui-52"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-52.webp" width="320" alt="宝马性能社交海报 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Create a 4:5 vertical social poster in ultra high resolution, 8K print quality sharpness. Use the {argument name="car model" default="BMW car"} from the reference image as the main subject and use the background structure/composition from the reference image, but transform it into a BMW themed design. Replace all black tones with a flat {argument name="background color" default="high-saturation BMW blue"} background. Keep the same layout, spacing, visual balance, and poster composition from the reference image. Background should use a smooth gradient from slightly lighter electric blue at the top to deep navy blue at the bottom. Add subtle grain texture (2 to 3%) and faint rectangular overlays (2 to 4% opacity). Keep it clean, graphic, premium, and non-realistic. Add a soft contact shadow under the car. Use the same BMW from the reference image, changing only the {argument name="paint finish" default="matte frozen blue"} or deep metallic navy. Keep the original body shape, wheels, stance, and design details from the reference image. Show the car in a rear 3/4 perspective matching the reference image angle exactly. Use a slightly elevated camera angle. Position the car slightly right of center. Include visible carbon roof, aggressive rear diffuser, sharp controlled reflections, and subtle brake details. Keep composition identical to the reference image: Top: branding Middle: giant type Center: car overlapping text Bottom: editorial block and specs Typography: Primary text: “BMW” Ultra condensed bold sans serif, tall vertical scaling like the reference poster. Color deep navy or near black. Static text with no distortion. Acts as structural backdrop. Secondary header: “BMW M4 G82” Thin font with wide tracking. Logo area: BMW roundel centered above. Editorial block: Headline: “BMW — Where Driving Becomes Instinct” Body copy focused on: driver connection control performance precision Use the same boxed editorial layout as the reference image. Background faded text: “M4” large scale with 3 to 5% opacity behind the box. Bottom left: “ M4 G82” Bottom right specs: 405 kW / 550 PS 3.4 s 307 km/h Lighting should be clean studio lighting with sharp but controlled highlights. Color grading should use deep blues, high contrast, clean blacks. Camera lens: 50mm, slightly elevated rear 3/4 angle. Mood: Performance. Precision. Driver focus. Add Bottom-right watermark: harboriis , with small x and Instagram logo
+```
+
+<a id="ui-53"></a>
+### 718. 电影感鸡肉馍馍广告海报
+
+作者 [@Diplomeme](https://x.com/Diplomeme) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-53#ui-53)** · [原帖](https://x.com/Diplomeme/status/2048060325925470358)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-53#ui-53"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-53.webp" width="480" alt="电影感鸡肉馍馍广告海报 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A hyper-realistic cinematic street-food advertisement poster for {argument name="brand name" default="Licious"} frozen {argument name="product name" default="Chicken Momos"}, shot in a dark premium studio with dramatic moody lighting, deep navy-black background, glossy black tabletop, and high contrast commercial food photography styling. The composition is a square social-media ad layout with oversized bold condensed white sans-serif headline text on the left reading {argument name="headline text" default="PERFECTLY MADE."} stacked across two lines, and a smaller white subheadline beneath it reading {argument name="tagline text" default="PRECISION IN EVERY BITE."}. Along the far left edge, add thin vertical small caps text reading “FRESH • CLEAN • CONTROLLED”. Across the upper-right background, repeat the phrase “CUT / STEAM / SERVE / REPEAT” in a subtle dark gray pattern, and faintly repeat “CUT / STEAM / SERVE / REPEAT” again near the bottom-left floor area as perspective text. Feature exactly 6 momos total: 5 intact steamed chicken momos floating and arranged dynamically across the center and right side, and 1 split-open momo in the center revealing juicy orange-brown chicken filling with herbs, with a glossy red-orange sauce droplet dripping downward from the opened dumpling. Scatter small chili flakes, herb bits, and seasoning particles suspended in the air around the momos for explosive motion. Place exactly 3 retail product boxes on the right side, staggered in depth, black packaging with the {argument name="brand name" default="Licious"} logo and red product title “CHICKEN MOMOS,” including food photography of the dumplings on the box front. At the bottom right foreground, place 1 small black bowl filled with bright red dipping sauce. Add a thin footer line of small white text across the bottom reading “CHICKEN MOMOS • FRESHLY PREPARED • 2026 EDITION” and place “licious.com” in the lower-right corner. Use premium ad design, ultra-detailed food texture, glossy highlights on the dumplings, subtle steam sheen, crisp typography, shallow depth of field, and a polished high-end commercial campaign aesthetic.
+```
+
+<a id="ui-54"></a>
+### 719. 怀旧 16 张情侣照片网格
+
+作者 [@zenkaiAI](https://x.com/zenkaiAI) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-54#ui-54)** · [原帖](https://x.com/zenkaiAI/status/2048051889460437351)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-54#ui-54"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-54.webp" width="480" alt="怀旧 16 张情侣照片网格 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+{"type":"16-photo nostalgic contact sheet collage","style":"dreamy film photography, soft blur, slightly underexposed, candid youthful romance, flash snapshots mixed with ambient dusk light, subtle grain, sentimental and bittersweet mood","subject":{"people_count":2,"relationship":"young couple or former lovers spending time together","ages":"early 20s","appearance":{"male":{"build":"slim","hair":"short dark hair","clothing":"loose white short-sleeve shirt, camera strap around neck in several shots"},"female":{"build":"slim","hair":"shoulder-length dark hair","clothing":"light sleeveless tops or soft casual summer clothes"}},"faces":"intentionally obscured by soft rectangular blur blocks over every visible face"},"layout":{"grid":{"rows":4,"columns":4,"count":16,"border":"thin white dividers, equal square cells"},"images":[{"position":"row 1 col 1","description":"close cropped portrait of the woman in a white top at night, soft flash, dark background"},{"position":"row 1 col 2","description":"close cropped blurred two-person selfie framing, both subjects partially visible, dark nighttime setting"},{"position":"row 1 col 3","description":"young man standing at night and holding a compact silver camera up to his face, white shirt, distant lights behind him"},{"position":"row 1 col 4","description":"woman on a beach or shoreline in low light, softly blurred, ocean horizon behind her"},{"position":"row 2 col 1","description":"street candid of the man holding a camera near his face while walking outdoors in the evening, urban background with motion blur"},{"position":"row 2 col 2","description":"close-up of the woman indoors or in a dim warm setting, hand raised near her face, flash-lit snapshot"},{"position":"row 2 col 3","description":"blurred two-shot of the couple sitting close together by water at dusk, intimate candid composition"},{"position":"row 2 col 4","description":"young man outdoors in greenery during daytime or early evening, looking down at a camera in his hands, white shirt and camera strap visible"},{"position":"row 3 col 1","description":"woman close to the camera giving a peace sign, casual sleeveless top, sandy or beachlike background"},{"position":"row 3 col 2","description":"back view of the man in a white shirt looking out over a cityscape at night from a high vantage point"},{"position":"row 3 col 3","description":"woman indoors at night holding a compact camera directly toward the viewer, city lights beyond a window, flash aesthetic"},{"position":"row 3 col 4","description":"tight cropped two-person selfie-like frame with both subjects partially visible, dark background"},{"position":"row 4 col 1","description":"young man at the waterfront at dusk holding a camera to his eye, cloudy blue sky and distant shoreline behind him"},{"position":"row 4 col 2","description":"soft night portrait of the woman on a city street with warm bokeh lights in the background"},{"position":"row 4 col 3","description":"close intimate couple snapshot with both faces near each other, one subject making a peace sign, heavy blur and flash look"},{"position":"row 4 col 4","description":"rear view of the woman walking alone down a warmly lit narrow street at night, shoulder-length hair and light top visible"}]},"composition":"each square feels like a memory fragment from one summer evening and a few nearby outings, varied framing, natural imperfection, casual amateur photography","color_palette":"muted blues, warm tungsten yellows, soft skin tones, dark greens, charcoal night shadows, faded white clothing","camera_look":"35mm point-and-shoot or disposable camera feel, shallow focus, motion blur, bloom around lights, occasional flash overexposure","quality":"high-resolution collage with authentic analog softness, emotionally evocative and realistic"}
+```
+
+<a id="ui-55"></a>
+### 720. 动漫 BL 宣传缩略图
+
+作者 [@himukai_an](https://x.com/himukai_an) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-55#ui-55)** · [原帖](https://x.com/himukai_an/status/2047981800535085555)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-55#ui-55"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-55.webp" width="480" alt="动漫 BL 宣传缩略图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A bright, polished anime-style promotional thumbnail with a summer romance atmosphere. The composition is split visually, with large typography on the left and two handsome young men on the right. On the left side, place layered translucent white panels with soft glow and sparkles over a sky-blue background, featuring large elegant serif text "GPT" in a blue gradient at the top and "BL" in a lavender-to-violet gradient below. Add three lines of Japanese text arranged between and under them: "最新の画像生成で", "作って", and "遊んでみた", in deep blue calligraphic Japanese type. Include subtle decorative accents such as small star glints, diagonal light streaks, dotted texture, and a cyan underline swoosh beneath the middle text. On the right side, show 2 anime boys from the waist up, leaning casually together beside a chain-link fence under leafy trees. The taller boy has tousled dark brown hair, a navy overshirt worn open over a white T-shirt, layered silver necklaces, and holds 1 plastic cup of iced coffee with a straw. The shorter boy has messy silver-white hair, a white T-shirt with a small crest emblem on the chest, black backpack straps over both shoulders, layered silver necklaces, and one small earring. Their poses are relaxed and intimate, with the dark-haired boy’s arm resting around the other. Use a luminous blue-and-white palette with soft sunlight, lens flare, bokeh, and a faint cityscape in the background, creating a clean social-media header or article thumbnail aesthetic.
+```
+
+<a id="ui-56"></a>
+### 721. 夜晚的艺术家与空灵缪斯
+
+作者 [@almimeister](https://x.com/almimeister) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-56#ui-56)** · [原帖](https://x.com/almimeister/status/2048309710118687101)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-56#ui-56"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-56.webp" width="320" alt="夜晚的艺术家与空灵缪斯 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A cinematic anime-inspired digital illustration set at night inside a cozy artist's room with large window panes and a warm city glow outside. On the left, a young male artist with {argument name="hair color" default="dark brown"} messy hair sits at a cluttered desk in side profile, leaning forward with one hand near his mouth and the other drawing with a pen on a tablet or sketchbook. The desk is covered with exactly 1 pen cup filled with pencils, 1 coffee mug, 1 open laptop or pen-display showing a sunset landscape, 1 spiral sketchbook with manga-style character drawings, 2 additional drawing books or pads, 1 small stack of about 4 books, and many scattered art cards and printed illustrations. On the right, a luminous ethereal anime girl made of blue-white light appears life-sized, facing the artist with both hands gently extended toward him. Her form is translucent, delicate, and composed of glowing contour lines, starry particles, and flowing strands of light, with long windblown hair and a soft dress-like silhouette. Between them, a magical stream of golden and white light spirals upward from the artist's desk into the air, connecting creator and creation. Inside this swirling ribbon are exactly 12 to 16 floating image fragments and sketch pages: monochrome character sketches, scenic sunset paintings, small photo-like panels, and tiny icon-like cards, all orbiting in a curved arc from lower center to upper left and upper center. Around the upper half of the image, dozens of glowing musical notes float through the air, mixed with sparkling particles, creating the feeling that inspiration has become visible sound and memory. The palette is rich warm gold and amber on the artist's side, contrasted with cool electric blue and white on the spirit girl's side, with dramatic rim light, volumetric glow, intricate particles, and a dreamy emotional atmosphere. Composition is vertical, highly detailed, intimate, and poetic, evoking the relationship between {argument name="person one" default="you"} and {argument name="person two" default="me"} as artist and imagined muse, where drawings, music, memories, and fantasy physically manifest in the room. Add a small handwritten note card on the desk with {argument name="note text" default="二人だけの物語"}, and display one prominent artwork on the desk and one floating scenic panel using {argument name="scene theme" default="sunset sky over a distant city"}.
+```
+
+<a id="ui-57"></a>
+### 722. 手绘分镜表
+
+作者 [@saniaspeaks_](https://x.com/saniaspeaks_) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-57#ui-57)** · [原帖](https://x.com/saniaspeaks_/status/2050465100973191219)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-57#ui-57"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-57.webp" width="480" alt="手绘分镜表 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+This Storyboard sheet use for this video created with GPT image 2 Storyboard sheet prompt: A professional hand drawn sketch storyboard sheet, pencil and ink illustration style, rough artistic linework, cross-hatching for shadows, loose expressive strokes, monochrome black and white on aged cream/off-white paper texture background, 2x2 grid layout with four equal storyboard panels bordered by thick hand-drawn black ink frames. Top-left panel sketch: abandoned rusted cargo ship at dock, heavy hatching for rust texture, broken railings, algae, seagulls, no humans, dark moody pencil shading, handwritten label below: "SCENE 01 — ABANDONED STATE | Static wide dock shot | Overcast | No humans". Top-right panel sketch: same ship with workers using pressure washers, dynamic water spray motion lines, figures in safety gear, debris piles, handwritten label: "SCENE 02 — CLEANING & STRIP-DOWN | Pressure wash + debris clear | Cloudy daylight". Bottom-left panel sketch: welding sparks as burst star lines, scaffolding structure, worker figures grinding and painting, primer sections with hatching, handwritten label: "SCENE 03 — REPAIR & REBUILD | Welding sparks + scaffolding | Primer applied". Bottom-right panel sketch: fully restored ship, clean hull, workers standing back, golden hour rays as radiating diagonal lines, handwritten label: "SCENE 04 — FULL RESTORATION | Final paint + golden hour | Completion". Bold hand-lettered title at top: "SEA HARVEST VALLETTA — RESTORATION STORYBOARD". Handwritten production notes at bottom: "Cam: Static Wide-Angle Dock | Lens: Wide | Progression: Linear | Style: Photorealistic". Pencil graphite texture, ink pen outlines, rough paper feel, professional film storyboard aesthetic.
+```
+
+<a id="ui-58"></a>
+### 723. 前后端数据库 SaaS 信息图
+
+作者 [@alantech_](https://x.com/alantech_) · 3:2 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-58#ui-58)** · [原帖](https://x.com/alantech_/status/2050462324486783060)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-58#ui-58"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-58.webp" width="480" alt="前后端数据库 SaaS 信息图 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（用户看到的部分） 是什么：前端就是界面，是用户能看见、能点、能操作的部分。 在哪里：网页、小程序、App 的界面。 用什么做：HTML（结构）、CSS（样式）、JavaScript（交互）。 02 后端（背后处理的部分） 是什么：后端就是幕后大脑，负责逻辑和运算。 在哪里：服务器上，用户看不见。 作用： 处理登录注册 计算价格、推荐商品 接收前端请求、返回数据 常用的编程语言：Java、Python、Go、JavaScript（Node.js） 03 数据库（记忆的部分） 是什么：数据库就是用来存储和管理数据的。 存什么：账号、密码、订单、库存… 常见的数据库： MySQL、PostgreSQL（关系型，像表格一样） MongoDB（文档型，像文件夹一样） 04 SaaS（软件即服务） 是什么：SaaS = Software as a Service（软件即服务）。 核心特点： 打开网页/小程序/APP就能用 按月或按年订阅 常见形式：网站、移动 App、小程序都可以是 SaaS。 05 总结 前端：用户看到和操作的界面 后端：背后运行的逻辑和计算 数据库：存放和管理数据的地方 SaaS：把软件做成服务，用户随时通过网络使用 前端展示 → 后端处理 → 数据库存储 → SaaS 是交付方式 帮我针对上面的内容画一张易于理解的图
+```
+
+<a id="ui-59"></a>
+### 724. 个人形象分析图卡
+
+作者 [@you1873118](https://x.com/you1873118) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-59#ui-59)** · [原帖](https://x.com/you1873118/status/2050446427105759269)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-59#ui-59"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-59.webp" width="320" alt="个人形象分析图卡 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试了下，效果也太强了 如果放在一年前 你可能三天三夜的ComfyUI工作流 才能做出来 提示词： 请根据我上传的人像照片，做一套个人形象分析图卡，包含发型、妆容、色彩和珠宝。要求：保留五官脸型肤色，不要过度修图，所有变化在同一张脸真实展示，风格干净高级。发型：长短、卷直、刘海，对比最适合/ 普通/不建议（显脸小、显老）妆容：眉眼鼻唇分析，标签（自然、提气色、柔和）色彩：不同颜色上身，对比推荐/普通/不适合（显白、显老）珠宝：珍珠、翡翠、红蓝宝、钻石、黄金，对比推荐/普通/不建议 整体：视觉为主，文字简短，4:5比例
+```
+
+<a id="ui-60"></a>
+### 725. 12 格分镜海报
+
+作者 [@bmx_ai13](https://x.com/bmx_ai13) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-60#ui-60)** · [原帖](https://x.com/bmx_ai13/status/2050432594647642414)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-60#ui-60"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-60.webp" width="480" alt="12 格分镜海报 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+A super simple workflow: 2 character images → GPT Image 2.0 storyboard → Seedance 2.0 animation. Just upload two character images and use the prompt below in GPT Image 2.0 to generate a full storyboard on a single page. Prompt: Create a clean, colorful storyboard poster in a 3x4 grid layout with 12 panels on a single page. Title at the top: "[MAIN TITLE]" Each panel must include: a scene number in a small circle, a short scene title, a colorful illustrated image, a 1–2 line description under the image. Main characters must remain visually consistent across all 12 panels: Character 1: [describe main character in detail] Character 2: [describe second character in detail] Theme/story: [overall story theme] Scene breakdown: [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] Design style: cute 3D animated storybook style, warm emotional lighting, bright colors, soft shadows, child-friendly, clean panel borders, readable typography, neat poster composition, high detail. Important: Keep all 12 panels inside one single image. Make the layout clean and balanced. Keep the characters consistent in face, outfit, and colors. Make the text readable and properly placed. No cropped panels. No extra characters unless mentioned. Then upload that storyboard to Seedance 2.0 and use this prompt: Prompt: Generate a scene using the shots in the uploaded film storyboard. No text on screen. That’s it.
+```
+
+<a id="ui-61"></a>
+### 726. 品牌拼贴社交模板
+
+作者 [@aiistudiocom](https://x.com/aiistudiocom) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-61#ui-61)** · [原帖](https://x.com/aiistudiocom/status/2051241633921049024)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-61#ui-61"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-61.webp" width="320" alt="品牌拼贴社交模板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+[BRAND NAME = CHANGE TO YOUR BRAND].
+Act as a Social Media Art Director and Digital Collage Artist specializing in bold, youth-oriented brand content for Instagram and digital campaigns. PHASE 1: CONCEPTUAL FRAMEWORK Create a dynamic digital collage that merges fashion photography with graphic design chaos. This is controlled rebellion – a composition that feels spontaneous and energetic while maintaining brand coherence. The aesthetic is anti-polished: torn edges, layered textures, hand-drawn elements, and bold color blocking that screams confidence and movement. PHASE 2: MODEL & PHOTOGRAPHY - Subject: One model (diverse casting, age 18-30) in a dynamic, confident pose - Pose Energy: 80% attitude, 20% natural – sitting, jumping, mid-motion, or power stance (avoid static standing) - Outfit: Street style/athleisure that aligns with [BRAND NAME] aesthetic – casual but styled - Hero Product: Feature 1 signature [BRAND NAME] product prominently (sneakers, bag, apparel) – this is the visual anchor - Photography Style: Editorial fashion cutout – model extracted from background with clean edges - Camera Angle: Slight low angle to empower subject (hero perspective) - Crop: Full body or 3/4 body showing hero product clearly - Background Removal: Model cut out cleanly for layering over collage elements PHASE 3: COLOR BLOCKING FOUNDATION - Primary Color Blob: Large organic shape (40-60% of composition) in bold, saturated brand color behind/around model - Shape Style: Irregular, hand-painted aesthetic – think Photoshop brush strokes or torn paper texture (NOT perfect geometric shapes) - Color Selection (Autonomous): Choose 1 hero color from [BRAND NAME] palette: - Texture: Visible brush strokes, grain, or subtle noise (15-25% opacity) – avoid flat digital fills - Placement: Blob positioned to frame model without obscuring key product details PHASE 4: GRAPHIC ELEMENTS LAYER Add 3-5 abstract graphic elements scattered across composition: - Element Types: - Color Palette: Use 2-3 accent colors total (main blob color + 1-2 contrasting tones from brand palette) - Placement: Asymmetric scatter – top-left and bottom-right zones primarily (avoid center crowding) - Scale: Mix small (5% of canvas) and medium (15% of canvas) elements – nothing overpowering - Aesthetic: Analog/handmade feel – imperfect circles, rough edges, visible texture PHASE 5: TYPOGRAPHY INTEGRATION - Brand Logo: Clean [BRAND NAME] logo placed in upper-left or upper-right quadrant (10-15% of width) - Slogan/Tagline: If [BRAND NAME] has an iconic slogan, integrate it using: - Supporting Copy: Optional 1-line descriptor (e.g., "A MOMENT OF YOUR STYLE") in smaller uppercase sans-serif - Type Treatment: Mix of aligned and slightly rotated text (2-5° angles) for dynamic energy - Hierarchy: Logo largest → Slogan medium → Copy smallest PHASE 6: TEXTURE & BACKGROUND - Base Layer: Off-white or light gray textured background (NOT pure white) - Texture Options (Autonomous selection): - Color: RGB 245-250 (near-white with warmth) – maintains brightness while adding depth - Treatment: Texture should be felt, not seen – enhances tactility without competing with foreground PHASE 7: COMPOSITION RULES - Layout: Asymmetric balance – model off-center, graphic elements counter-balance - Breathing Room: 15-20% negative space (textured background visible) to prevent claustrophobia - Layering Order: Background texture → Color blob → Graphic elements → Model (cutout) → Typography top layer - Focal Point: Model + hero product = primary focus (60% visual weight), graphics support (40%) - Movement: Diagonal lines and angled elements create directional flow (top-left to bottom-right or vice versa) PHASE 8: BRAND INTELLIGENCE (AUTONOMOUS) Autonomously adapt composition based on [BRAND NAME] personality: - Streetwear/Sportswear (Nike, Adidas, Supreme): - Luxury Streetwear (Balenciaga, Off-White, Gucci): - Beauty/Lifestyle (Glossier, Fenty, Skims): - Tech/Modern (Apple, Tesla, Beats): PHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL) - Bottom Strip: Clean white or light gray bar at bottom 8-10% of frame - Content: Social media handles (Instagram, Facebook, Twitter) in small sans-serif - Layout: Three-column grid with platform icons or text handles - Aesthetic: Minimal and professional – contrast with chaotic collage above TECHNICAL SPECS: - Aspect Ratio: 4:5 (Instagram feed) or 1:1 (square social post) - Resolution: 2400x3000px minimum (high-quality for zoom and detail) - Color Mode: sRGB, vibrant saturation (Instagram-optimized) - File Aesthetic: Digital collage that mimics analog craft (Photoshop + hand-drawn hybrid) - Model Photography: 85mm lens, f/2.8, shallow depth of field on original shoot (before cutout) - Style Reference: Nike social campaigns, Spotify wrapped graphics, Gen Z Instagram aesthetics, Hypebeast x streetwear collabs - Mood: Confident, energetic, youthful, authentic chaos, anti-corporate polish
+```
+
+<a id="ui-62"></a>
+### 727. 穿搭拆解图表
+
+作者 [@Shinning1010](https://x.com/Shinning1010) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-62#ui-62)** · [原帖](https://x.com/Shinning1010/status/2051230882069901713)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-62#ui-62"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-62.webp" width="320" alt="穿搭拆解图表 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a clean vertical fashion infographic from the uploaded portrait. Preserve the same face identity, hairstyle, body shape, and overall outfit style. Place the full-body character in the center in a relaxed T-pose, facing forward. Surround the character with realistic photo-style outfit breakdown elements, connected by thin arrows.
+
+Include separate cutout sections for: head details, cardigan, sailor top, inner blouse, plaid skirt, bag, socks, loafers, color palette, styling notes, and fabric texture. Add 3–4 head close-ups from different angles at the top. Use short English handwritten-style labels and concise bullet points.
+
+Visual style: soft pastel cream and blush-pink background, clean fashion board layout, elegant magazine-style composition, sweet preppy aesthetic, realistic fabric textures, delicate borders, small bow and heart doodles, airy and polished design. Keep the text short, readable, and fully in English. Original vertical aspect ratio.
+
+Negative Prompt:
+
+Chinese text, long text, messy layout, old parchment background, yellow aged paper, blurry details, distorted face, changed identity, extra limbs, bad hands, duplicated body, unrealistic fabric, cartoon style, anime style, 3D render, watermark, logo, unreadable typography, overcrowded design, harsh colors, low resolution.
+```
+
+<a id="ui-63"></a>
+### 728. 食谱信息图版式
+
+作者 [@aiistudiocom](https://x.com/aiistudiocom) · 5:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-63#ui-63)** · [原帖](https://x.com/aiistudiocom/status/2051060312351342957)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-63#ui-63"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-63.webp" width="480" alt="食谱信息图版式 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: "200g spaghetti", "150g mushrooms", "3 garlic cloves", "200ml cream", "1 tbsp olive oil", "parmesan", "parsley", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom
+```
+
+<a id="ui-64"></a>
+### 729. 个人色彩分析图板
+
+作者 [@ZaraIrahh](https://x.com/ZaraIrahh) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-64#ui-64)** · [原帖](https://x.com/ZaraIrahh/status/2049730770474877234)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-64#ui-64"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-64.webp" width="320" alt="个人色彩分析图板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a personal color analysis graphic using this portrait. Point out which season colour suits the subject best. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. List out what texture/accessories/hairstyle suit the subject best. Make it visual-first, with short labels only and no paragraphs.
+```
+
+<a id="ui-65"></a>
+### 730. 未来大厅时装连拍序列
+
+作者 [@weiinberg](https://x.com/weiinberg) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-65#ui-65)** · [原帖](https://x.com/weiinberg/status/2049730563393884265)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-65#ui-65"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-65.webp" width="320" alt="未来大厅时装连拍序列 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Frame 1 (Top-Down Establishing)
+Extreme top-down shot in futuristic white curved hall, subject centered but compressed against smooth reflective floor, body aligned straight but slightly angled, arms close to body with subtle tension, head tilted upward toward camera, gaze directed straight up, strong circular architectural lines framing composition, soft studio lighting creating gentle gradients, shallow depth of field at f/1.2, smartphone-like proximity despite height, clean minimal atmosphere, dynamic opening frame, subtle athletic readiness, wearing full beige suit with white t-shirt and white sleek sneakers, Peter Lindbergh influence
+Frame 2 (Low Angle Power)
+Extreme low angle from floor level, subject towering above camera, legs forming strong base, torso slightly leaning forward, shoulders squared, arms slightly away from body, head angled downward, gaze into lens, strong vertical distortion, reflective floor amplifying silhouette, soft studio lighting with controlled highlights, shallow depth f/1.2, powerful dominance frame, subtle athletic tension, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 3 (Wide Isolation)
+Wide long shot, subject very small within vast futuristic hall, surrounded by curved white architecture, large negative space dominating composition, subject standing still, body straight, arms relaxed but structured, head slightly turned, gaze outward into space, minimal reflections, soft even lighting, shallow depth f/1.2 isolating subject despite distance, cinematic silence, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 4 (Dynamic Close-Up Tilt)
+Close-up with strong diagonal tilt, subject leaning into frame, shoulders sharply angled, one arm crossing body, head tilted sideways, gaze slightly off camera, tight crop cutting part of body, soft lighting wrapping contours, shallow depth f/1.2 isolating face plane, intense proximity and tension, full beige suit, white t-shirt visible, Peter Lindbergh influence
+Frame 5 (Motion Step Forward)
+Mid shot, subject stepping forward dynamically, one leg extended, weight shifting, arms slightly swinging with controlled motion, shoulders rotated, head facing forward, gaze ahead, slight motion blur on edges, futuristic curved walls passing behind, soft studio lighting, shallow depth f/1.2, transitional energy frame, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+Frame 6 (Final Grounded Frame)
+Full body frontal shot, subject standing firmly, legs slightly apart, arms held with controlled tension, shoulders squared, head facing forward, gaze into camera, symmetrical composition slightly offset, minimal futuristic background, soft lighting emphasizing structure, shallow depth f/1.2, strong final impact frame, subtle athletic readiness, full beige suit, white t-shirt, white sleek sneakers, Peter Lindbergh influence
+
+Negative Commands (apply to all frames):
+no text, no watermark, no low quality, no cartoonish style
+
+Aspect Ratio: 3:4
+```
+
+<a id="ui-66"></a>
+### 731. 带标注的咖啡桌情绪板
+
+作者 [@Ciri_ai](https://x.com/Ciri_ai) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-66#ui-66)** · [原帖](https://x.com/Ciri_ai/status/2049721047696732550)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-66#ui-66"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-66.webp" width="480" alt="带标注的咖啡桌情绪板 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Use the uploaded photo as the main base image.
+
+Based on the coffee, drinks, desserts, plates, props, table setting, and overall composition shown in the image, create an aesthetic and emotional result that naturally reflects the real elements in the photo. Do not add any people. Stay true to the actual types of food and drinks, their arrangement, and the atmosphere captured in the original image.
+
+Then, carefully observe each element in the photo and add hand-drawn style annotations that match each subject:
+
+Use white pen-style sketch lines with a rough, slightly uneven, hand-drawn feel
+
+Include object outlines, arrows, and dotted lines to guide visual flow
+
+Add short handwritten Korean notes in a casual, introspective, emotional tone
+
+For drinks: describe taste, temperature, and mood
+
+For desserts: describe texture and flavor
+
+For the space: describe the ambiance
+
+Include a short overall summary of the scene
+
+Subtly incorporate small details like steam, sparkles, hearts, or tiny emotive symbols
+
+Maintain a clean, spacious layout with an Instagram story or magazine memo-like aesthetic
+
+The final result should look like an emotionally styled version of the original photo, without forcing in any elements that don’t naturally belong to it
+```
+
+<a id="ui-67"></a>
+### 732. 高级时装饮料营销板
+
+作者 [@SPEEDAI07](https://x.com/SPEEDAI07) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-67#ui-67)** · [原帖](https://x.com/SPEEDAI07/status/2049713995851202786)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-67#ui-67"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-67.webp" width="320" alt="高级时装饮料营销板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a high-fashion editorial beverage campaign set on a minimalist rooftop at golden hour. Ultra-clean composition with strong negative space, warm sun flare, and soft shadows.
+
+A stylish male model with sharp features and effortless confidence is posed like a fashion editorial—slightly turned away, sipping from the can. He wears elevated linen tailoring in monochrome cream tones, partially unbuttoned, with subtle jewelry.
+
+Foreground: a sculptural stone pedestal holding a large hero can of AURELIS – Blood Orange Basil, hyper-detailed with condensation and botanical artwork.
+
+Typography is bold, oversized, and editorial: GOOD DAYS IN EVERY CAN
+
+Use refined serif typography with dramatic scale and spacing. Keep layout asymmetrical and magazine-like.
+
+Add subtle microcopy: “Botanical. Bright. Made to sparkle.”
+
+Minimal icons (thin line style): LOW SUGAR / REAL FRUIT / LIGHTLY SPARKLING / 12 OZ
+
+Bottom strip: 3 cans styled like a luxury product lineup with fruit + herbs arranged like still life photography:
+
+Blood Orange Basil
+
+Peach Ginger
+
+Lime Mint
+
+CTA: SHOP FLAVORS →
+
+Style: Vogue campaign, luxury branding, cinematic lighting, ultra-realistic, muted tones, high contrast, premium finish.
+Aspect ratio: vertical (4:5 or 9:16)
+
+🌿 2. Minimal Premium (Apple-style)
+
+Prompt:
+
+Create a minimalist premium beverage ad with a sunlit rooftop setting and extremely clean composition.
+
+Background: soft gradient sky with warm golden-hour tones, minimal distractions, large negative space.
+
+A relaxed male model sits casually, taking a sip from the can. Wardrobe: simple, modern, neutral linen outfit.
+
+Centerpiece: a large floating or pedestal-mounted can of AURELIS – Blood Orange Basil, perfectly lit with soft reflections and visible condensation.
+
+Typography: SUN IN EVERY SIP
+
+Use modern minimal typography, centered, with generous spacing.
+
+Supporting line: “Real botanicals. Effortless refreshment.”
+
+Icons aligned horizontally: LOW SUGAR • REAL FRUIT • LIGHTLY SPARKLING • 12 OZ
+
+Bottom section: 3 cans evenly spaced, perfectly aligned with subtle shadows:
+
+Blood Orange Basil
+
+Peach Ginger
+
+Lime Mint
+
+CTA button (pill-shaped): SHOP FLAVORS
+
+Style: Apple-level minimalism, ultra-clean layout, soft gradients, modern luxury, highly polished product rendering.
+Aspect ratio: vertical (4:5 or 9:16)
+
+🍊 3. Bold Gen Z Premium Version
+
+Prompt:
+
+Create a bold, scroll-stopping vertical beverage ad set on a rooftop during golden hour with vibrant citrus energy.
+
+Lighting: warm, saturated sunlight, glowing highlights, high contrast.
+
+A confident male model drinks directly from the can mid-action, candid and dynamic.
+
+Hero can: oversized, slightly exaggerated scale on a textured stone pedestal, covered in condensation.
+
+Typography: DRINK THE SUN
+
+Use large, expressive typography with strong contrast (deep green + burnt orange), slightly overlapping layout.
+
+Tagline: “Fresh. Bright. Addictive.”
+
+Feature icons arranged dynamically: LOW SUGAR
+REAL FRUIT
+LIGHTLY SPARKLING
+12 OZ
+
+Bottom: 3 cans with energetic ingredient styling:
+
+Blood Orange Basil (splashes, citrus slices)
+
+Peach Ginger (fresh peach + ginger root)
+
+Lime Mint (lime wedges + mint leaves)
+
+CTA: SHOP FLAVORS →
+
+Style: premium but bold, modern campaign aesthetic, slightly experimental layout, high contrast, social-first, dynamic composition.
+Aspect ratio: vertical (9:16 preferred)
+```
+
+<a id="ui-68"></a>
+### 733. 全网百万关注挑战界面设计
+
+作者 [@cellinlab](https://x.com/cellinlab) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-68#ui-68)** · [原帖](https://x.com/cellinlab/status/2051865803855630375)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-68#ui-68"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-68.webp" width="320" alt="全网百万关注挑战界面设计 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+想做一个 全网百万关注 挑战计划，准备做个页面来展示我全平台的 关注人数和 目标人数🎯，目前平台包括 X/推特、youtube、小红书、抖音、微信视频号、微信公众号、B站 等，帮我想办法设计下这个页面，做一套UI效果图，支持 Web 和 mobile，另外设计个小组件，方便在 OBS 直播中叠加
+
+效果👉
+```
+
+<a id="ui-69"></a>
+### 734. 舒适日出书桌平铺图
+
+作者 [@Taaruk_](https://x.com/Taaruk_) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-69#ui-69)** · [原帖](https://x.com/Taaruk_/status/2052422212423196925)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-69#ui-69"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-69.webp" width="320" alt="舒适日出书桌平铺图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Sunrise Desk Flatlay
+Top-down cozy desk flatlay near a sunrise window, wooden table filled with coffee, camera, headphones, notebooks, fruit bowl, cassette player, glasses and phone playing music, warm sunrise reflections, nostalgic morning atmosphere, handwritten doodle annotations around every object, pastel sketch overlays, cute arrows, stars and handwritten motivational phrases, realistic lifestyle photography mixed with diary aesthetics, soft golden lighting, cinematic composition, vintage indie mood, highly detailed textures, warm creamy tones, relaxing morning ritual vibe, 8k.
+
+Prompt 2:
+ Cozy Study Desk Setup
+Ultra cozy study desk scene during early morning golden hour, cluttered but aesthetic workspace filled with open books, sticky notes, warm desk lamp, coffee mug, laptop, pens and stationery, calming productivity atmosphere, soft sunlight through the window, vintage academic vibe, handwritten doodle overlays with “focus mode on”, hearts, arrows, stars and tiny notes, realistic cinematic lighting, visual diary aesthetic, warm earthy colors, dreamy slice-of-life mood, indie room decor, highly detailed cozy textures, film grain, 8k.
+```
+
+<a id="ui-70"></a>
+### 735. 定制汽车蓝图草图渲染
+
+作者 [@ShamiWeb3](https://x.com/ShamiWeb3) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-70#ui-70)** · [原帖](https://x.com/ShamiWeb3/status/2052398818533220652)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-70#ui-70"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-70.webp" width="320" alt="定制汽车蓝图草图渲染 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+“Highly detailed technical blueprint sketch and realistic 3D–render fusion of a custom modified car 2027 BMW iM3.
+Transform the car into a tuned concept blueprint with an aggressive lowered stance, wide-body aesthetic (adapted to match the real car’s form), and bold racing stripe accents matching or enhancing the original photo colors.
+Add large aftermarket-style wheels inspired by the car in the photo (accurate spoke design & size), sharp LED-like lighting details, and sporty aerodynamic additions such as front spoiler, side skirts, rear diffuser, and small spoiler — all adjusted realistically to the BMW iM3’s geometry.
+Surround the main render with precise engineering-style blueprint elements: multiple orthographic views (front, rear, side, top) derived from the reference photo, construction lines, mm-dimensions, exploded-view details for wheels, suspension, and body kit components.
+Art style combines pencil/ink drafting with fine cross-hatching, clean annotations, and a photorealistic shaded center render.
+Blueprint background in soft light-blue or sepia technical-paper texture, ultra-detailed, professional automotive concept-design composition.
+--ar 9:16 --stylize 300 --v 6 --q 2”
+```
+
+<a id="ui-71"></a>
+### 736. 莫斯科风味美食信息图
+
+作者 [@AIwithAliya](https://x.com/AIwithAliya) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-71#ui-71)** · [原帖](https://x.com/AIwithAliya/status/2052412558678905255)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-71#ui-71"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-71.webp" width="320" alt="莫斯科风味美食信息图 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Cool PROMPT for GPT Image 2 Creating stylish infographics. Prompt below:
+
+Minimal high-end infographic titled "FLAVORS OF MOSCOW", soft off-white background, detailed 3D map of Moscow centered with clean nano gemini layout. Surround with aesthetic food elements like borscht, pelmeni, blini, and black bread, along with birch tree motifs and minimal cultural icons. Highlight regions: KREMLIN DISTRICT (Kvass, historic skyline) ARBAT (Street food, Shashlik) ZAMOSKVORECHYE (Traditional cuisine, Syrniki) PATRIARCH'S PONDS (Cafés, Medovik cake) Side text blocks:
+```
+
+<a id="ui-72"></a>
+### 737. 足球球衣 Q 版手办
+
+作者 [@mehvishs25](https://x.com/mehvishs25) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-72#ui-72)** · [原帖](https://x.com/mehvishs25/status/2052558799647703180)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-72#ui-72"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-72.webp" width="320" alt="足球球衣 Q 版手办 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+;
+
+3D rendered caricature figurine of a stylish young woman, big head chibi style, designed to closely match the reference girl’s facial features, hairstyle, and overall vibe. She is wearing a trendy yellow and blue sporty streetwear outfit inspired by a professional football kit, fitted crop jersey with matching shorts, subtle number 7 detail on the shorts, captain’s armband on left arm, white wristband, confident arms-crossed pose, long dark silky hair with soft waves, small diamond stud earrings, white sporty sneakers with blue accents, knee-high yellow athletic socks, standing in a powerful confident stance, full body shot, bold red background, ultra detailed realistic 3D render, cinematic studio lighting, sharp shadows, premium collector toy aesthetic, glossy vinyl figure finish, high-end designer collectible style
+```
+
+<a id="ui-73"></a>
+### 738. 博物馆爆炸组装图
+
+作者 [@Gdgtify](https://x.com/Gdgtify) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-73#ui-73)** · [原帖](https://x.com/Gdgtify/status/2052498708521259162)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-73#ui-73"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-73.webp" width="480" alt="博物馆爆炸组装图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+16:9 2x2 grid, do this for cybertruck, reaper drone, james webb telescope, and another complex machine: do this for cybertruck: { "exhibit_type": "physical exploded assembly", "subject": "$complex_invention", // e.g., "an enigma machine", "a mechanical chronometer" "physical_constraints": { "state": "the machine is pulled apart into its 50 primary components along a horizontal axis.", "support_system": "no magical floating. every single floating gear and casing is physically held in the air by taut, thin, steel suspension wires and heavy brass museum clamps.", "background": "a flat, neutral-grey museum wall." }, "lighting_and_shadows": { "setup": "hard spotlighting from the top left.", "shadow_effect": "critical: the floating, separated components and their suspension wires must cast a highly complex, overlapping, beautiful shadow pattern directly onto the grey wall behind them." } }
+```
+
+<a id="ui-74"></a>
+### 739. X 个人资料卡抠图女孩
+
+作者 [@you1873118](https://x.com/you1873118) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-74#ui-74)** · [原帖](https://x.com/you1873118/status/2052549593100136583)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-74#ui-74"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-74.webp" width="320" alt="X 个人资料卡抠图女孩 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+一只手中握着一张X / Twitter 风格个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和下柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，推特风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
+```
+
+<a id="ui-75"></a>
+### 740. 手机屏幕破屏广告
+
+作者 [@you1873118](https://x.com/you1873118) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-75#ui-75)** · [原帖](https://x.com/you1873118/status/2052624395932455061)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-75#ui-75"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-75.webp" width="320" alt="手机屏幕破屏广告 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+除了这种破屏穿越风格
+
+现在甚至能直接把人物
+
+从社交媒体界面里冲出来！
+
+构图、透视、视觉冲击
+
+电影感光影
+
+几乎一次成型
+
+玻璃碎裂 + 3D纵深 + UI融合
+
+已经不只是单纯出图了
+
+更像是在GPT Image 2 
+
+直接生成一整套视觉设计方案
+
+提示词：
+
+动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。
+
+构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景深增强。漂浮的闪亮3D社交媒体图标、金色几何元素和豪华品牌图形环绕着她，营造出高端影响者营销美学。
+
+明亮的摄影棚灯光营造出充满活力的优质促销氛围，金属金色手机边缘的丰富反射与哑光织物质地形成对比。主导的橙色、白色和金色调色板传递出超现代豪华X / Twitter 广告氛围。干净的白色背景上带有大胆的编辑排版、优质软件品牌元素、优雅的UI图形、漂浮的互动图标以及时尚的二维码区域。
+
+超现实8K品质、电影般的阴影、精致的商业艺术指导、豪华女性能量、时尚营销美学、现代社交媒体品牌、闪亮反射以及高端数字广告风格。
+
+宽高比：3:4。
+```
+
+<a id="ui-76"></a>
+### 741. 异想天开的民俗涂鸦插画
+
+作者 [@john_my07](https://x.com/john_my07) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-76#ui-76)** · [原帖](https://x.com/john_my07/status/2052990299073630400)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-76#ui-76"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-76.webp" width="320" alt="异想天开的民俗涂鸦插画 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Reimagine the full image as a whimsical handcrafted folk-art illustration filled with playful doodle aesthetics. Replace the original colors with a fresh, vibrant palette featuring bold contrasting tones and cheerful accents. Convert every object and detail into simplified flat forms with soft irregular outlines, textured brush-like fills, and an intentionally imperfect handmade appearance, as if sketched and colored on clean white paper with markers and paint pens. The final artwork should feel charming, naïve, and storybook-inspired, combining decorative folk patterns, quirky shapes, and lighthearted visual energy in a cute, imaginative style.
+```
+
+<a id="ui-77"></a>
+### 742. 车辆参考工程信息图
+
+作者 [@mehvishs25](https://x.com/mehvishs25) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-77#ui-77)** · [原帖](https://x.com/mehvishs25/status/2052787699153838452)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-77#ui-77"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-77.webp" width="480" alt="车辆参考工程信息图 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+GPT Image 2 on ChatGPT 
+
+Prompt;
+
+Create a premium square “reference-style transportation infographic” centered around {VEHICLE_NAME}, designed as a beautifully curated engineering handbook page rather than a commercial poster.
+
+The composition should feel like a modern visual encyclopedia mixed with a high-end industrial design manual and elite editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Soft light-toned technical background with subtle blueprint textures and schematic overlays
+• Elegant muted palette using graphite gray, titanium silver, deep navy, steel blue, and soft white accents
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic shadows and premium UI-style dividers
+• Minimal technical iconography
+• Extremely detailed central vehicle render viewed in dramatic three-quarter perspective
+• Thin precision annotation lines pointing toward engineering systems and structural details
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {VEHICLE_NAME} placed at the cen
+```
+
+<a id="ui-78"></a>
+### 743. 温网直播转播截图
+
+作者 [@egeberkina](https://x.com/egeberkina) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-78#ui-78)** · [原帖](https://x.com/egeberkina/status/2053931249794691081)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-78#ui-78"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-78.webp" width="480" alt="温网直播转播截图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A screenshot from a live Wimbledon TV broadcast during a packed Centre Court match. The camera cuts to the audience, an unbelievably attractive woman in her 20s with long black hair, flawless skin, elegant makeup, and a luxurious aura, seated in the VIP section wearing a sophisticated cream-white low-cut summer outfit with subtle jewelry. She smiles naturally while reacting to the match, unaware she's on camera. Wealthy spectators and champagne glasses around her, old-money tennis atmosphere, shallow depth of field. Full live tennis broadcast overlay: scoreboard, network watermark, broadcast graphics, 16:9 aspect ratio. The image looks exactly like a real TV screenshot, telephoto broadcast lens, realistic live color grading, slight compression artifacts, interlacing grain, subtle motion blur, imperfect live-camera framing.
+```
+
+<a id="ui-79"></a>
+### 744. 手写学习信息图海报
+
+作者 [@YaZoraiz](https://x.com/YaZoraiz) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-79#ui-79)** · [原帖](https://x.com/YaZoraiz/status/2054264025178079718)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-79#ui-79"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-79.webp" width="320" alt="手写学习信息图海报 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Aesthetic handwritten study infographic poster designed like a beautifully organized digital-notebook page, soft pastel color palette with gentle tones of baby pink, sky blue, mint green, lavender, and soft yellow highlights. The background is a realistic notebook paper grid texture with subtle shadows and paper grain for authenticity.
+The layout is clean and structured like high-quality study notes, featuring neatly written handwritten-style typography in smooth black ink and blue pen. Content is arranged in well-spaced bullet points, numbered sections, and small boxed highlights for key information. Important words are emphasized using pastel highlighter strokes in pink, yellow, and light blue.
+
+Decorative elements include cute hand-drawn doodles in the margins such as stars, arrows, hearts, smiley faces, paper clips, sticky notes, and simple icons (books, pens, lightbulb,checklist). Sticky notes are layered naturally on the page with soft shadows, slightly tilted for a realistic collage effect.
+
+The composition feels cozy, aesthetic, and highly organized—like a Pinterest viral study aesthetic or an Instagram “studygram” post. Soft lighting, gentle shadows, and minimal clutter ensure readability while maintaining visual charm. The design feels calming, motivating, and academically inspiring.
+
+Ultra-detailed, 4K resolution, top-down flat lay perspective, modern stationery aesthetic, soft depth of field, realistic paper texture, high-end digital illustration style.
+```
+
+<a id="ui-80"></a>
+### 745. 品牌形象情绪板系统
+
+作者 [@SaasJunctionHQ](https://x.com/SaasJunctionHQ) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-80#ui-80)** · [原帖](https://x.com/SaasJunctionHQ/status/2054666436698845299)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-80#ui-80"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-80.webp" width="480" alt="品牌形象情绪板系统 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Full-blown brand identity system [BRAND NAME] — Brand Identity Moodboard STEP 1 — DECODE THE BRAND Extract from real brand guidelines only: - Colors: full official palette (primary, secondary, neutrals, accents) — exact, no approximations - Type: weight, width, tracking, capitalization character — applied identically across all cards - Copy: real slogans, campaigns, product names, manifesto phrases — zero invented text - World: the domain (sport / tech / fashion / music / etc.) — all imagery stays inside it STEP 2 — OUTPUT Single 16:9 flat image. Black (#000–#0A0A0A) background. 8 cards in an asymmetric 3-column grid. Uniform 8–12px gaps. Rounded corners 8–12px. Every card uses only Step 1 colors, type, and copy. CARDS — in order: 1. LOGO LOCKUP (wide, top-left) — brand color BG, official logo/wordmark, oversized cropped logo mark as structural graphic. No photo. 2. EDITORIAL PHOTO (mid-left) — dark photo from brand world, manifesto headline in brand type over image, wordmark small at bottom. 3. CAMPAIGN BANNER (wide, bottom-left) — flat accent color BG, real event/campaign headline bold-condensed left side, action photo cropped into right side. 4. STORY FORMAT (tall, center full-height) — full-bleed photo, oversized display type partially cropped by edges, date/location detail top. Mobile story proportions. 5. TYPOGRAPHIC POSTER (upper center-right) — vivid accent BG, campaign headline with one letter replaced by a real brand-world object, edition tag below. 6. COLOR PALETTE (center-right) — vertical equal stripes, one per brand color, color name labeled bottom each stripe. No photo. Zero decoration. 7. PRODUCT MOCKUP (upper right) — studio photo of real brand product or branded device/interface, neutral BG, accurate logo/color/type placement. 8. TYPE PATTERN (lower right) — brand name/slogan repeated as all-over pattern at varied sizes/angles, editorial photo overlaid and color-treated to integrate. RULE: A person who knows this brand must immediately confirm every card belongs to it. Output quality: Behance brand identity case study / agency pitch deck.
+```
+
+<a id="ui-81"></a>
+### 746. 景观建筑图板
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-81#ui-81)** · [原帖](https://x.com/iamaiistudio/status/2054654236705845670)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-81#ui-81"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-81.webp" width="320" alt="景观建筑图板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Generate a 3:4 vertical, competition-grade landscape architecture presentation board. The board blends photorealistic aerial rendering with refined architectural diagram language, in the style of a high-end international landscape competition submission. Mood: calm, atmospheric, regenerative, ecological, scientific yet poetic. Layout (three stacked zones): 1. Top zone: analytical ecological diagrams and mapping overlays. 2. Middle zone: a large aerial landscape rendering as the primary focal image. 3. Bottom zone: a continuous sectional cut through the ecological landscape system. Top analytical zone: • Simplified ecological maps with soft, transparent color overlays. • Ultra-thin linework in white and pale gray. • Diagrams of water flow, circulation systems, ecological networks, habitat zones, and landscape connectivity. • Dashed lines for movement and flow. • Minimal annotations and soft ecological icons. • Floating overlay effect sitting above the rendering. • Very light pastel tones, high transparency, clean spacing, no dense clutter. Middle aerial rendering: • Bird's-eye view of an ecological restoration landscape. • Wetlands, ponds, flowing water systems, vegetation patches, bioswales, regenerative terrain. • Soft, slightly desaturated palette of greens, browns, and muted water blues. • Atmospheric depth with subtle haze in the distance. • Gentle human and ecological activity: walking paths, birds, small environmental interactions. • Wide landscape depth, smooth terrain transitions, calm cinematic environmental lighting. • Soft paper-texture finish integrated into the rendering. Bottom sectional cut: • Continuous section through terrain and ecological systems. • Soil layers, hydrology, groundwater movement, vegetation roots, ecological restoration processes, water filtration systems. • Thin white or pale linework, muted tones, minimal color. • Arrows indicating water movement and ecological flow. • Elegant architectural drafting quality, seamlessly merged into the board. Diagram language: extremely thin and precise linework, slightly softened edges (no harsh vector look), minimal labels, clean scientific notation, soft ecological symbols, balanced between scientific clarity and poetic visualization. Color system: • Base: desaturated greens, earthy browns, muted blue water tones. • Overlay: pale green, soft cyan, light beige, translucent pastel layers. • Avoid saturated accents, harsh contrast, bright reds, or overly graphic colors. Texture and atmosphere: soft atmospheric rendering, slight environmental haze, diffused lighting, subtle paper-grain or printed board texture, refined competition-board aesthetic. Format: 3:4 vertical architectural competition board composition. #AIart #GPTImage2
+```
+
+<a id="ui-82"></a>
+### 747. 平面设计作品集样机
+
+作者 [@abs_uiux](https://x.com/abs_uiux) · 4:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-82#ui-82)** · [原帖](https://x.com/abs_uiux/status/2054594512983310572)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-82#ui-82"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-82.webp" width="480" alt="平面设计作品集样机 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a premium graphic design portfolio mockup in a professional creative studio style. Show a clean, elegant workspace presentation featuring multiple graphic design project cards arranged in a refined grid layout, a modern laptop screen displaying a portfolio homepage, and several printed posters laid out neatly on the desk and mounted on the wall. Use a polished creative-director aesthetic with soft shadows, subtle depth, realistic materials, and a high-end studio atmosphere. Include sleek typography placeholders, branding samples, editorial-style poster designs, business cards, stationery, notebook, pen, coffee cup, desk lamp, and small plant for a realistic studio setup. The design should have a clean grid layout, balanced spacing, soft realistic shadows, premium lighting, and neutral luxury tones such as black, white, warm beige, gray, champagne, and cream. Make the laptop screen show a minimal portfolio interface with project thumbnails, navigation menu, and bold hero text. Add multiple portfolio project cards such as logo design, brand identity, poster design, packaging design, social media design, UI/UX design, and advertising campaign mockups. Arrange everything professionally with a modern minimalist style, sharp details, clean typography, elegant composition, and a premium creative agency presentation look. Style: high-end graphic design portfolio, modern creative studio, luxury branding mockup, clean desk setup, realistic shadows, editorial layout, minimalist premium design, professional presentation, 4K, ultra-detailed.
+```
+
+<a id="ui-83"></a>
+### 748. 新黑色电影角色设计板
+
+作者 [@Mind_Boticni](https://x.com/Mind_Boticni) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-83#ui-83)** · [原帖](https://x.com/Mind_Boticni/status/2054542152781431075)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-83#ui-83"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-83.webp" width="480" alt="新黑色电影角色设计板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a cinematic realistic character design board for a high-budget neo-noir film production set in a rain-soaked futuristic city. Use a dark charcoal and electric cyan color palette with neon reflections in the background. Avoid generic grids or symmetrical layouts; composition should feel like a stylized director’s pitch board. Design a grounded human character with realistic anatomy, subtle imperfections, and strong emotional presence. Include full-body turnarounds, expressive head angles, cinematic portrait, wardrobe breakdown, fabric texture detail, and production notes. Background: blurred cyberpunk city lights, wet glass reflections, moody atmosphere, soft neon glow. Style: semi-realistic cinematic realism, high contrast lighting, shallow depth of field, film grain, emotional intensity.
+```
+
+<a id="ui-84"></a>
+### 749. 向日性建筑图板
+
+作者 [@Gdgtify](https://x.com/Gdgtify) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-84#ui-84)** · [原帖](https://x.com/Gdgtify/status/2055773537257034007)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-84#ui-84"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-84.webp" width="480" alt="向日性建筑图板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+16:9 autonomous kinetic architecture, the heliotropic tracking mechanics of [aerospace/solar tracking array] shaping an adaptive, luxury [outdoor architectural structure], sequence from [astronomical/solar path diagrams] to [robotic kinematic wireframes] to a programmable louvre abstraction to the final architectural installation, ai to infer smart-motor integration and weather-responsive materials utilizing [material 1] and [material 2], featuring time-lapse shadow projection diagrams, [aesthetic style] aesthetic, presentation layout: solar path charts at the top, robotic hinge details in the margins, stunning photorealistic architectural render below, [lighting style].  input: [deep space network satellite dish array], [smart kinetic patio pergola], [equatorial solar trajectory mapping], [multi-axis pivoting joint schematics], [photovoltaic-coated tinted glass], [extruded matte bronze aluminum], [contemporary silicon valley billionaire estate], [golden hour sunlight casting intricate geometric shadows]
+```
+
+<a id="ui-85"></a>
+### 750. 品牌形象规范图板
+
+作者 [@Shorelyn_](https://x.com/Shorelyn_) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-85#ui-85)** · [原帖](https://x.com/Shorelyn_/status/2055681687284293991)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-85#ui-85"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-85.webp" width="320" alt="品牌形象规范图板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Using the uploaded logo for (Brand name) generate a high-end, agency-grade brand identity system poster.
+
+OBJECTIVE
+Create a complete, presentation-ready brand guideline board that looks like it was designed by a top branding studio. The result must feel commercial, realistic, and client-deliverable, not conceptual.
+
+INTELLIGENCE RULE (THIS IS WHAT YOU WERE MISSING)
+Before designing, analyze the logo and infer:
+3 identity traits (based on analysis)
+
+COLOR SYSTEM (SMART GENERATION)
+Extract palette from logo automatically
+Include:
+Primary colors (3–5)
+Secondary colors (3–5)
+Accent colors
+
+Each must show:
+HEX codes
+labeled usage (primary / UI / highlight / background)
+
+Also generate:
+gradients
+color combinations
+tonal variations
+
+TYPOGRAPHY SYSTEM (MATCH PERSONALITY)
+Select typography style based on brand:
+luxury → elegant serif
+tech → geometric sans
+street → bold condensed
+corporate → clean neutral sans
+
+Show:
+headline / subheadline / body
+real text examples (brand-relevant, not lorem ipsum)
+clear hierarchy
+
+VISUAL LANGUAGE
+Define and visualize:
+image style (editorial / lifestyle / futuristic / minimal)
+lighting (soft / dramatic / high contrast)
+mood (energetic / premium / calm / disruptive)
+
+Show:
+3–5 visual tiles
+
+BRAND APPLICATIONS (REALISM BOOST)
+Generate consistent mockups:
+packaging or product
+website hero
+mobile UI
+3 social media creatives
+business card
+billboard / ad
+
+All must feel real-world usable.
+
+LAYOUT SYSTEM
+grid system
+spacing scale (4pt / 8pt system)
+
+Show:
+UI components
+cards
+buttons
+layout examples
+
+ICONOGRAPHY
+6–10 icons style derived from brand (rounded / sharp / minimal / filled)
+
+PATTERNS & ELEMENTS
+shapes derived from logo
+repeating motifs
+background systems
+
+MICRO DETAILS (THIS CREATES “PREMIUM FEEL”)
+shadows
+reflections
+textures
+depth layering
+
+VISUAL STYLE CONTROL
+modern editorial + system design hybrid
+strong hierarchy
+layered composition
+controlled spacing
+
+DENSITY RULE
+minimum 30–50 elements
+mix of macro + micro components
+no empty or filler space
+
+HARD RESTRICTIONS
+no placeholders
+no generic UI
+no inconsistent styles
+no random colors
+
+FINAL OUTPUT
+A high-end brand system poster that looks:
+Behance feature-worthy
+agency presentation-ready
+visually consistent and detailed
+```
+
+<a id="ui-86"></a>
+### 751. 2027 插画桌历
+
+作者 [@Mind_Boticni](https://x.com/Mind_Boticni) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-86#ui-86)** · [原帖](https://x.com/Mind_Boticni/status/2055663029195575396)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-86#ui-86"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-86.webp" width="480" alt="2027 插画桌历 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+use this reference photo to create a desktop calendar for January-December 2027. Format: A4 vertical. Features: Korean illustration style, distinct character features, natural expressions, full-body composition, dynamic poses, exquisite clothing details, hand-drawn doodle style, splatter brushstrokes, free lines, a mix of pastels and ink, comic sketch texture, simple white background, symbolic elements around the edges, strong atmosphere, high detail, high quality.
+```
+
+<a id="ui-87"></a>
+### 752. 单色奢华汽车海报网格
+
+作者 [@Ozayrr_irl](https://x.com/Ozayrr_irl) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-87#ui-87)** · [原帖](https://x.com/Ozayrr_irl/status/2056179631389126895)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-87#ui-87"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-87.webp" width="320" alt="单色奢华汽车海报网格 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Monoluxe Automotive Posters 🔥
+
+Images on ChatGPT by GPT image 2.
+
+Prompt⤵️
+
+"A high-quality editorial automotive poster split into a 2x2 grid layout, each quadrant featuring one iconic car with a bold typographic name as the background. Top-left: Toyota Corolla AE86 in Cobalt Blue, side profile view, floating above its reflection, massive "COROLLA" text behind in matching blue tones, cobalt blue panel background, small detail inset photos of interior and headlights in the corner, editorial body copy below the car. Top-right: Volkswagen Beetle in golden yellow, side profile, "BEETLE" in massive serif bold letters behind it, warm golden yellow panel, vintage feel, small detail thumbnails of curved body panel and round taillights. Bottom-left: Honda Civic Type R in Championship Red, aggressive front-three-quarter angle, massive "CIVIC TYPE R" text melting into the dark red background, dramatic low-angle lighting, small thumbnail of front grille and wing spoiler. Bottom-right: Classic Mini Cooper in burnt orange/rust tone, side profile, "MINI" in oversized bold condensed font, amber-orange panel, detail thumbnails of door handle and round taillight cluster. All four panels have a dark bottom section with white serif editorial description text, small divider lines, and 2–3 small square detail photos. Overall layout: vertical 9:13 poster, magazine-editorial aesthetic, graphic design studio quality, automotive illustration meets print poster art. A subtle "OzairAI" text appears naturally engraved on one of the license plates in the Corolla panel. Ultra photorealistic, 8K, no text overlays, cinematic color grading."
+```
+
+<a id="ui-88"></a>
+### 753. 车辆爆炸视图
+
+作者 [@CharaspowerAI](https://x.com/CharaspowerAI) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-88#ui-88)** · [原帖](https://x.com/CharaspowerAI/status/2056049620753449271)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-88#ui-88"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-88.webp" width="480" alt="车辆爆炸视图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create an ultra detailed exploded view of the iconic [vehicle name].
+[Vehicle] is suspended in mid-air with all mechanical parts separated and floating in perfect alignment, showing the full internal structure of the vehicle. White background
+```
+
+<a id="ui-89"></a>
+### 754. 男士变帅分析海报
+
+作者 [@frametheory058](https://x.com/frametheory058) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-89#ui-89)** · [原帖](https://x.com/frametheory058/status/2056038533962555737)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-89#ui-89"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-89.webp" width="320" alt="男士变帅分析海报 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+I will upload a face photo/selfie.
+
+Create an ULTRA PREMIUM AI MALE GLOW-UP ANALYSIS POSTER with a luxury fashion-tech aesthetic.
+
+IMPORTANT:
+The uploaded face and identity must remain EXACTLY THE SAME.
+
+Do NOT change:
+- facial structure
+- eyes
+- nose
+- lips
+- jawline
+- skin tone
+- facial proportions
+- identity
+
+The face should look 100% identical to the uploaded image.
+
+You MAY enhance:
+- hairstyle
+- beard style
+- expression
+- outfit
+- lighting
+- posture
+- styling
+- background
+- overall attractiveness
+
+STYLE:
+The final result should look like:
+- a luxury grooming brand campaign
+- a futuristic men’s fashion magazine
+- a premium AI self-improvement dashboard
+- cinematic and extremely expensive
+
+NO basic infographic look.
+NO cheap AI poster style.
+NO cartoonish design.
+
+THEME:
+Use a premium modern luxury aesthetic:
+- matte black
+- champagne gold
+- warm beige
+- silver accents
+- dark graphite
+- soft cinematic lighting
+
+Add:
+- glassmorphism UI
+- floating premium panels
+- luxury typography
+- subtle reflections
+- realistic shadows
+- elegant spacing
+- premium composition
+
+CENTER SUBJECT:
+- Place the uploaded face in the center
+- Make him look like a high-status modern male model
+- Confident masculine expression
+- Attractive but realistic
+- Strong eye contact
+- Natural skin texture
+
+HAIRSTYLE SECTION:
+Create premium hairstyle recommendations using the SAME FACE:
+- textured quiff
+- low taper
+- side part flow
+- modern messy hairstyle
+- clean slick back
+
+BEARD SECTION:
+Using the SAME FACE:
+- light stubble
+- short boxed beard
+- clean shave
+- sharp jawline beard
+
+OUTFIT STYLE SECTION:
+Create multiple premium outfit inspirations using the SAME FACE:
+- old money
+- smart casual
+- luxury streetwear
+- classy formal
+- monochrome black fit
+
+All outfits should look:
+- tailored
+- masculine
+- expensive
+- editorial quality
+
+FACE ANALYSIS SECTION:
+Include:
+- face shape
+- jawline analysis
+- facial harmony
+- symmetry
+- hairstyle compatibility
+- skin undertone
+- attractiveness strengths
+
+COLOR PALETTE SECTION:
+Show best clothing colors:
+- black
+- cream
+- olive
+- navy
+- charcoal
+- white
+
+GLASSES SECTION:
+Show glasses/sunglasses styles that suit the face:
+- aviator
+- rectangle
+- wayfarer
+- round metal
+
+BEST ANGLES SECTION:
+Create multiple mini portraits using the SAME FACE:
+- 3/4 angle
+- side profile
+- eye-level
+- slight down angle
+
+BACKGROUND:
+Luxury studio environment:
+- blurred city lights
+- elegant interior
+- premium fashion studio
+- cinematic depth
+- luxury apartment vibe
+
+TEXT STYLE:
+Minimal, clean, elegant.
+Looks like a premium fashion editorial mixed with AI analysis.
+
+QUALITY:
+- ultra realistic
+- hyper detailed
+- 8K
+- cinematic realism
+- luxury aesthetic
+- highly polished
+- visually addictive
+```
+
+<a id="ui-90"></a>
+### 755. 东京粉色时尚拼贴
+
+作者 [@Mind_Boticni](https://x.com/Mind_Boticni) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-90#ui-90)** · [原帖](https://x.com/Mind_Boticni/status/2056013715892514937)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-90#ui-90"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-90.webp" width="480" alt="东京粉色时尚拼贴 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+GPT Image 2 on ChatGPT                         
+
+Prompt :
+
+Create a premium 1:1 luxury fashion collage featuring the same stylish Japanese college girl in multiple cinematic portrait moments across one artistic composition. Blend ultra-realistic anime-inspired beauty with luxury editorial aesthetics. Include close-up beauty shots, candid walking moments, stylish classroom fashion, playful mirror selfies, rooftop sunset poses, and soft emotional expressions while maintaining identical character identity throughout. Use asymmetrical overlapping photo layers, torn magazine textures, glossy reflections, handwritten fashion notes, dreamy pink gradients, cinematic bloom lighting, and tiny  size integrated typography like “TOKYO PINK”, “ICON”, “YOUTH MODE”, and “LUXE GIRL”. Ultra detailed, cinematic, modern Japanese fashion campaign aesthetic, soft depth of field, premium social media advertisement style, 8K.
+```
+
+<a id="ui-91"></a>
+### 756. 索尼相机参考信息图
+
+作者 [@j_smeaton99](https://x.com/j_smeaton99) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-91#ui-91)** · [原帖](https://x.com/j_smeaton99/status/2056003752927379750)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-91#ui-91"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-91.webp" width="480" alt="索尼相机参考信息图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a premium square “reference-style photography equipment infographic” centered around a modern Sony mirrorless camera such as the {CAMERA_MODEL}, designed as a beautifully curated camera-engineering handbook page rather than a retail advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite photographer’s field guide and high-end editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Dark premium studio-tech background with subtle photography-grid textures, optical schematics, and cinematic UI overlays
+• Elegant muted palette using matte black, graphite gray, titanium silver, warm orange accents, and subtle electric-blue highlights
+• Refined editorial typography hierarchy
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium HUD-style dividers
+• Minimal professional photography iconography
+• Extremely detailed central camera render viewed in dramatic three-quarter perspective with studio lighting and shallow depth-of-field aesthetics
+• Thin precision annotation lines pointing toward camera hardware systems and imaging technologies
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {CAMERA_MODEL} placed at the center, featuring premium magnesium-alloy body textures, realistic lens glass reflections, tactile control dials, advanced sensor detailing, cinematic lighting, and ultra-realistic photography gear presentation.
+
+Surround the camera with scientific and engineering callouts explaining:
+
+• full-frame image sensor
+• AI autofocus system
+• image stabilization technology
+• electronic viewfinder system
+• advanced video recording features
+• dual card-slot architecture
+• battery performance system
+• weather-sealed body design
+• lens ecosystem compatibility
+• wireless connectivity systems
+
+Include modular infographic sections such as:
+
+• Camera Overview
+• Technical Specifications
+• Dimensions & Build
+• Sensor & Image Quality
+• Processor & Performance
+• Autofocus & Subject Tracking
+• Video Recording Features
+• Stabilization Technology
+• Shooting Modes & Burst Performance
+• Lens Ecosystem
+• Battery & Power System
+• Connectivity Features
+• Professional Workflow Integration
+• Included Accessories & Box Contents
+• “Top 5 Reasons to Choose” section
+• Ideal Photography & Filmmaking Use Cases
+
+Add small premium visualization modules like:
+
+• sensor cutaway diagrams
+• autofocus coverage maps
+• stabilization system graphics
+• lens ecosystem displays
+• battery performance charts
+• video codec comparison tables
+• camera blueprint dimensions
+• menu/UI mockups
+• accessory ecosystem visuals
+• performance benchmark graphics
+
+Style Keywords:
+
+“premium photography encyclopedia”
+“editorial camera handbook”
+“high-end photography infographic”
+“scientific imaging technology poster”
+“museum-quality camera reference page”
+“modular photography knowledge system”
+“clean cinematography editorial design”
+“ultra-detailed camera visualization”
+
+Avoid:
+
+• generic e-commerce advertisement aesthetics
+• cluttered tech layouts
+• unrealistic sci-fi hologram effects
+• cartoon camera styling
+• excessive cyberpunk neon overload
+• low-detail product renders
+
+The final result should resemble a professionally published photography-equipment reference-book page created for photographers, cinematographers, content creators, camera collectors, engineers, and educational imaging archives.
+```
+
+<a id="ui-92"></a>
+### 757. 桌面配置盘点信息图
+
+作者 [@DilshadAI1](https://x.com/DilshadAI1) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-92#ui-92)** · [原帖](https://x.com/DilshadAI1/status/2055962696936468714)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-92#ui-92"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-92.webp" width="320" alt="桌面配置盘点信息图 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Create a visual-first, editorial-style infographic auditing the desk setup in the attached photo. Show a side-by-side of current vs. optimized setup with annotations on monitor height, chair position, lighting, cable management, and clutter. Rate each issue with symbols like Top Fix, (working), (acceptable), (costing energy), and (actively hurting), tying each to a consequence like back pain, eye strain, or focus loss. Rank fixes by impact and group them into free fixes, under $50, and worth the investment. Include a Focus Forecast gauge predicting daily deep work hours possible with the current setup vs. after the top 3 fixes. Keep it clean, minimal text, no paragraphs.
+```
+
+<a id="ui-93"></a>
+### 758. 各国体育信息图
+
+作者 [@MrDasOnX](https://x.com/MrDasOnX) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-93#ui-93)** · [原帖](https://x.com/MrDasOnX/status/2055892804744929544)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-93#ui-93"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-93.webp" width="320" alt="各国体育信息图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a premium editorial infographic in a high-end magazine style about [COUNTRY]’s most iconic national [SPORT]
+
+Use a sophisticated dark navy blue, beige, and warm gold color palette with clean minimalist typography and subtle grid lines.
+
+Layout structure (perfectly balanced, cinematic composition for vertical format):
+
+- Central large hero image: A hyper-realistic, cinematic golden-hour photograph of [SPORT] in action — [detailed action scene description with iconic player or moment, stadium/venue, national colors, dramatic lighting], extremely detailed, National Geographic level photography, 8k resolution. The image should be vertically oriented and fill the central space beautifully.
+
+- Top banner: Elegant title “[COUNTRY]’s National Passion: [SPORT]” in bold modern serif font with the [COUNTRY] flag subtly integrated.
+
+Four structured content panels surrounding the central image in a clean vertical asymmetrical grid:
+
+1. History & Origins (above center): Short paragraph on [brief history: when introduced, key milestones, how it became national obsession]. Include 1–2 small historical icons or timeline markers.
+
+2. Legendary Athletes (upper right or below top banner): [Athlete 1], [Athlete 2], [Athlete 3], [Athlete 4] — small portrait thumbnails with key achievements and one signature quote or record each.
+
+3. Key Statistics (below central image, left side): Clean infographic-style stats in bold numbers:
+   - [Stat 1]
+   - [Stat 2]
+   - [Stat 3]
+   - [Stat 4]
+   Use small relevant icons (trophy, stadium, crowd, sport-specific items, etc.).
+
+4. Cultural Significance (below central image, right side): [How the sport shapes national identity, traditions, rivalries, daily life, and culture]. Include 1–2 small cultural photos or symbols.
+
+Design rules:
+- Luxurious editorial magazine aesthetic (think National Geographic × Kinfolk × Bloomberg Businessweek)
+- Thin gold accent lines, subtle shadows, generous white space
+- Small [COUNTRY] flag in the top-right corner
+- Professional sans-serif body text, elegant serif headings
+- Overall ultra-clean, balanced, premium feel with cinematic depth and rich texture
+- Aspect ratio 9:16 (vertical, mobile-friendly), ultra-high detail, no text distortion, sharp typography
+```
+
+<a id="ui-94"></a>
+### 759. 模切贴纸插画
+
+作者 [@Ciri_ai](https://x.com/Ciri_ai) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-94#ui-94)** · [原帖](https://x.com/Ciri_ai/status/2056616223547548106)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-94#ui-94"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-94.webp" width="320" alt="模切贴纸插画 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Transform the uploaded image into a premium die-cut sticker illustration while keeping the main subject fully recognizable. Remove or simplify the original background and cleanly isolate the primary subject. Add a thick soft cream or beige sticker border around the entire silhouette with a subtle realistic drop shadow to create a floating sticker effect. Preserve important textures and details while slightly stylizing the image with enhanced colors, cinematic contrast, and a polished editorial l
+```
+
+<a id="ui-95"></a>
+### 760. 韦特塔罗牌
+
+作者 [@itsphotogptai](https://x.com/itsphotogptai) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-95#ui-95)** · [原帖](https://x.com/itsphotogptai/status/2056400494709690591)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-95#ui-95"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-95.webp" width="320" alt="韦特塔罗牌 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a Tarot card based on what you know about me, in the classic style of Rider-Waite. Portray me as a drawn figure with an expressive, but slightly uneven black line of ink, with vivid fluctuations and variations in the stroke, with flat colors without shading. Add delicate visual elements of the Tarot around the figure. convey the texture of the paper and the feeling of a printed impression.
+```
+
+<a id="ui-96"></a>
+### 761. 情景喜剧片头分镜表
+
+作者 [@KimAkiyama81](https://x.com/KimAkiyama81) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-96#ui-96)** · [原帖](https://x.com/KimAkiyama81/status/2059390326578511931)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-96#ui-96"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-96.webp" width="480" alt="情景喜剧片头分镜表 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a professional film production storyboard for a 15-second sitcom intro montage in a premium pitch deck presentation. Use multi-panel storyboard sheet layout, cinematic 16:9 framing per panel, clean panel borders, shot descriptions beneath each frame, timing notes, and transition indicators between panels. Maintain strict character consistency for Super Mei, Edvard, and Fenrir across all panels. Include a complete sequence of title flash, living room, backyard walkies, kitchen powers, convenience store raid, monster battle, bonus domestic comedy beats, closing hero shot, and logo slam. Visual style: cinematic sitcom, high-budget live-action network comedy, production-ready fidelity, not animated or illustrated.
+```
+
+<a id="ui-97"></a>
+### 762. 品牌形象规范图板
+
+作者 [@Ciri_ai](https://x.com/Ciri_ai) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-97#ui-97)** · [原帖](https://x.com/Ciri_ai/status/2060938931588472932)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-97#ui-97"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-97.webp" width="320" alt="品牌形象规范图板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Using the uploaded logo for (Brand name) generate a high-end, agency-grade brand identity system poster. ---  OBJECTIVE Create a complete, presentation-ready brand guideline board that looks like it was designed by a top branding studio.
+
+The result must feel commercial, realistic, and client-deliverable, not conceptual. ---  INTELLIGENCE RULE (THIS IS WHAT YOU WERE MISSING) Before designing, analyze the logo and infer:3 identity traits (based on analysis) ---  COLOR SYSTEM (SMART GENERATION) Extract palette from logo automatically Include: Primary colors (3–5) Secondary colors (3–5) Accent colors Each must show: HEX codes labeled usage (primary / UI / highlight / background) Also generate: gradients color combinations tonal
+
+variations ---  TYPOGRAPHY SYSTEM (MATCH PERSONALITY) Select typography style based on brand: luxury → elegant serif tech → geometric sans street → bold condensed
+```
+
+<a id="ui-98"></a>
+### 763. 可收藏科学百科卡片
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-98#ui-98)** · [原帖](https://x.com/iamaiistudio/status/2061509471810302050)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-98#ui-98"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-98.webp" width="320" alt="可收藏科学百科卡片 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a high-quality vertical science encyclopedia infographic for [theme]. Make it feel less like a basic poster and more like a polished modular knowledge card with an encyclopedia, museum-guide, structured-information, and collectible reference-page aesthetic. The style should combine premium natural-history plates, modern encyclopedia spreads, lifestyle knowledge cards, and highly shareable social-media infographics.
+
+Include a clear and attractive main visual for the theme, several enlarged detail callouts, multiple rounded information modules, a strong title hierarchy, concise highlight tags, rich but readable educational copy, and a visual section such as ratings, key takeaways, or a Top 5 list.
+
+Adapt the content modules to the chosen theme. Use the most relevant mix of basic profile, classification, visual traits, behavior or ecology, formation process or structural makeup, growth or usage conditions, care and maintenance guidance, risks and cautions, suitable audiences or use cases, pros and cons, and a quick scoring card.
+
+Use a light clean background, soft coordinated colors, subtle shadows, refined small icons, rounded info boxes, tidy spacing, and dense information that still feels easy to read. The final image should look publishable, collectible, readable, and suitable for a repeatable encyclopedia-card series. Avoid a commercial advertising poster look. Emphasize knowledge organization, modular information design, and illustrated encyclopedia presentation.
+```
+
+<a id="ui-99"></a>
+### 764. 宠物世界杯分镜表
+
+作者 [@CamikaApp](https://x.com/CamikaApp) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-99#ui-99)** · [原帖](https://x.com/CamikaApp/status/2062355101877231959)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-99#ui-99"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-99.webp" width="480" alt="宠物世界杯分镜表 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+A professional pre-production storyboard sheet for a 12-second photorealistic short film, single landscape page, layout top to bottom:
+
+== TITLE BAR ==
+Black bar across full width. Left: massive bold white text "PET WORLD CUP". Right: two outlined boxes "TOTAL VIDEO TIME: 12 SECONDS" and "8 SHOTS · ENSEMBLE · COMEDY · CINEMATIC".
+
+== ICON LEGEND ==
+Four icon+label pairs in a row: soccer ball + "BALL ACTION"; paw + "DUEL"; hamster + "MIGHTY MINI"; trophy + "VICTORY".
+
+== MAIN GRID (8 panels, 2×4) ==
+Each panel: thin white border, landscape 16:9. Number badge (1-8) top-left, teal "~1.5s" tag top-right, photorealistic still inside, bottom caption bar with icon + ALL-CAPS text.
+
+1. [ball] "PET WORLD CUP FINAL KICKS OFF" — Wide stadium at golden hour. Midfield: orange tabby cat (red jersey) + golden retriever (blue jersey) facing off, ball between them. Deep background: enormous white goalposts with tiny hamster goalkeeper between them. Side: white rabbits in stands with pom-poms. Sunset cinematic light.
+
+2. [paw] "RABBIT CHEERLEADERS BRING THE NOISE" — Close on stands: 3 fluffy white rabbits in tiny jerseys, mouths open cheering, paws shaking red and blue pom-poms in unison. Stadium lights, blurred crowd silhouettes behind.
+
+3. [paw] "CAT VS DOG MIDFIELD DUEL" — Close-up: cat (red jersey) and dog (blue jersey) facing off, ball between their paws. Intense eye contact. Dirt kicking up. Whiskers and ear fluff in motion.
+
+4. [ball] "DOG STEALS, BREAKS AWAY" — Dog with ball at paws charging through midfield. Cat sprinting behind, paws stretched, ears back.
+
+5. [ball] "DOG WINDS UP — SHOT INCOMING" — Dog in classic kick pose, back leg lifted high, eyes locked on distant goal. Deep background: enormous white goalposts with TINY hamster goalkeeper barely visible — dramatic scale contrast.
+
+6. [hamster] "HAMSTER VS THE GIANT GOAL" — Low angle close-up: enormous white goalposts towering over tiny golden Syrian hamster wearing mini yellow goalie gloves. Looking up determined, paws raised ready. Ball flying in from frame edge.
+
+7. [hamster] "EPIC SAVE — TINY BUT MIGHTY" — Hamster in full sprawl leap, paws extended, blocking ball with tiny body. Mid-air freeze frame. Confetti falling, blurred crowd silhouettes raising arms.
+
+8. [trophy] "HAMSTER HERO — TEAMS UNITE" — Wide final shot at golden hour: cat (red) and dog (blue) standing side by side staring in awe at tiny hamster holding up small golden trophy. White rabbits in stands raise pom-poms wildly. Confetti, golden sparkles.
+
+== BOTTOM INFOGRAPHIC (4 sections horizontal) ==
+[Clock] VIDEO FLOW: "8 shots × ~1.5s = 12s. Stadium → rabbit fans → cat-vs-dog rivalry → dog shoots → hamster saves → ensemble celebration."
+
+[Camera] CAMERA TIPS: "Wide establishing on stadium, close-up on rabbits, low-angle on midfield duel, side-tracking on breakaway, scale frame on hamster vs goalposts, hero shot on save, wide on celebration."
+
+[Sun] LIGHT & STYLE: "Photorealistic cinematic. Golden-hour stadium light throughout. Warm amber grass, lens flares, real DSLR/iPhone aesthetic. Crisp action focus."
+
+[Person] CHARACTER NOTES: "Cast: orange tabby cat with M-mark (red jersey), golden retriever (blue jersey), golden Syrian hamster with mini yellow goalie gloves (yellow kit), 3-4 white fluffy rabbits with pom-poms. Hamster MUST appear dramatically tiny vs goalposts. All humans/crowd are faceless silhouettes — no faces. Each animal identical across panels."
+
+== STRICT EXCLUSIONS ==
+No real soccer team logos, no FIFA/Champions League/UEFA/World Cup branding, no real player faces, no sponsor logos, no national flags, no jersey numbers, no stadium signage with real text, no captions, no watermarks. Plain colored jerseys only. All 8 panels photorealistic — never cartoon/3D/illustration. All animals identical across panels.
+```
+
+<a id="ui-100"></a>
+### 765. 电影感联系表生成器
+
+作者 [@KingNyalTut](https://x.com/KingNyalTut) · 4:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-100#ui-100)** · [原帖](https://x.com/KingNyalTut/status/2062330612279611656)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-100#ui-100"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-100.webp" width="480" alt="电影感联系表生成器 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Given the scene context, generate the Cinematic Contact Sheet based on the instructions:
+<instruction>
+Analyze the entire composition of the input image. Identify ALL key subjects present (whether it's a single person, a group/couple, a vehicle, or a specific object) and their spatial relationship/interaction.
+Generate a cohesive 3x3 grid "Cinematic Contact Sheet" featuring 9 distinct camera shots of exactly these subjects in the same environment.
+You must adapt the standard cinematic shot types to fit the content (e.g., if a group, keep the group together; if an object, frame the whole object):
+Row 1 (Establishing Context):
+Extreme Long Shot (ELS): The subject(s) are seen small within the vast environment.
+Long Shot (LS): The complete subject(s) or group is visible from top to bottom (head to toe / wheels to roof).
+Medium Long Shot (American/3-4): Framed from knees up (for people) or a 3/4 view (for objects).
+Row 2 (The Core Coverage):
+4. Medium Shot (MS): Framed from the waist up (or the central core of the object). Focus on interaction/action.
+5. Medium Close-Up (MCU): Framed from chest up. Intimate framing of the main subject(s).
+6. Close-Up (CU): Tight framing on the face(s) or the "front" of the object.
+Row 3 (Details & Angles):
+7. Extreme Close-Up (ECU): Macro detail focusing intensely on a key feature (eyes, hands, logo, texture).
+8. Low Angle Shot (Worm's Eye): Looking up at the subject(s) from the ground (imposing/heroic).
+9. High Angle Shot (Bird's Eye): Looking down on the subject(s) from above.
+Ensure strict consistency: The same people/objects, same clothes, and same lighting across all 9 panels. The depth of field should shift realistically (bokeh in close-ups).
+</instruction>
+A professional 3x3 cinematic storyboard grid containing 9 panels.
+The grid showcases the specific subjects/scene from the input image in a comprehensive range of focal lengths.
+Top Row: Wide environmental shot, Full body view, 3/4 cut.
+Middle Row: Waist-up view, Chest-up view, Face/Front close-up.
+Bottom Row: Macro detail, Low Angle, High Angle.
+All frames feature photorealistic textures, consistent cinematic color grading, and correct framing for the specific number of subjects or objects analyzed.
+
+Here is the scene context:
+A wide cinematic exterior of the Whitmore estate at dusk in Buckhead, Atlanta. The massive gated modern mansion glows with warm amber lights against the dark tree line, with the circular driveway, lion fountain, and polished landscaping fully visible. The estate feels quiet, powerful, and untouchable — like a private world hidden behind wealth and security.
+```
+
+<a id="ui-101"></a>
+### 766. 技术风食物标注信息图
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-101#ui-101)** · [原帖](https://x.com/iamaiistudio/status/2062264967722934629)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-101#ui-101"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-101.webp" width="480" alt="技术风食物标注信息图 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Generate an infographic image of any food item, combining a realistic photograph or photoreal render with technical annotation overlays placed directly on top. Use black ink-style line drawings and text (technical pen / architectural sketch look) on a pure white studio background. Include: key component labels, internal cutaway or exploded-view outlines, measurements and scale markers, material callouts and quantities, arrows indicating function or flow, simple schematic or sectional diagrams where relevant. Place the food name as a title inside a hand-drawn annotation box in one corner. The real object should remain clearly visible beneath the annotations. Annotations should feel sketched, technical, and architectural. Clean composition with balanced negative space, educational museum-exhibit / engineering-manual vibe. White background, black annotation lines and text only, no colors. Output: 1080x1080, ultra-crisp, no watermark.
+```
+
+<a id="ui-102"></a>
+### 767. 巴扎劫案分镜卡
+
+作者 [@aimikoda](https://x.com/aimikoda) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-102#ui-102)** · [原帖](https://x.com/aimikoda/status/2062223135454249178)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-102#ui-102"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-102.webp" width="480" alt="巴扎劫案分镜卡 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: JIEL MARKET HANDS
+META LINE: sly fantasy theft / fast-paced bazaar caper / sharp kinetic energy
+PRIORITY: readable hand tricks, crowd geography, magical bag payoff
+MICRO BRIEF: C1 survives by stealing through a crowded market, chaining fast sleight-of-hand thefts until a witness grabs her arm and becomes her final stolen prize.
+
+[CONTINUITY HEADER]
+SEQUENCE ID: JIEL_MARKET_PICKPOCKET_MAGIC_BAG_12P
+REFERENCE PRIORITY: attached Jiel character sheet controls C1 face, body, wardrobe, proportions, hood, hair, belt, pouches, boots, wrapped hands; attached market image controls bazaar density, stall layout, warm dust, awnings, crowd scale, and painterly-world texture; this storyboard controls staging, motion, geography, and continuity.
+
+[SCENE PACKET]
+PREMISE: A red-hooded thief moves through a crowded old bazaar using collisions, distractions, and hand speed to steal coins, jewelry, and wallets before magically stealing the man who catches her.
+LOCATION: sunlit packed market alley, stalls left and right, hanging fabrics overhead, jewelry stall left, fruit baskets right, cloth booth midground, arched exit background, narrow side gap behind C1 screen right.
+START -> END: C1 enters from background center with empty hands and hidden satchel -> C2 catches her wrist foreground right, then shrinks and folds into C1's open magic bag as the crowd barely notices.
+ACTION CHAIN: master geography -> necklace lift -> bump wallet steal -> cloak-pass coin purse cut -> fruit-stall distraction theft -> fast crowd weave -> witness notices -> wrist grab -> anxious turn -> bag opens with warped pull -> C2 is swallowed into bag -> C1 snaps bag shut and vanishes into crowd.
+PROP / EFFECT STATE: small tan satchel at C1 hip begins closed, stolen wallet and coin purse move into her belt pouch, jewelry cord disappears under red cloak, final bag mouth opens with pale spiral distortion and cloth-like pull lines, no gore.
+MUST READ: C1's quick hands make ordinary theft look playful until the final theft becomes impossible and supernatural.
+
+[CHARACTER SANITIZATION]
+C1: young adult red-hooded thief, short red hair with small twin buns, freckles, slim agile silhouette, cropped cloak, scarf, wrapped hands, utility belt, tan satchel, boots, low quiet posture, quick precise hands.
+C2: adult market man, taller average build, rolled sleeves, dark vest, stern stance, one hand grabbing C1's wrist, startled body bend when pulled toward bag.
+C3: adult market crowd and vendors, varied robes and hats, readable background silhouettes only.
+Remove contradictory traits, invisible psychology, excessive costume detail, and backstory that cannot appear in a panel.
+
+[IDENTITY CONSISTENCY]
+Identity reference controls C1 face/body/wardrobe/proportions; keep C1's red hood, short red hair, wrapped hands, belt pouches, tan satchel, boots, and left-to-right movement consistent. Keep C2 as the same adult man from witness beat through bag capture. Do not redesign, age-shift, gender-shift, merge, or beautify characters across panels.
+
+[STORYBOARD PURITY]
+Panel images are visual-only low-detail monochrome light-gray rough sketches. Put panel numbers, beat names, and lens tags in the header strip outside each panel image. No color, labels, arrows, captions, subtitles, logos, watermarks, timing marks, diagrams, UI, ghost poses, duplicate bodies, or technical overlays inside panels.
+
+[MASTER SHOT RULE]
+P01 shows full playable bazaar geography: stalls left and right, overhead cloth, crowd lanes, C1 center path, side gap screen right, arched exit background, and where C2 can later enter from foreground right.
+
+[EMOTIONAL ARC]
+quiet control -> playful precision -> rising risk -> caught alarm -> impossible reversal -> clean escape. Show it through lowered shoulders, hidden hand angles, sudden eye-line shifts, wrist tension, C2's forward lean, and C1's final compact snap-shut pose.
+
+[STYLE LOCKS]
+STYLE LOCK: clean monochrome rough-sketch storyboard inside panels, light-gray gesture lines, simplified bazaar forms, readable silhouettes, restrained off-white sheet design with tiny rust and dark-teal accents outside panel artwork only.
+EFFECT LOCK: final magic bag effect is a pale sketch spiral and fabric-warp pull, medium thickness, soft edges, no colored glow inside panels, no gore or horror gore.
+ENVIRONMENT LOCK: crowded warm old bazaar layout stays consistent; market detail remains simplified sketch, not dense finished concept art.
+
+[SPATIAL CONTINUITY LOCK]
+P01, P06, P08, P09, P10, P11, and P12 share one market-alley layout. Later panels are closer angles or a wider return on the same axis, not redesigned locations. Lock jewelry stall left, fruit baskets right, cloth booth midground, overhead awnings, arched exit background, and C2 entering from foreground right. Allowed changes: camera distance, crowd gaps, C1 pose, stolen prop state, bag open/closed state, and C2's body position during the magical pull.
+
+[DIRECTOR STRIP]
+Bottom animatic track board aligned to panel columns. Tracks: BEAT LINE, CAMERA PATH, ACTION PATH, RHYTHM TRACK, ESCALATION MAP, STATE TRACK, STYLE TRACK. Use shot chips, thin lines, rhythm blocks, small intensity bars, one-to-three-word labels. No seconds or timestamps.
+RHYTHM TRACK format: `RHY P [hold|slow reveal|build|burst|impact|pause|recover|final hit] / [short block|medium block|long block] / [clean beat|match beat|smash beat|held beat|whip beat]`.
+ESCALATION MAP format: `ESC P [L1 calm|L2 tension|L3 rise|L4 surge|L5 peak] / [flat|rise|spike|drop|release|unresolved]`.
+PANEL HEADERS: P01 / 24mm wide / Bazaar master -> P02 / 50mm / Necklace lift -> P03 / 35mm / Bump wallet -> P04 / macro insert / Coin purse cut -> P05 / 35mm / Fruit distraction -> P06 / overhead wide / Crowd weave -> P07 / 85mm / Witness sees -> P08 / 50mm / Wrist catch -> P09 / 85mm portrait / Anxious turn -> P10 / 35mm / Bag opens -> P11 / 24mm wide / Man stolen -> P12 / 50mm / Snap escape
+CAMERA + LENS PLAN: P01 wide geography hold -> P02 side track 50mm -> P03 handheld bump 35mm -> P04 macro insert -> P05 whip pan 35mm -> P06 overhead tactical wide -> P07 compressed witness close -> P08 crash-in 50mm -> P09 reaction close -> P10 low side 35mm -> P11 wider distortion hold -> P12 follow-off 50mm
+ACTION PATH: P01 C1 threads center lane -> P02 fingers lift necklace cord -> P03 shoulder bump frees wallet -> P04 blade-like fingers cut coin purse -> P05 fruit spill hides bracelet grab -> P06 C1 slips through closing crowd -> P07 C2 checks empty pouch -> P08 C2 grabs C1 wrist -> P09 C1 turns with held breath -> P10 C1 opens satchel against C2 arm -> P11 C2 folds into bag pull -> P12 C1 shuts bag and exits
+RHYTHM TRACK: P01 RHY P01: hold / medium block / clean beat -> P02 RHY P02: burst / short block / clean beat -> P03 RHY P03: impact / short block / smash beat -> P04 RHY P04: burst / short block / clean beat -> P05 RHY P05: burst / short block / whip beat -> P06 RHY P06: build / medium block / match beat -> P07 RHY P07: pause / short block / held beat -> P08 RHY P08: impact / short block / smash beat -> P09 RHY P09: pause / short block / held beat -> P10 RHY P10: build / short block / clean beat -> P11 RHY P11: impact / medium block / smash beat -> P12 RHY P12: final hit / short block / clean beat
+ESCALATION MAP: P01 ESC P01: L1 calm / flat -> P02 ESC P02: L2 tension / rise -> P03 ESC P03: L3 rise / spike -> P04 ESC P04: L2 tension / drop -> P05 ESC P05: L3 rise / spike -> P06 ESC P06: L3 rise / rise -> P07 ESC P07: L4 surge / spike -> P08 ESC P08: L4 surge / rise -> P09 ESC P09: L5 peak / spike -> P10 ESC P10: L5 peak / unresolved -> P11 ESC P11: L5 peak / spike -> P12 ESC P12: L3 rise / release
+STATE TRACK: P01 bag closed empty -> P02 necklace hidden -> P03 wallet in palm -> P04 coin purse loose -> P05 bracelet pocketed -> P06 loot belt bulge -> P07 C2 empty pouch -> P08 wrist locked -> P09 C1 caught -> P10 bag mouth open -> P11 C2 shrinking/folding -> P12 bag shut C1 exits right
+STYLE TRACK: P01 pale bazaar sketch -> P02 quick hand line -> P03 impact blur sketch -> P04 clean insert -> P05 crowd smear -> P06 overhead lanes -> P07 tight stare -> P08 wrist tension -> P09 face close -> P10 spiral sketch -> P11 fabric warp -> P12 dust escape
+
+[SEQUENCE]
+Grid: 12 panels in a 4x3 storyboard sheet; fast-cut caper montage with a shared bazaar geography, clear theft inserts, caught reaction, magical bag reversal, and active escape ending.
+```
+
+<a id="ui-103"></a>
+### 768. 奢华新手包愿景板
+
+作者 [@mehvishs25](https://x.com/mehvishs25) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-103#ui-103)** · [原帖](https://x.com/mehvishs25/status/2062355934589108655)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-103#ui-103"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-103.webp" width="320" alt="奢华新手包愿景板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Ultra-detailed luxury feminine “Starter Pack” vision board poster featuring an adorable chibi-style girl as the central character, inspired by premium collectible dolls and Pinterest luxury aesthetics. She has huge sparkling brown eyes, long wavy black hair, soft glamorous makeup, glossy lips, delicate jewelry, and a confident yet cute expression.
+
+Outfit: elegant monochrome ivory-white fashion look consisting of a fitted blazer, cropped top, high-waisted mini skirt, sheer tights, luxury handbag, and stylish heels. Sophisticated, classy, feminine, and fashion-forward.
+
+Composition: the character stands in the center surrounded by an elaborate scrapbook-style collage pinned onto a warm beige aesthetic wall. Numerous Polaroid photos, torn-paper notes, journal pages, gold heart pins, washi tape, dried flowers, doodles, handwritten quotes, and lifestyle snapshots create a premium vision-board effect.
+
+Photo memories surrounding her include:
+
+working on a MacBook in a luxury café
+
+taking photographs with a camera
+
+traveling through international airports
+
+shopping in fashionable city streets
+
+posing in elegant outfits
+
+enjoying luxury vacations
+
+golfing on a beautiful course
+
+coffee dates and aesthetic lifestyle moments
+
+content creation and personal branding
+
+dream destinations around the world
+
+Vision board sections include:
+Traits, Goals, Daily Habits, Manifestations, Bucket List, Travel Dreams, Future Plans, Success Tracker, Self-Care Routine, Weekly Goals, and Motivational Quotes.
+
+Foreground desk setup: designer planner, leather journal, luxury pen, coffee mug with inspirational typography, skincare products, perfume bottle, candles, flowers, wallet, sunglasses, beauty accessories, and elegant stationery arranged aesthetically.
+
+Color palette: soft beige, cream, ivory, champagne, warm taupe, nude blush, and subtle gold accents.
+
+Lighting: warm natural window light, soft shadows, cozy luxury atmosphere, dreamy glow, realistic depth and layering between papers and objects.
+
+Style: luxury Pinterest mood board, feminine entrepreneur aesthetic, high-end scrapbook design, premium lifestyle branding, cute collectible doll character, handcrafted paper textures, layered collage artwork, editorial photography quality.
+
+Quality: hyper-detailed, ultra-realistic materials, photorealistic objects, cinematic lighting, 8K resolution, masterpiece composition, sharp focus, intricate details, luxury magazine cover aesthetic, trending social-media poster design, collectible art quality.
+```
+
+<a id="ui-104"></a>
+### 769. 压印金属 Logo 浮雕
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-104#ui-104)** · [原帖](https://x.com/iamaiistudio/status/2063065673740497022)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-104#ui-104"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-104.webp" width="320" alt="压印金属 Logo 浮雕 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Replace [BRAND NAME] with your brand and [COLOR] with your preferred metal tone.
+
+Act as a Senior CGI Artist. Create a premium bas-relief logo visualization where the brand mark appears embossed outward from a metallic surface, like a coin, hallmark stamp, or luxury seal. The logo rises as a unified raised form from the surface itself.
+
+Surface: One continuous material plane filling the entire canvas. Use the metal tone from [COLOR]: silver/grey becomes brushed steel, gold becomes warm brushed metal, black becomes anodized aluminum, white becomes matte ceramic, saturated colors become anodized colored metal. Apply radial brushed grain and fine film grain for tactility.
+
+Emboss: The brand's primary logo mark rises as a full bas-relief, like a coin die-stamp. The entire filled silhouette pushes outward as one solid mass at uniform height. Top face is slightly convex, catching key light. Smooth beveled edge transitions from flat surface to raised form. Interior negative spaces recess back to surface level. Substantial raised height like a thick coin.
+
+Lighting: Primary soft area light from upper-left (10-11 o'clock), broad and diffused. Light temperature matches [COLOR]: cool white for silver/grey/blue, warm amber for gold/copper, neutral for white/black. Subtle fill light from lower-right at 10-15% intensity. No hard shadows.
+
+Typography: Below the embossed mark, minimal lockup on the same surface. Small flat brand icon, brand name in spaced geometric caps, one light italic descriptor line (founding year, category, or tagline). Centered, vertically stacked.
+
+Render: Ray tracing enabled for self-shadowing. Full sharpness edge to edge. Uniform film grain. No chromatic aberration. The mark must read as PUSHED OUTWARD from the surface.
+```
+
+<a id="ui-105"></a>
+### 770. 雕塑感水果包装设计
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-105#ui-105)** · [原帖](https://x.com/iamaiistudio/status/2062959343658754160)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-105#ui-105"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-105.webp" width="320" alt="雕塑感水果包装设计 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Professional product photography of a sculptural packaging design built for [Fruit Name]. The box is premium corrugated cardboard shaped and cut into the exact silhouette of a giant [Shape — spherical, curved, or elongated] [Fruit Name].
+
+Outer surface is printed with a bold, minimal [Pattern — geometric hexagons / organic wavy lines / botanical line-art / horizontal ridges] that echoes the natural skin texture, rendered in a duo-tone scheme of [Color 1] and [Color 2].
+
+Die-cut window panels expose the [Product Inside] nestled inside. Clean modern sans-serif text on the side reads "[BRAND NAME]". Eco details include a recycling icon and a sculpted corrugated [Stem / Leaf / Crown] on top.
+
+Soft diffused studio lighting, gentle drop shadows, set against a solid pastel [Background Color]. 8K, photorealistic, cinematic framing, industrial design aesthetic.
+```
+
+<a id="ui-106"></a>
+### 771. 奢华香水信息图广告
+
+作者 [@iamrealsnow](https://x.com/iamrealsnow) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-106#ui-106)** · [原帖](https://x.com/iamrealsnow/status/2062888729023557979)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-106#ui-106"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-106.webp" width="320" alt="奢华香水信息图广告 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Ultra-premium luxury perfume infographic advertisement, centerpiece crystal perfume bottle with intricate glass detailing, surrounded by flowing liquid gold splashes and floating flower petals, elegant black and gold color palette, cinematic studio lighting, glossy reflections, fashion magazine quality, luxury beauty campaign design.
+
+Highly organized infographic layout with premium sections and elegant typography:
+• Fragrance Pyramid (Top Notes, Heart Notes, Base Notes) with luxury ingredient visuals.
+• Key Ingredients showcase with realistic botanical illustrations.
+• Longevity and Performance metrics using premium golden icons.
+• Bottle Design Breakdown with callout lines and annotations.
+• Perfect Occasions section featuring luxury lifestyle imagery.
+• How To Wear guide with minimalistic illustrated icons.
+• Sustainability, Cruelty Free, Premium Craftsmanship badges.
+
+Center composition dominated by hero perfume bottle, surrounded by information panels arranged symmetrically. Gold foil typography, luxury branding elements, elegant dividers, premium editorial layout, luxury cosmetics catalog design, infographic meets high-end advertisement, sophisticated visual hierarchy, ultra-detailed glass textures, photorealistic product rendering, luxury magazine spread, award-winning advertising agency quality, masterpiece, ultra sharp details, HDR, 8K, commercial product photography.
+
+Style references: Chanel, Dior, Tom Ford, Maison Francis Kurkdjian, luxury fashion magazine editorial, premium infographic design, black background, gold accents, museum-quality luxury presentation.
+```
+
+<a id="ui-107"></a>
+### 772. 3A 游戏加载画面人像
+
+作者 [@yulikay](https://x.com/yulikay) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-107#ui-107)** · [原帖](https://x.com/yulikay/status/2062850006537953367)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-107#ui-107"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-107.webp" width="480" alt="3A 游戏加载画面人像 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Step 1. Uploaded a reference selfie to Higgsfield.
+
+Generated the still loading screen using GPT Image 2.
+
+Prompt (you can adjust the details with your name, bio, etc.):
+
+Generate a hyper-realistic in-game cinematic still from a fictional unreleased AAA video game, rendered in Unreal Engine 5 with MetaHuman-quality character fidelity, Nanite-level environment detail, and full ray-traced lighting. The result should look indistinguishable from a real 4K screenshot pulled directly from a modern AAA title like Death Stranding 2, Hellblade 2: Senua's Saga, The Last of Us Part 2, Cyberpunk 2077, or Black Myth: Wukong.
+
+The character (right two-thirds of the frame)
+
+Render the uploaded person Image 1 as the playable protagonist of this fictional game. Keep the person's exact facial likeness, skin tone, eye colour, and hair colour as the anchor (the digital double must read as them, not a generic model).
+
+Photoreal skin: visible pores, subsurface scattering through the cheeks and ears, micro-detail on the lips, faint natural blemishes preserved. Hair rendered with individual strand detail, soft physics, slight backlit halo. Eyes with full catchlight, wet sheen, subtle iris detail, faint moisture in the lower lid line.
+
+Wardrobe: contemporary cinematic styling that fits the game's world.
+- A tailored cropped leather jacket over a fitted silk top, with delicate gold chain jewellery
+
+Pose: three-quarter angle, head turned slightly toward camera, calm confident posture. Subtle stylized stance, not theatrical.
+
+The environment (background)
+
+A photoreal AAA game environment behind the character. Pick ONE based on mood:
+- Golden-hour rooftop of a fictional cinematic Tokyo, neon signs in soft bokeh, distant skyline, warm haze
+- Misty forest with shafts of god rays cutting through canopy, soft moss detail, distant fog
+- Rain-slick neon-lit alley in a Cyberpunk-style city, puddles reflecting magenta and teal, drifting steam
+- A coastal cliff at golden hour, wildflowers in the foreground, ocean haze on the horizon
+
+Full Lumen global illumination, ray-traced reflections, photoreal depth of field with character in sharp focus and background in cinematic soft blur. Photoreal volumetric lighting and atmospheric haze.
+
+UI overlay (left third of the screen)
+
+A minimalist modern AAA game UI panel, semi-transparent matte black with thin warm-gold accent lines (inspired by Death Stranding's clean menu aesthetic). The panel feels expensive, technical, and restrained.
+
+Display the following character profile, rendered in a custom game-UI typeface (clean modern serif for headings, fine sans-serif for body):
+
+- CHARACTER: YULI
+- TITLE: The Soft-Power Heroine
+- CLASS: Wanderer · Creator · Aesthete
+- LEVEL: 30
+- REGION: Currently exploring · Asia
+- AFFINITY: Light & Warmth
+- BIO: Main Character Energy
+
+Each field separated by a thin gold dividing line. Subtle text glow.
+
+Game title bar (top of frame)
+
+At the top centre, a fictional AAA game title in refined serif: "AETHER · A Soft Power Adventure"
+Below it, in fine all-caps tracked text: "CHAPTER ONE · NOW LOADING..."
+
+Loading bar (bottom of frame)
+
+A horizontal minimalist loading bar at 73% complete. The filled portion glows faint warm gold. Below the bar in small italic text: "TIP: Beauty is data. Travel often. Save your screenshots."
+
+Visual treatment (post-processing)
+
+Cinematic AAA post-processing stack: subtle chromatic aberration at edges, soft film grain, gentle vignette, faint lens dirt on the highlights, warm-cool colour grading. The image should feel like a 4K screenshot taken from a $200 million production game, not a graphic poster.
+
+Output
+
+4K resolution, 16:9 aspect ratio, photoreal AAA quality, screenshot-authentic. Looks like a frame pulled from a real high-end console game running on a PS5 Pro or high-end PC.
+```
+
+<a id="ui-108"></a>
+### 773. 能量饮料分镜网格
+
+作者 [@Strength04_X](https://x.com/Strength04_X) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-108#ui-108)** · [原帖](https://x.com/Strength04_X/status/2063256718902219255)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-108#ui-108"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-108.webp" width="320" alt="能量饮料分镜网格 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+- Create a high-energy 16:9 energy drink advertising storyboard in 3x2 grid (6 frames), editorial layout, Monster/Red Bull style, matte black + electric green palette. Structured flow: pre-game locker room, can crack open close-up, first sip slow motion, athlete explosive start, peak performance moment, victory fist pump closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Underground sports aesthetic, zero to hundred mood, energy as superpower. A single energy drink can cracking open is the emotional center throughout. Add a bold heading at the top of the storyboard in aggressive bold font reading: NO LIMITS — AN ENERGY EDITORIAL.
+
+KLING AI 3.0 PROMPT :- This is a storyboard image containing 6 frames arranged in a 3x2 grid. Treat each frame as a separate sequential scene. Animate every frame one by one from left to right, top to bottom. Start from frame 1 top-left, then frame 2, then frame 3, then frame 4, then frame 5, end with frame 6 bottom-right. Each frame must play for exactly 2.5 seconds. Total video duration 15 seconds. Do not merge frames together. Do not skip any frame. Do not loop. Play each frame in strict order as one continuous uninterrupted cinematic video. Use locker room fluorescent light flickering over athlete in pre-game silence, can tab cracking open with mist spray in extreme slow motion macro, first sip with throat gulp visible and eyes sharpening in real time, explosive sprint start with ground crack effect and motion blur, peak performance jump with sweat flying off body in slow motion, victory fist pump with crowd blur and electric green light flare. Add subtle motion within each frame only, smooth dissolve transitions between frames. Lighting transitions from cold locker room fluorescent blue to electric green can crack flash to harsh outdoor performance sun to victory green flare closure. Underground sports aesthetic, zero to hundred raw energy mood, drink as pure superpower. A single energy drink can cracking open remains the emotional focus across all 6 frames. Ultra-realistic, 4K photographic quality, no cartoon style.
+```
+
+<a id="ui-109"></a>
+### 774. 动漫短片开发板
+
+作者 [@HeyAbhishek](https://x.com/HeyAbhishek) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-109#ui-109)** · [原帖](https://x.com/HeyAbhishek/status/2063271070426435756)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-109#ui-109"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-109.webp" width="480" alt="动漫短片开发板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+"Create a single vertical anime development board for an original emotional short film titled "One More Player". Output ONE combined image with 2 sections: top section = character design sheet, bottom section = cinematic storyboard page.
+STYLE: ultra high-quality nostalgic late 90s / early 2000s anime movie look, premium hand-drawn animation style, beautifully painted backgrounds, rich environmental detail, cinematic composition, soft but highly refined shading, natural character anatomy, expressive faces, subtle texture, realistic wet ground reflections, warm cloudy sunset lighting, atmospheric depth, polished old-anime film aesthetic, visually stunning frame quality, clean studio-level pre-production presentation. Make it feel like a premium old anime film, not modern glossy anime.
+IMPORTANT: create fully original characters. Do not copy any existing anime, manga, game, or sports anime characters, faces, hairstyles, outfits, or famous designs.
+SECTION A: CHARACTER DESIGN SHEET
+Show 5 original characters clearly and consistently.
+Main child:
+A shy little boy around 8 years old with short messy dark hair, large warm eyes, slim build, oversized yellow T-shirt, blue shorts, and small sneakers. He feels nervous at first, then happy and accepted.
+Show:
+- front view
+- side view
+- back view
+- 3/4 view
+- expressions: nervous, scared, surprised, soft smile, happy
+- poses: holding soccer ball, standing shyly, running with ball
+Teen group:
+Four teenage boys around 14 to 16, sporty and friendly, each with different hairstyles and casual soccer outfits. They should look slightly intimidating at first from the little boy’s perspective, but actually kind and welcoming. One teen is the warm leader.
+Show for the teen group:
+- simple front, side, back, and 3/4 views
+- relaxed poses
+- soccer poses
+- smiling expressions
+Keep them original, visually distinct, and cohesive.
+Add small handwritten design notes and simple color swatches.
+SECTION B: STORYBOARD PAGE
+Create 8 cinematic storyboard panels in a clean grid. Use red panel borders, blue motion arrows, handwritten camera notes, timing notes, and short action notes. Keep all characters consistent.
+Story beats:
+1. Four teenagers playing soccer on a neighborhood ground after light rain, warm cloudy sunset, wet reflections on the field.
+2. The soccer ball flies away toward the sitting area beside the field.
+3. A shy little boy sitting alone notices the ball and picks it up.
+4. The teenage boys walk toward him together. From the little boy’s view, they look a little scary.
+5. Close-up of the little boy holding the ball with a nervous face.
+6. The warm leader smiles kindly and gestures with his hand, inviting the boy to come play.
+7. The little boy’s face changes from scared to relieved, then he smiles and runs toward them.
+8. Final wide shot: the little boy happily plays soccer with the four teens under warm sunset light.
+ENVIRONMENT:
+Neighborhood soccer ground, wet dusty field, simple goalpost, sitting area beside the field, chain-link fence, trees, cloudy sunset sky, calm old-anime mood.
+FINAL GOAL:
+Make this a clean, highly polished, premium-quality anime pre-production board with beautiful cinematic presentation, emotional storytelling, strong readability, and a heartwarming ending. The image should look visually rich, refined, and high-end."
+```
+
+<a id="ui-110"></a>
+### 775. 杂志风解剖信息图海报
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-110#ui-110)** · [原帖](https://x.com/iamaiistudio/status/2063202176344932732)
+
+<table>
+<tr><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-110#ui-110"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-110.webp" width="260" alt="杂志风解剖信息图海报 – GPT Image 2 1"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-110#ui-110"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-110-2.webp" width="260" alt="杂志风解剖信息图海报 – GPT Image 2 2"></a></td></tr>
+</table>
+
+**提示词:**
+
+```text
+prompt:
+
+Ultra-clean editorial infographic poster (1080x1080 square), blending premium magazine design with lifestyle illustration and photography.
+
+**HEADLINE:**
+Bold, large sans-serif type centered at top: "HUMAN LIVER"
+
+**MAIN IMAGE:**
+High-detail 3D illustration of the human liver, showing the Right Lobe, Left Lobe, and Gallbladder. Color palette: terracotta, deep brownish-red, and soft coral tones. Background: clean, soft beige or off-white. Lighting: soft studio style.
+
+**POSTER SECTIONS:**
+
+* **Floating Fact Bubbles (top corners):**
+    * "Weight: ~1.5 kg (Heaviest internal organ)"
+    * "Regeneration: Can regrow from just 25%"
+    * "Location: Upper Right Abdomen"
+    * "Blood Flow: Filters 1.4 L/min"
+
+* **Organ Labels (arrows pointing to anatomy):**
+    * Right Lobe
+    * Left Lobe
+    * Gallbladder (greenish sac below)
+    * Common Bile Duct
+    * Hepatic Portal Vein
+
+* **Key Functions (left column, small icons):**
+    * **Detox:** Filters toxins from blood
+    * **Bile:** Aids fat digestion
+    * **Metabolism:** Processes carbs and protein
+    * **Storage:** Holds glycogen, iron, vitamins
+
+* **Highlights (right column, small icons):**
+    * **Chemical Factory:** 500+ vital functions
+    * **Immunity:** Fights blood-borne infections
+    * **Clotting:** Makes blood-clotting proteins
+
+* **Health Tips (bottom cards):**
+    1. **Limit Alcohol** - Prevents cirrhosis
+    2. **Stay Hydrated** - Flushes toxins
+    3. **Balanced Diet** - Low sugar, high fiber
+    4. **Vaccinate** - Hepatitis A & B protection
+    5. **Exercise** - Burns fat and triglycerides
+
+**STYLE:** Glassmorphism frosted-glass text boxes, soft drop shadows, medical accuracy meets high-end graphic design.
+```
+
+<a id="ui-111"></a>
+### 776. 石墨咖啡馆分镜
+
+作者 [@insmind_com](https://x.com/insmind_com) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-111#ui-111)** · [原帖](https://x.com/insmind_com/status/2063252153612017766)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-111#ui-111"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-111.webp" width="480" alt="石墨咖啡馆分镜 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a rough black-and-white graphite pencil storyboard in a 3x3 grid, nine 16:9 panels, with hand-drawn borders, panel numbers, motion arrows, music notes, and handwritten director notes.
+
+Storyboard for a premium animated coffee-shop hip-hop commercial for insMind. Keep the same young female barista throughout: expressive eyes, high messy bun with loose curls, white barista shirt with tiny pale-blue details, black neck scarf with a small insMind logo, dark fitted trousers, white flat shoes. Warm modern cafe interior, espresso machine, wooden counter, pastry case, large windows, soft daylight.
+
+Show these beats: opening push-in with the barista singing, steam wand frothing milk like stage smoke, wide hip-hop side-step, body wave with scarf logo visible, overhead latte pour, macro foam rings, delighted reaction, top-down latte art spelling “insMind”, and final hero reveal as she offers the cup to camera.
+
+Use rough pencil lines, grayscale shading, sketch texture, cinematic storyboard composition, expressive unfinished production-board style. Avoid polished color render, photorealistic stills, vector art, extra characters, subtitles, UI, or unreadable brand spelling.
+```
+
+<a id="ui-112"></a>
+### 777. 威尼斯旅行博主拼贴
+
+作者 [@ZaraIrahh](https://x.com/ZaraIrahh) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-112#ui-112)** · [原帖](https://x.com/ZaraIrahh/status/2063432414945591594)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-112#ui-112"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-112.webp" width="480" alt="威尼斯旅行博主拼贴 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Young female travel vlogger exploring Venice, Italy across 13 wildly candid, chaotic, funny, and uniquely Venetian moments, stunning with long windswept hair, effortless luxury European summer fashion, playful adventurous personality, authentic handheld iPhone collage aesthetic with natural imperfections, unfiltered travel energy, social media realism, spontaneous vacation chaos.
+
+Frame Breakdown Includes: — accidentally boarding the wrong vaporetto and enthusiastically waving at the dock before realizing she's headed in the opposite direction — struggling to drag an oversized suitcase over a steep stone canal bridge, laughing at the absurdity of it — getting completely lost in Venice's labyrinth of narrow alleys and emerging into a deserted hidden courtyard with a confused expression — chasing a paper city map as the wind sends it flying toward a canal — being unexpectedly surrounded by a massive flock of pigeons in Piazza San Marco while clutching a half-eaten pastry — attempting an elegant gondola selfie but getting caught off guard when the gondola suddenly rocks — discovering a tiny hidden bookstore and reacting dramatically to a sleeping cat curled up among the books — squeezing through an impossibly narrow Venetian alleyway and realizing halfway through that it's much tighter than expected — trying to pose gracefully in a beautiful Venetian carnival mask while struggling not to laugh — caught in a sudden rain shower as historic squares become reflective and crowded with umbrellas — confidently following a shortcut only to reach a dead-end canal with no bridge, staring in disbelief — accidentally walking into the background of an extravagant luxury wedding photoshoot near a historic palace — Final frame: sitting beside a quiet canal at blue hour, surrounded by shopping bags, a melting gelato, and a crumpled city map, laughing uncontrollably after spending the entire day hopelessly lost, candid shaky capture, motion blur, authentic Venice travel chaos
+
+Style: ultra-realistic travel vlog collage, Venice street photography, handheld smartphone camera aesthetic, imperfect framing, accidental photobombs, candid expressions, genuine laughter, iconic Venetian architecture, canals, gondolas, historic bridges, hidden alleyways, European summer atmosphere, natural lighting, motion blur, lens flares, overexposed highlights, authentic memories, cinematic storytelling, high-detail realism, viral travel content, no studio polish, no posing, spontaneous documentary-style moments, social media realism, chaotic vacation energy, luxury travel influencer aesthetic.
+```
+
+<a id="ui-113"></a>
+### 778. 现代食谱信息图板
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-113#ui-113)** · [原帖](https://x.com/iamaiistudio/status/2063724080717783194)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-113#ui-113"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-113.webp" width="480" alt="现代食谱信息图板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Ultra-clean modern recipe infographic. Showcase your dish in a visually appealing finished form, sliced, plated, or portioned, floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not top-down. Ingredients: include icons or mini illustrations for each ingredient with quantities, arranged in clusters, lists, or circular flows connected visually to the dish. Steps: show preparation steps with numbered panels, arrows, or lines forming a logical flow. Include small cooking icons (knife, pan, oven, timer) where helpful. Optional info: total calories, prep/cook time, servings, spice level displayed as clean bubbles or badges. Visual style: editorial infographic meets lifestyle food photography. Vibrant natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors highlight key info. Composition: finished meal as hero visual (perspective or angled), ingredients and steps flow dynamically around the dish, clear visual hierarchy, enough negative space to keep design airy and readable. Lighting: soft natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080x1080, ultra-crisp, social-feed optimized.
+
+Full prompt:
+```
+
+<a id="ui-114"></a>
+### 779. INNER SIGNAL 品牌海报系列
+
+作者 [@bmx_ai13](https://x.com/bmx_ai13) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-114#ui-114)** · [原帖](https://x.com/bmx_ai13/status/2063726489905123489)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-114#ui-114"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-114.webp" width="320" alt="INNER SIGNAL 品牌海报系列 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+👇
+{
+  "project_title": "INNER SIGNAL",
+  "concept_type": "Brand Identity Poster Series",
+  "brand_name": "SIGNAL",
+  "tagline": "FEED THE INNER SIGNAL",
+  "style": {
+    "look": "bold experimental editorial branding",
+    "mood": "mysterious, powerful, rebellious, premium",
+    "colors": ["black", "crimson red", "white"],
+    "lighting": "hard red light, deep shadows, high contrast",
+    "texture": "film grain, halftone, motion blur"
+  },
+  "design_rules": {
+    "typography": "bold uppercase sans-serif, Swiss-style layout",
+    "layout": "clean grid, strong negative space, recurring minimal logo mark",
+    "visual_language": "cinematic, fashion-forward, dark, sharp, minimal"
+  },
+  "brand_message": "Build identities that do not blend in. Designed for ambitious brands that want presence, confidence, and creative impact.",
+  "poster_series": [
+    {
+      "title": "The Two Selves",
+      "subject": "dark human silhouette with two blurred side profiles behind the head",
+      "meaning": "inner conflict, identity, duality",
+      "text_overlay": "FEED THE INNER SIGNAL.",
+      "prompt": "A bold branding poster with a lone dark silhouette against a glowing crimson red background. Two blurred shadow profiles appear behind the head, suggesting dual identity and inner voices. High contrast red and black lighting, minimal white logo mark, bold uppercase typography, cinematic editorial style, film grain, clean Swiss layout."
+    },
+    {
+      "title": "The Crowd Signal",
+      "subject": "crowd silhouettes facing a giant glowing red screen",
+      "meaning": "presence, influence, voice rising above noise",
+      "text_overlay": "SIGNALS RISE ABOVE NOISE.",
+      "prompt": "A premium poster showing a dark crowd in silhouette facing a large glowing red screen with abstract geometric shapes. The scene feels cinematic and intense, with black shadows, crimson atmosphere, subtle haze, white typography, and a modern branding layout."
+    },
+    {
+      "title": "The Focused Face",
+      "subject": "close-up portrait with a red line crossing the eyes",
+      "meaning": "clarity, vision, self-definition",
+      "text_overlay": "DESIGNED TO BE SEEN.",
+      "prompt": "A close-up fashion portrait of a person in deep shadow against a solid crimson background. A thin red band crosses the eyes, creating a futuristic and psychological feel. High-end editorial lighting, minimal white text, black clothing, premium poster design."
+    },
+    {
+      "title": "The Instinct",
+      "subject": "aggressive black dog or wolf under red light",
+      "meaning": "raw creative power, instinct, fearless energy",
+      "text_overlay": "RAISING THE STANDARD OF CREATIVE INSTINCT.",
+      "prompt": "A dark animal portrait poster featuring a black dog or wolf emerging from shadow under intense red lighting. Teeth visible, powerful expression, black background, white typography, bold brand aesthetic, gritty film texture, luxury editorial composition."
+    },
+    {
+      "title": "The Connection",
+      "subject": "black carabiner linking thick ropes",
+      "meaning": "systems, structure, trust, connection",
+      "text_overlay": "BRAND SYSTEMS. CREATIVE DIRECTION.",
+      "prompt": "A clean branding poster with a black metal carabiner connecting two thick ropes against a pure crimson red background. Glossy highlights, product-style lighting, centered composition, minimal white logo mark, Swiss typography, sleek premium design."
+    },
+    {
+      "title": "The Hidden Beast",
+      "subject": "abstract halftone tiger or leopard face",
+      "meaning": "ambition, hidden force, controlled danger",
+      "text_overlay": "FOR AMBITIOUS BRANDS THAT MOVE WITH INTENT.",
+      "prompt": "An abstract poster showing a tiger or leopard face formed with red halftone texture emerging from deep black space. Mysterious and intense mood, experimental print look, minimal white typography, strong contrast, premium creative studio identity."
+    }
+  ],
+  "master_prompt": "Create a 6-poster brand identity series for a fictional creative studio named SIGNAL. Use only black, crimson red, and white. The posters should feel cinematic, premium, rebellious, and intelligent. Use high-contrast editorial visuals, deep shadows, red lighting, film grain, halftone texture, bold uppercase typography, and minimal logo repetition. Themes include dual identity, influence, vision, instinct, connection, and ambition."
+}
+```
+
+<a id="ui-115"></a>
+### 780. 工业包装设计稿
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-115#ui-115)** · [原帖](https://x.com/iamaiistudio/status/2063735848257167383)
+
+<table>
+<tr><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-115#ui-115"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-115.webp" width="260" alt="工业包装设计稿 – GPT Image 2 1"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-115#ui-115"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-115-2.webp" width="260" alt="工业包装设计稿 – GPT Image 2 2"></a></td></tr>
+</table>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Full prompt: 
+
+Using the attached image, create a professional industrial packaging design illustration sheet.
+
+Feature a centered hero 3D render with realistic materials, soft studio lighting, and commercial-grade finish quality. Surround the hero render with technical views: front, side, top, bottom, angled perspective, and flat layout.
+
+Include structural construction sketches, fold lines, seam details, and dimension arrows with measurements in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) using handwritten-style annotations. Add color swatches, realistic product illustrations, and subtle shadows.
+
+Background should resemble clean sketchbook paper, combining realistic rendering with pencil sketch overlays. Modern industrial design aesthetic, ultra-detailed, portfolio-ready presentation.
+```
+
+<a id="ui-116"></a>
+### 781. 镀铬 Logo 杂志视觉系统
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-116#ui-116)** · [原帖](https://x.com/iamaiistudio/status/2063644125510217787)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-116#ui-116"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-116.webp" width="480" alt="镀铬 Logo 杂志视觉系统 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+prompt:
+
+[BRAND NAME]. You are a Senior 3D Product Visualization Artist and Cinematic Art Director specializing in luxury brand key visuals for high-end editorial and streetwear campaigns.
+
+PHASE 1: LOGO SUBJECT
+
+Identify the official logo/logotype of [BRAND NAME]. Render it with maximum fidelity to the original silhouette, proportions, and geometry — no distortion, no stylization. Extrude the logo into a solid 3D object with depth approximately 15–20% of its height. Coat all surfaces — front face, side extrusion, beveled edges — in hyper-polished liquid chrome (reflectance 0.98, near-perfect mirror). Apply full ray-traced environment reflections so the logo mirrors the surrounding sky gradient, flower field, and light sources. Moderate bevel radius on all hard edges to catch sharp specular highlights. Add Subsurface Scattering on thin structural parts (fine lines, serifs, icon details) for a subtle inner glow. Place 4–8 prismatic 4-point star lens-flare sparkles at highest specular peaks — corners, tips, curved peaks. Organic distribution, not uniform. Zero matte surfaces. Zero plastic look. The entire logo must read as cast from liquid silver.
+
+PHASE 2: ENVIRONMENT & BACKGROUND
+
+Background: wide cinematic landscape at golden-lilac hour (just after sunset). Dense flower field fills the lower third — lavender and white wildflowers with realistic micro-texture and subtle wind motion-blur on far clusters. Middle ground fades to soft purple-grey bokeh. Sky gradient: warm blush rose ( at horizon through lilac ( to cool powder blue ( at top. Add 3–5 silhouetted bird clusters in upper quadrants. Volumetric atmospheric haze on the horizon. Shift the environment's color palette to reflect [BRAND NAME]'s iconic brand identity — introduce the brand's signature hue as a tonal wash in the sky gradient or dominant flower color. The environment must feel art-directed specifically for this brand.
+
+PHASE 3: COMPOSITION & LAYOUT
+
+Format: 1:1 square. Chrome logo centered horizontally at vertical midpoint, monumental scale spanning 65–80% of frame width. Subtle 2–4 degree forced perspective tilt for dynamic energy without distorting logo recognition. Bottom edge of the logo grazes or slightly overlaps the top of the flower field, integrating the 3D object naturally. Logo casts a soft diffused shadow into the flowers. Lower-left corner: 2–3 lines of micro-copy in clean white sans-serif at minimal optical size — a poetic 3-line brand statement relevant to [BRAND NAME]'s heritage and aesthetic. Bottom-left: "[BRAND NAME]" in small caps logotype label. Bottom-right: a secondary flat 2D chrome version of the same logo as a finishing mark.
+
+PHASE 4: LIGHTING
+
+Primary: large soft area light from upper-left simulating post-sunset overcast sky — fully diffused, no hard shadows, 5800K with lilac tint overlay. Secondary: warm 3200K rim light grazing bottom and side edges from behind — golden separation halo between object and field. Global Illumination enabled — chrome logo realistically bounces and absorbs landscape ambient color. The field's purple tones should be faintly visible in the lower reflective surfaces. Volumetric god rays faintly visible through any logo negative space or cutouts.
+
+TECH SPECS
+
+Octane Render aesthetic. Ray Tracing: 16+ bounces. Depth of Field: f/11 equivalent — full logo sharp, far background in soft bokeh only. Tone mapping: lifted blacks, compressed highlights, filmic S-curve. Color grade: desaturated midtones, preserved pastels, cool shadow tones. Film grain: subtle (ISO 200 equivalent). Chromatic Aberration: 0.2–0.3px on peripheral logo edges only. Anti-aliasing: maximum. No AI-plastic normals. No smooth uniform shading. Microscopic surface imperfections on chrome required — micro-scratches, 0.5% roughness noise map. Mood: luxury brand retrospective editorial for Highsnobiety or AnOther Magazine.
+```
+
+<a id="ui-117"></a>
+### 782. 护肤 UGC 分镜板
+
+作者 [@WanderingC76](https://x.com/WanderingC76) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-117#ui-117)** · [原帖](https://x.com/WanderingC76/status/2063797516731294055)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-117#ui-117"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-117.webp" width="320" alt="护肤 UGC 分镜板 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+(Luxury AI UGC skincare campaign board), warm beige aesthetic, beautiful female influencer with glowing healthy skin, holding a skincare serum bottle toward the camera, natural smile, cozy bedroom environment, soft natural daylight, realistic home setting, elegant neutral decor.
+
+Large hero portrait on the left side.
+
+Right side featuring (6 UGC storyboard panels):
+(Hook Shot),
+(Product Introduction),
+(Product Application),
+(Lifestyle Shot),
+(Results Shot),
+(Call To Action).
+
+Each panel showing realistic influencer actions and natural expressions.
+
+Bottom section featuring (Key Ingredients Box) with elegant skincare icons and ingredient highlights.
+
+Additional product close-ups, serum texture shots, lifestyle B-roll images, premium beauty advertising layout.
+
+(Soft Natural Lighting),
+(Real & Relatable),
+(Clean Editorial Design),
+(UGC Creator Style),
+(Premium Skincare Branding),
+(Warm Beige Color Palette),
+(Photorealistic),
+(Ultra Detailed),
+(Vertical 9:16),
+(8K Quality).
+
+Negative Prompt:
+watermark, logo, low quality, blurry, bad anatomy, distorted hands, cluttered layout, dark lighting, cartoon, CGI.
+```
+
+<a id="ui-118"></a>
+### 783. 早期互联网作品集页面
+
+作者 [@Kashberg_0](https://x.com/Kashberg_0) · 4:5 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-118#ui-118)** · [原帖](https://x.com/Kashberg_0/status/2065992579502747850)
+
+<table>
+<tr><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-118#ui-118"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-118.webp" width="190" alt="早期互联网作品集页面 – GPT Image 2 1"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-118#ui-118"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-118-2.webp" width="190" alt="早期互联网作品集页面 – GPT Image 2 2"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-118#ui-118"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-118-3.webp" width="190" alt="早期互联网作品集页面 – GPT Image 2 3"></a></td></tr>
+</table>
+
+**提示词:**
+
+```text
+Design a minimal early-internet personal profile webpage / digital portfolio landing page on a large white canvas with generous negative space and a thin pastel pink browser-style frame. In the center, place a black-and-white editorial portrait of [SUBJECT], featuring soft film grain, subtle scanner texture, and low-contrast photographic tones.
+
+Surround the portrait with scattered profile metadata labels and small star-bullet elements arranged asymmetrically, resembling a playful personal résumé. Include descriptors such as:
+
+✦ creator
+✦ model
+✦ stylist
+✦ DJ
+✦ girl
+✦ photographer
+✦ collector
+✦ dreamer
+
+In the top-left corner, create a colorful hand-drawn logo or personal brand mark. Beneath it, add a tiny timestamp and date in a small system font, mimicking an old personal homepage.
+
+In the top-right corner, place irregular sticker-like navigation tabs in bright accent colors (pink, cyan, purple, yellow, and green). Use simple labels such as:
+
+HOME
+ABOUT
+WORK
+DIARY
+LINKS
+
+Scatter handwritten marker-style notes, introductions, personal thoughts, and lifestyle captions throughout the empty space. Examples:
+
+"currently making things online"
+"welcome to my homepage"
+"music, fashion, internet"
+"updated today"
+"living between projects"
+
+Maintain an anti-grid editorial layout with intentionally imperfect spacing and playful placement. Mix tiny system fonts, handwritten script, and casual notebook-style annotations. Keep the portrait entirely monochrome while reserving color only for the logo, navigation stickers, and a few small graphic accents.
+```
+
+<a id="ui-119"></a>
+### 784. 彩铅照片转绘
+
+作者 [@AIwithSynthia](https://x.com/AIwithSynthia) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-119#ui-119)** · [原帖](https://x.com/AIwithSynthia/status/2066154697828782245)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-119#ui-119"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-119.webp" width="320" alt="彩铅照片转绘 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Transform the uploaded photo into a charming hand-drawn colored-pencil and crayon illustration while preserving the person's exact pose, facial features, outfit, expression, and background composition. Create a warm, whimsical sketchbook aesthetic with visible pencil strokes, crayon textures, and soft pastel colors.
+
+Place the illustrated version as the main full-frame artwork. Add playful doodles around the scene such as hearts, stars, flowers, clouds, sparkles, and cute hand-drawn elements that complement the environment. Use textured paper as the canvas background and maintain a cozy, nostalgic, storybook feel.
+
+In the bottom-right corner, include a rounded-rectangle inset containing the original unedited photo as a realistic reference image. The inset should resemble a social media post preview with subtle UI elements like a heart icon and engagement count. Ensure the illustrated version perfectly matches the original photo in composition, creating a striking before-and-after transformation effect.
+
+Highly detailed, colored pencil illustration, crayon art style, hand-sketched textures, vibrant yet soft pastel palette, Instagram-style layout, whimsical doodles, premium artwork, realistic reference inset, masterpiece, ultra-detailed, 4K.
+```
+
+<a id="ui-120"></a>
+### 785. 吉祥物品牌识别设计表
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 2:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-120#ui-120)** · [原帖](https://x.com/iamaiistudio/status/2066568983453880412)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-120#ui-120"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-120.webp" width="320" alt="吉祥物品牌识别设计表 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+{
+  "type": "18-section complete brand identity and mascot design sheet",
+  "brand": {
+    "name": "{argument name=\"brand name\" default=\"MUYANG TEA\"}",
+    "industry": "{argument name=\"industry\" default=\"tea shop\"}",
+    "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "{argument name=\"secondary color\" default=\"green\"}", "white", "brown", "dark green"]
+  },
+  "subject": "{argument name=\"character description\" default=\"3D rendered cute Shiba Inu mascot wearing a green apron\"}",
+  "layout": {
+    "grid": "3-column by 6-row grid layout",
+    "sections": [
+      {
+        "title": "01 BRAND DNA ANALYSIS",
+        "elements": ["brand logo", "5 color swatches", "6 brand icons", "target audience charts"]
+      },
+      {
+        "title": "02 CONCEPT MOODBOARD",
+        "elements": ["5 reference photos", "4 mood icons", "design concept equation"]
+      },
+      {
+        "title": "03 FORM STUDY",
+        "elements": ["4 logo anatomy icons", "4 design evolution steps", "4 character silhouettes"]
+      },
+      {
+        "title": "04 CONCEPT EXPLORATION",
+        "elements": ["12 line-art character concept sketches"]
+      },
+      {
+        "title": "05 REFINED LINE ART",
+        "elements": ["3 rows of front and side view line art with proportion guides"]
+      },
+      {
+        "title": "06 DETAIL REFINEMENT",
+        "elements": ["2 full-body renders with annotation labels", "4 circular close-up views"]
+      },
+      {
+        "title": "07 EXPRESSION SHEET",
+        "elements": ["11 3D rendered facial expressions"]
+      },
+      {
+        "title": "08 POSE LIBRARY",
+        "elements": ["9 full-body 3D rendered character poses"]
+      },
+      {
+        "title": "09 TURNAROUND VIEW",
+        "elements": ["5 full-body 3D renders from multiple angles", "5 matching line-art views"]
+      },
+      {
+        "title": "10 COLOR DEVELOPMENT",
+        "elements": ["5 rows of 5-color palette options", "color psychology explanations"]
+      },
+      {
+        "title": "11 MATERIAL SPECIFICATION",
+        "elements": ["5 surface texture swatches", "material property sliders", "4 manufacturing process icons"]
+      },
+      {
+        "title": "12 COLOR APPLICATION",
+        "elements": ["4 color scheme variant renders", "2 light and dark mode renders", "4 contrast rating indicators"]
+      },
+      {
+        "title": "13 CONSTRUCTION GUIDE",
+        "elements": ["2 line-art technical diagrams for geometry and grid system"]
+      },
+      {
+        "title": "14 DESIGN SYSTEM RULES",
+        "elements": ["minimum size icons", "clear space diagram", "4 correct and incorrect usage examples"]
+      },
+      {
+        "title": "15 ASSET VARIANTS",
+        "elements": ["3 scaled size variants", "3 line-art style variants", "3 simplified flat icon heads"]
+      },
+      {
+        "title": "16 DIGITAL APPLICATIONS",
+        "elements": ["1 app icon design", "2 social media avatar versions", "UI component elements", "3-frame animation cycle"]
+      },
+      {
+        "title": "17 PHYSICAL APPLICATIONS",
+        "elements": ["plush toy product mockup", "product packaging mockup", "branded merchandise mockup", "retail storefront mockup"]
+      },
+      {
+        "title": "18 FINAL RENDERING",
+        "elements": ["large high-resolution 3D mascot render holding tea cup", "finalized logo", "deliverable file format list"]
+      }
+    ]
+  }
+}
+```
+
+<a id="ui-121"></a>
+### 786. 建筑风产品目录页
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-121#ui-121)** · [原帖](https://x.com/iamaiistudio/status/2066447564132745574)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-121#ui-121"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-121.webp" width="320" alt="建筑风产品目录页 – GPT Image 2"></a>
+
+> 📎 这条需要你自己上传参考图。
+
+**提示词:**
+
+```text
+Create a vertical 3:4 product design catalog page with a warm neutral paper-like background.
+
+Top section — lifestyle hero shot: place the product (use the uploaded image as the exact reference, preserving its form, proportions, materials, and identity without redesign) center-dominant with generous whitespace. Setting is a minimal architectural interior with a textured plaster wall and subtle concrete/stone floor. Lighting is natural sunlight angled from the side, soft but casting high-contrast shadows. Render in editorial lifestyle photography style, high realism, warm and muted color grading.
+
+Bottom section — technical specification panel laid out in a clean modular grid:
+- Bottom left and center: orthographic architectural line drawings showing front view, side view, and three-quarter cutaway/profile view. Lines in muted red or sepia, fine technical weight, with minimal editorial measurement and construction callouts.
+- Bottom right: 3-4 material swatch samples derived from the product's actual materials (fabric, leather, metal, wood, or plastic as applicable), in square or rectangular format with small editorial captions.
+
+Typography: minimal editorial style, subtle captions only, no large headlines, soft black or dark brown.
+
+Overall mood: design catalog / product design journal — architectural, premium, calm. No clutter, no bold colors, no heavy branding, no decorative graphics, no perspective distortion in the technical drawings.
+```
+
+<a id="ui-122"></a>
+### 787. 王者仍在呼吸题头版式
+
+作者 [@NeuralAIInsight](https://x.com/NeuralAIInsight) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-122#ui-122)** · [原帖](https://x.com/NeuralAIInsight/status/2067291988953567706)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-122#ui-122"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-122.webp" width="480" alt="王者仍在呼吸题头版式 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Create a 16:9 image.
+
+[PROJECT CARD]
+Create a compact designed masthead, not a table.
+TITLE: THE KING STILL BREATHES
+META LINE: empty night stadium / a buried crown remembers / three triumphs and one hope
+PRIORITY: the four-jewel crown — three jewels lit certain and complete (blue, white, blue) and a fourth softly awakening with hope; crown stays buried until it rises; pitch resolves into a giant number 10; one realistic field, restraint throughout
+MICRO BRIEF: After a legendary hat-trick, a buried crown awakens beneath an empty Argentina-blue stadium — three jewels light for three World Cups, a fourth begins to glow with hope, and the pitch briefly forms a giant number 10.[CONTINUITY HEADER]
+SEQUENCE ID: king_still_breathes_4jewel_12p
+REFERENCE PRIORITY: No image references provided (Brief-Only). No character — environment-led and symbolic. This storyboard controls stadium geography, the waking pitch lines, the buried crown, the four-jewel sequence, the crown rise, the number-10 reveal, and panel order.
+BEAT NAME LOCK (generate once, use identically in panel headers, action path, state track, and the director-strip beat labels): P01 Empty Stadium / P02 Lines Wake / P03 Crown Stirs / P04 First Jewel (blue) / P05 Second Jewel (white) / P06 Third Jewel (blue) / P07 Crown Rises / P08 Three Jewels Lit / P09 Fourth Jewel Awakens / P10 Lines Connect / P11 Number 10 / P12 Hopeful Stillness. Do not relabel or reorder these anywhere on the board
+[SCENE PACKET]
+PREMISE: An empty but still-charged football stadium at night remembers a legendary hat-trick; the pitch wakes, a buried crown stirs and lights three historic jewels one by one, rises in ceremony, and a fourth jewel softly begins to glow with hope as the field geometry briefly forms a giant number 10.
+LOCATION: A single realistic modern football stadium at night after a major match, empty stands, floodlights over an Argentina sky-blue atmosphere, dark emerald grass, white pitch markings, silver floodlight haze, one goal net. Normal football geography only. The pitch surface and the crown buried beneath it are the active stage.
+START -> END: empty charged stadium, one net swaying, lines beginning to wake -> a quiet hold on the still field, the crown settled, three jewels fading but the fourth jewel remaining faintly alive — the future has begun to breathe.
+ACTION CHAIN: empty stadium, one net sways -> the white pitch lines begin glowing softly, the field waking -> beneath the grass the crown stirs, sensed through buried light and pressure (no visible crown) -> the first jewel lights blue (first World Cup) -> the second jewel lights white (second World Cup) -> the third jewel lights blue (third World Cup) -> the crown rises with ceremonial weight from beneath the pitch -> we see the crown clearly, three jewels glowing blue-white-blue -> a fourth dark jewel stirs, flickers, breathes, and softly begins to glow (hope, not yet a triumph) -> the white lines connect and spread with living light -> from an elevated view the field geometry resolves into a giant number 10 -> the glow fades toward stillness, the crown settles, the fourth jewel remaining faintly alive.
+PROP / EFFECT STATE: a buried crown made by the pitch — gold edges partly formed from the white pitch lines, soil and grass clinging, elegant and football-mythic, never medieval-prop or fantasy-clean. It has four jewel settings. The first three jewels ignite one by one, certain and complete, in Albiceleste rhythm: blue, white, blue. The crown is NOT clearly visible before P07. The fourth jewel is visually distinct: dormant, then flickering and breathing, a soft fragile glow that never fully ignites like the others. The number 10 forms organically and half-found from real field geometry (penalty box, center circle, touchlines, glowing trails), never a graphic overlay. The fourth jewel remains faintly lit at the end. Subtle gold and jewel light only; otherwise blues, whites, silver.
+MUST READ: the hat-trick lights history (three certain jewels) and awakens belief in what comes next (the fragile fourth). Reverent, epic, restrained; pride turning to hope.
+[CHARACTER SANITIZATION]
+No characters. No player, face, body, silhouette, portrait, or likeness of any real person. No Messi depiction of any kind. The subject is the stadium, the pitch, and the crown. The crown is a symbol, not worn; no king, throne, or robes.
+[IDENTITY CONSISTENCY]
+Keep stadium geometry, floodlight positions, the single net position, and pitch-line layout consistent across all panels. Keep the crown design consistent once revealed, and keep the four jewel positions consistent (three that light historic, one that awakens). Argentina connection through color and atmosphere only — sky blue, white, deep night blue — never text, crests, or a depicted person.
+[STORYBOARD PURITY]
+Full-color panel artwork (polished pitch board). Panel numbers, beat names, and lens tags in the header strip outside each panel. The beat names in the headers must match the BEAT NAME LOCK and the director-strip beat labels exactly. No captions, subtitles, signage, logos, crests, brand marks, trophy replicas, readable text, arrows, or overlays inside the artwork. The number 10 appears ONLY as illuminated field geometry within the image, never a graphic label. One clear visual idea per panel.
+[MASTER SHOT RULE]
+P01 establishes the geography: the empty night stadium, floodlights over Argentina-blue haze, dark emerald pitch with white markings, one goal net, empty stands. One realistic field, normal geography. The sacred charged emptiness is set here.
+[EMOTIONAL ARC]
+post-match silence -> recognition -> awakening -> pride (three historic jewels and the coronation) -> hope (the fragile fourth jewel and the lingering glow); carried by the environment — the swaying net, waking lines, buried stir, the one-by-one jewels, the ceremonial rise, the breathing fourth jewel, the connecting geometry, the number 10, and a quiet hopeful hold.
+[STYLE LOCKS]
+STYLE LOCK: mythic cinematic football short, premium symbolic sports poetry, elegant and emotionally charged; full-color; deep stadium night blues, sky-blue and white Argentina light, dark emerald grass, silver floodlight haze, selective gold only on the crown and jewel moments. Reverent, epic, restrained, poetic rather than literal. Not a match recap, not a fan edit, not abstract art-film.
+EFFECT LOCK: the white pitch lines wake with a soft living glow like a nervous system; the crown stirs as buried light and pressure under the turf before any reveal; the first three jewels ignite one by one with clear punctuation, certain and complete, blue then white then blue; the crown, once revealed, rises slow and ceremonial and heavy, pitch-made with soil and grass clinging, never a clean prop; the fourth jewel is softer, fragile, flickering and breathing into a gentle glow, never a full bright ignition; the lines connect and spread with living light; the number 10 resolves organically and half-found from real field geometry, discovered by the camera; the fourth jewel remains faintly alive at the end.
+ENVIRONMENT LOCK: one realistic night stadium throughout — floodlights, blue atmosphere, emerald pitch, white lines, a single net, empty stands; normal football geography only; no three-net or impossible layouts; no crowd, no players, no symbolic clutter.
+CROWN REVEAL LOCK: the crown is NOT clearly visible in P01-P06. In P03-P06 show only buried glow, pressure under the turf, and the jewels lighting beneath/through the grass — never a readable crown. The first clear crown reveal is P07 when it rises. The crown is pitch-made: gold edges partly formed from white pitch lines, soil and grass clinging, elegant and football-mythic, not medieval-prop, not fantasy-clean.
+JEWEL LOCK: four jewel settings, consistent positions. Three light one-by-one as historic and complete in Albiceleste rhythm — P04 blue, P05 white, P06 blue. The fourth (P09) is visually distinct: dormant then awakening, a soft fragile breathing glow that never matches the full certainty of the first three. It must read as hope, not a won trophy.
+[SPATIAL CONTINUITY LOCK]
+All panels share one stadium geography: pitch, white-line layout, floodlight positions, the single net, the crown's central buried location and its four jewel positions. The jewels light in fixed positions; the crown rises from one fixed central point (only from P07); the number 10 forms from the established white-line geometry seen from a widening elevated angle (not a new location or overlay). The camera starts close and textural and gradually widens and elevates toward the reveal. Allowed changes: camera height/angle/distance, which jewel is lit, buried-glow state, crown emergence state (none before P07), the fourth jewel's awakening state, glow spread, line illumination, net sway.
+[DIRECTOR STRIP]
+Animatic track board aligned to panel columns. Shot chips, rhythm blocks, intensity bars, short labels. No seconds or timestamps. BEAT LABEL row must read exactly: P01 Empty Stadium / P02 Lines Wake / P03 Crown Stirs / P04 First Jewel / P05 Second Jewel / P06 Third Jewel / P07 Crown Rises / P08 Three Jewels Lit / P09 Fourth Jewel / P10 Lines Connect / P11 Number 10 / P12 Hopeful Stillness. These must match the panel header beat names.
+PANEL HEADERS:
+P01 / 24mm wide / Empty stadium
+P02 / macro low / Lines wake
+P03 / macro low / Crown stirs (buried)
+P04 / 50mm low / First jewel: blue
+P05 / 50mm low / Second jewel: white
+P06 / 50mm low / Third jewel: blue
+P07 / 35mm low / Crown rises
+P08 / 50mm / Three jewels lit
+P09 / macro / Fourth jewel awakens
+P10 / 35mm rising / Lines connect
+P11 / 24mm crane high / Number 10
+P12 / 24mm wide / Hopeful stillness
+CAMERA + LENS PLAN:
+P01: high wide establishing hold on the empty stadium and single net, patient
+P02: macro low as the white pitch lines begin to glow softly, the field waking
+P03: macro low on the turf as the buried crown stirs — light and pressure under the grass, no visible crown
+P04: low push as the first jewel lights blue beneath the surface, certain and clear
+P05: low push as the second jewel lights white, matching punctuation
+P06: low push as the third jewel lights blue, the historic three now complete
+P07: low angle as the pitch-made crown rises with ceremonial weight from beneath the pitch, soil and grass clinging — first clear reveal
+P08: held medium on the risen crown, three jewels glowing blue-white-blue in Albiceleste rhythm
+P09: macro on the fourth, previously dark jewel as it stirs, flickers, breathes, and softly begins to glow — fragile, hopeful, distinct from the other three
+P10: rising angle as the white lines connect and spread with living light across the field
+P11: high crane / elevated wide as the field geometry resolves half-found into a giant number 10
+P12: wide hold as the glow fades toward stillness and the crown settles, the fourth jewel remaining faintly alive
+ACTION PATH:
+P01: the empty stadium sits charged under floodlights, one net swaying slightly
+P02: the white pitch lines begin glowing softly, the field waking and remembering
+P03: beneath the grass the crown stirs, sensed only through buried light and pressure; no crown visible
+P04: the first jewel lights blue — Argentina's first World Cup
+P05: the second jewel lights white — the second World Cup
+P06: the third jewel lights blue — the third World Cup, the historic three complete
+P07: the crown rises with ceremonial weight from beneath the pitch, soil and grass clinging
+P08: the crown is seen clearly, three jewels glowing blue-white-blue
+P09: a fourth dark jewel stirs, flickers, breathes, and softly begins to glow — hope for a fourth, not yet a triumph
+P10: the white lines connect and spread with living light through the pitch geometry
+P11: from the elevated view, the field geometry resolves into a giant number 10
+P12: the glow fades toward stillness, the crown settles, the fourth jewel remains faintly alive
+RHYTHM TRACK:
+RHY P01: hold / long block / held beat
+RHY P02: slow reveal / medium block / clean beat
+RHY P03: slow reveal / medium block / held beat
+RHY P04: build / short block / clean beat
+RHY P05: build / short block / match beat
+RHY P06: impact / short block / smash beat
+RHY P07: build / long block / held beat
+RHY P08: pause / medium block / held beat
+RHY P09: slow reveal / long block / held beat
+RHY P10: build / medium block / match beat
+RHY P11: final hit / long block / smash beat
+RHY P12: pause / long block / held beat
+ESCALATION MAP:
+ESC P01: L1 calm / flat
+ESC P02: L2 tension / rise
+ESC P03: L2 tension / rise
+ESC P04: L3 rise / rise
+ESC P05: L3 rise / rise
+ESC P06: L4 surge / spike
+ESC P07: L5 peak / surge
+ESC P08: L4 surge / held
+ESC P09: L3 rise / rise
+ESC P10: L4 surge / rise
+ESC P11: L5 peak / spike
+ESC P12: L2 tension / release
+STATE TRACK:
+P01: empty stadium, one net sways, no glow
+P02: white lines waking, soft glow
+P03: buried crown stirs, pressure under turf, no crown
+P04: first jewel blue, beneath surface
+P05: second jewel white
+P06: third jewel blue, historic three complete
+P07: crown rises, soil clinging (first reveal)
+P08: crown clear, three jewels blue-white-blue
+P09: fourth jewel flickering, breathing, soft glow
+P10: lines connected, living light spreading
+P11: geometry resolves into number 10
+P12: glow fades, crown settled, fourth jewel faintly alive STYLE TRACK:
+P01: blue floodlit haze
+P02: waking line glow
+P03: buried stir, turf pressure
+P04: blue jewel light
+P05: white jewel light
+P06: blue jewel light
+P07: rising pitch-made gold
+P08: Albiceleste three-jewel glow
+P09: fragile fourth-jewel breath
+P10: connecting line veins
+P11: half-found number 10
+P12: fading glow, one jewel alive [NEGATIVE / AVOID]
+Panel header beat names must match the
+
+Seedance 2.0 Prompt:
+
+Based on the storyboard , create this short film — do not include any movement arrows, camera notes, panel numbers, captions, labels, borders, or storyboard markings.
+
+THE KING STILL BREATHES — beneath an empty Argentina-blue stadium, a buried crown lights three jewels for three triumphs and a fourth begins to glow with hope.
+
+IMAGE REFERENCE INSTRUCTION
+= the locked 12-panel storyboard, the authoritative director-approved blueprint for composition, staging, motion, timing, and pacing across the full 15 seconds. Follow the panel order exactly. Do not render the storyboard sheet itself. Do not invent alternative coverage. This is an environment-led symbolic piece with no character — no player, face, body, or likeness anywhere.
+Color bible (definitive): deep stadium night blues, sky-blue and white Argentina light, dark emerald grass, silver floodlight haze; selective gold only on the crown and jewel moments. The crown is pitch-made — gold edges partly formed from the white pitch lines, soil and grass clinging to it, elegant and football-mythic, never a clean prop or medieval cosplay. The number 10 forms only from real field geometry, half-found, never a graphic overlay. One realistic football field, one net, normal geography only.
+
+TASK
+Create a 15-second mythic cinematic football short built from deliberate, elegant cuts. An empty night stadium, still charged after a legendary hat-trick, slowly awakens: the white pitch lines begin to glow, a buried crown stirs beneath the turf, and three jewels light one by one — blue, white, blue — for Argentina's three World Cup triumphs. The crown rises in ceremony, revealing those three certain jewels, and then a fourth dark jewel softly stirs, flickers, and begins to glow with fragile hope for what comes next. The field lines connect and spread with living light until the pitch geometry resolves, for one brief unforgettable moment, into a giant number 10 — then the glow fades toward stillness, the crown settles, and the fourth jewel remains faintly alive. Football history turning to myth, and pride turning to hope.
+
+STYLE
+Mythic cinematic football short, premium symbolic sports poetry, elegant and emotionally charged — not a match recap, not a fan edit, not abstract art-film. Reverent, epic, restrained, poetic rather than literal, as if the stadium itself remembers. Deep night blues with sky-blue and white Argentina light, dark emerald grass, silver floodlight haze, selective gold only on the crown and jewels. Everything moves with weight and intention; restraint over spectacle.
+
+SHOT STRUCTURE: 12 shots / 15s / 16:9 — deliberate cinematic cuts (not one continuous take)
+
+SEQUENCE
+Shot 01 — EMPTY STADIUM [0–1.5s] WIDE / STATIC / PATIENT HOLD: the empty night stadium under floodlights, Argentina-blue haze, dark emerald pitch, a single goal net swaying faintly. Still, but charged with the memory of what just happened. Post-match silence.
+Shot 02 — LINES WAKE [1.5–3s] MACRO / LOW / SLOW TRACK ALONG A LINE: the white pitch lines begin to glow softly, light running along the painted markings like the field's nervous system waking and remembering. Recognition.
+Shot 03 — CROWN STIRS [3–4s] MACRO / LOW / SLOW PUSH: in the turf, a buried glow and faint pressure stir beneath the grass — something royal sensed but not yet seen. No visible crown.
+Shot 04 — FIRST JEWEL [4–5s] CLOSE / LOW / CUT IN: beneath the surface the first jewel lights a deep blue — Argentina's first World Cup. Certain, clear, historic.
+Shot 05 — SECOND JEWEL [5–6s] CLOSE / LOW / MATCHING CUT: the second jewel lights white — the second triumph. The same confident punctuation.
+Shot 06 — THIRD JEWEL [6–7.5s] CLOSE / LOW / MATCHING CUT: the third jewel lights blue — the third triumph. The historic three now complete, glowing in Albiceleste rhythm.
+Shot 07 — CROWN RISES [7.5–9.5s] MEDIUM / LOW / SLOW CEREMONIAL RISE: the pitch-made crown rises with heavy ceremonial weight from beneath the turf, soil and grass clinging to its gold edges. Earned, mythic, powerful. The first clear reveal.
+Shot 08 — THREE JEWELS LIT [9.5–11s] MEDIUM / SLOW PUSH: the crown seen clearly, its three jewels glowing blue-white-blue. A held moment of pride. The king's history made visible.
+Shot 09 — FOURTH JEWEL AWAKENS [11–12.5s] MACRO / SLOW PUSH: a fourth, previously dark jewel stirs — it flickers, breathes, and softly begins to glow. It does not blaze like the other three; it is fragile, tentative, hopeful. Belief in a fourth triumph, not yet won.
+Shot 10 — LINES CONNECT [12.5–13.5s] HIGH / RISING: the white pitch lines connect and spread with living light across the field, the geometry beginning to mean something.
+Shot 11 — NUMBER 10 [13.5–14.5s] CRANE HIGH / ELEVATED WIDE: from above, the glowing field geometry resolves, half-found and broken-edged, into a giant number 10 — discovered by the camera, pitch memory rather than a drawn symbol. The unforgettable image.
+Shot 12 — HOPEFUL STILLNESS [14.5–15s] WIDE / STATIC / HOLD: the glow fades toward stillness, the crown settles back into the grass, the stadium quiets — but the fourth jewel remains faintly alive, breathing. The future has begun to breathe. Hold.
+
+CAMERA RULES
+Deliberate, elegant cinematic cuts between shots — not one continuous take. The camera is patient and confident, uncovering something sacred: it begins close and textural (macro grass, low jewel angles) and gradually widens and elevates toward the reveal, ending on a held wide. One primary move per shot; no shaky handheld, no snap zooms, no hyper-editing. The number 10 is discovered by the elevated camera, never presented as a flat graphic. Let the piece breathe.
+
+HARD RULES
+- No character of any kind: no player, face, body, silhouette, or Messi likeness. The subject is the stadium, the pitch, and the crown.
+- The crown is NOT visible before Shot 07; Shots 03–06 show only buried glow, turf pressure, and the jewels lighting beneath the grass.
+- The crown is pitch-made, soil and grass clinging, elegant and football-mythic — never a clean prop, medieval cosplay, or ornate fantasy.
+- The first three jewels light one by one, certain and complete, in Albiceleste rhythm: blue, white, blue.
+- The fourth jewel must look different from the first three — dormant then awakening, fragile, flickering, a soft glow that never fully blazes. It reads as hope, not a won trophy.
+- One realistic football field, one net, normal geography only — never three nets or impossible layouts.
+- The number 10 appears only as illuminated field geometry, half-found with broken edges, never a graphic overlay or label.
+- No readable logos, crests, sponsor marks, brand marks, or trophy replicas. Argentina connection through color and atmosphere only.
+- Not a match-highlight recap. Reverent aftermath, memory, myth, and hope. Power through restraint — no symbolic clutter.
+
+AUDIO
+No dialogue, no commentary. Reverent, charged, slightly supernatural sound design. Begin with the deep ambience of an empty stadium — distant floodlight hum, a faint wind, the soft creak of the swaying net. The lines waking add a delicate glassy shimmer running across the field. The crown stirring is a low buried throb under the turf. Each of the three jewels lights with a clear, resonant chime — three certain, complete tones, the same confident punctuation each time. The crown rising lands with a heavy, sacred low impact and a slow rising shimmer of gold. The three-jewel moment holds on a proud sustained chord. The fourth jewel is different — a soft, fragile, flickering tone that breathes rather than rings, tentative and tender. The lines connecting add a spreading living hum; the number 10 resolves on a held, awe-struck swell. Then it falls back toward near-silence — the empty stadium hum, and one last faint breathing shimmer from the fourth jewel. Music: sparse, mythic, restrained — deep cinematic drones, a slow sacred build through the coronation, a single restrained peak at the number-10 reveal, then a quiet hopeful fade that does not fully resolve, leaving the fourth jewel's note hanging. Never bombastic, never a sports anthem; aura and hope, not hype.
+
+Negatives: no player, face, likeness, body, or silhouette; no Messi depiction; no crown before Shot 07; no clean-prop or medieval crown; the fourth jewel must not blaze like the first three; one field and one net only, never three nets; the number 10 only as organic half-found field geometry, never an overlay; no logos, crests, brand marks, trophy replicas, or readable text; no match-recap energy; no identity drift, no jitter or temporal flicker, no warped geometry, no floating objects, no watermarks; no movement arrows, camera notes, panel numbers, captions, labels, borders, or storyboard markings in the video.
+```
+
+<a id="ui-124"></a>
+### 788. AR 超市购物 POV 界面
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-124#ui-124)** · [原帖](https://x.com/iamaiistudio/status/2067987931651068364)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-124#ui-124"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-124.webp" width="320" alt="AR 超市购物 POV 界面 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+POV shot from inside a grocery store aisle, your hands holding a vibrant mixed-fruit jam jar -- strawberry, blueberry, and orange blend. Holographic AR overlays float around it: a "Flavor Mix" panel with fruit icons, a "Nutrition Info" display, and a glowing "Freshness Meter" at 9/10. A translucent digital shopping list with checkmarks for bread and butter hovers nearby, plus recipe suggestions for toast, pancakes, and desserts. Bokeh background of store shelves and shoppers. Clean retail lighting, photorealistic, cinematic, AR glasses POV, vertical composition.
+
+Full prompt: 
+A first-person point-of-view (POV) shot inside a modern supermarket aisle. The viewer's hands are holding a mixed fruit jam jar with colorful branding, showing a blend of strawberry, blueberry, and orange flavors. Floating around the jar are sleek, semi-transparent Augmented Reality (AR) digital interfaces and holographic HUDs. The overlays display "Flavor Mix" with fruit icons, "Nutrition Info," and a glowing "Freshness Meter" reading 9/10. A digital shopping list with checkmarks for bread and butter appears beside the jar, along with small recipe suggestions like breakfast toast, pancakes, and desserts. The background shelves are slightly blurred with other products and shoppers, creating realistic depth of field. Bright, clean lighting with a futuristic retail atmosphere, ultra-realistic, cinematic look, high-tech AR glasses perspective, vertical composition.
+```
+
+<a id="ui-125"></a>
+### 789. 北欧食谱书配方版式
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-125#ui-125)** · [原帖](https://x.com/iamaiistudio/status/2069197657147638241)
+
+<table>
+<tr><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-125#ui-125"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-125.webp" width="190" alt="北欧食谱书配方版式 – GPT Image 2 1"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-125#ui-125"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-125-2.webp" width="190" alt="北欧食谱书配方版式 – GPT Image 2 2"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-125#ui-125"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-125-3.webp" width="190" alt="北欧食谱书配方版式 – GPT Image 2 3"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-125#ui-125"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-125-4.webp" width="190" alt="北欧食谱书配方版式 – GPT Image 2 4"></a></td></tr>
+</table>
+
+**提示词:**
+
+```text
+{
+  "style": "Clean minimalist recipe infographic",
+  "visual_aesthetic": {
+    "photography_style": "Top-down and 3-quarter angle food photography",
+    "design_language": "Nordic editorial cookbook aesthetic",
+    "background": "Warm beige / cream neutral",
+    "lighting": "Soft diffused light with gentle shadows",
+    "detail_level": "Photorealistic, ultra-sharp, 8K quality"
+  },
+  "layout": {
+    "composition": "Hero dish centered on a white ceramic plate or bowl",
+    "elements": [
+      "Ingredient icons in soft rounded frames",
+      "Minimal vector-style ingredient illustrations",
+      "Ingredient labels with quantities",
+      "Numbered step-by-step cooking flow with icons"
+    ],
+    "typography": "Modern sans-serif, high readability",
+    "spacing": "Airy, balanced, uncluttered"
+  },
+  "recipes": [
+    {
+      "dish_name": "Traditional Polish Pierogi",
+      "dish_presentation": "Golden boiled dumplings stuffed with potato and farmer cheese, finished with butter and fresh chives",
+      "ingredients": [
+        { "name": "All-purpose flour", "quantity": "2.5 cups" },
+        { "name": "Potatoes", "quantity": "3 medium" },
+        { "name": "Farmer cheese", "quantity": "200g" },
+        { "name": "Onion", "quantity": "1 medium" },
+        { "name": "Butter", "quantity": "40g" },
+        { "name": "Salt", "quantity": "1 tsp" },
+        { "name": "Water", "quantity": "0.75 cups" }
+      ],
+      "steps": [
+        "Make the dough",
+        "Cook and mash the filling",
+        "Fill and fold pierogi",
+        "Boil until tender",
+        "Finish with butter"
+      ],
+      "meta": {
+        "calories": "270 kcal / serving",
+        "time": "70 min",
+        "servings": 4
+      }
+    },
+    {
+      "dish_name": "Vinaigrette Salad",
+      "dish_presentation": "Vibrant diced root vegetables tossed in a light dressing, shaped and garnished with fresh herbs",
+      "ingredients": [
+        { "name": "Beetroot", "quantity": "2 medium" },
+        { "name": "Potatoes", "quantity": "2 medium" },
+        { "name": "Carrots", "quantity": "1 medium" },
+        { "name": "Pickled cucumbers", "quantity": "2 pcs" },
+        { "name": "Green peas", "quantity": "1 cup" },
+        { "name": "Sunflower oil", "quantity": "2 tbsp" },
+        { "name": "Fresh dill", "quantity": "1 bunch" }
+      ],
+      "steps": [
+        "Boil the vegetables",
+        "Cool and dice",
+        "Combine all ingredients",
+        "Dress the salad",
+        "Refrigerate and serve"
+      ],
+      "meta": {
+        "calories": "180 kcal / serving",
+        "time": "30 min + chill",
+        "servings": 4
+      }
+    },
+    {
+      "dish_name": "Solyanka Soup",
+      "dish_presentation": "Hearty soup loaded with sliced mixed meats, briny olives, lemon, and fresh herbs, served in a ceramic bowl",
+      "ingredients": [
+        { "name": "Mixed meats", "quantity": "400g" },
+        { "name": "Onion", "quantity": "1 large" },
+        { "name": "Pickles", "quantity": "3 pcs" },
+        { "name": "Tomato paste", "quantity": "2 tbsp" },
+        { "name": "Olives", "quantity": "0.5 cup" },
+        { "name": "Garlic", "quantity": "2 cloves" },
+        { "name": "Bay leaf", "quantity": "1 pc" },
+        { "name": "Lemon", "quantity": "for serving" }
+      ],
+      "steps": [
+        "Prepare the broth",
+        "Saute aromatics",
+        "Add meats and pickles",
+        "Season and simmer",
+        "Serve with lemon"
+      ],
+      "meta": {
+        "calories": "320 kcal / serving",
+        "time": "90 min",
+        "servings": 5
+      }
+    }
+  ]
+}
+```
+
+<a id="ui-126"></a>
+### 790. 模块化品牌图标系统
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-126#ui-126)** · [原帖](https://x.com/iamaiistudio/status/2069150843430215859)
+
+<table>
+<tr><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-126#ui-126"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-126.webp" width="190" alt="模块化品牌图标系统 – GPT Image 2 1"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-126#ui-126"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-126-2.webp" width="190" alt="模块化品牌图标系统 – GPT Image 2 2"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-126#ui-126"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-126-3.webp" width="190" alt="模块化品牌图标系统 – GPT Image 2 3"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-126#ui-126"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-126-4.webp" width="190" alt="模块化品牌图标系统 – GPT Image 2 4"></a></td></tr>
+</table>
+
+**提示词:**
+
+```text
+Design a unified set of charming, expressive icons for [BRAND NAME], a [BRAND TYPE/INDUSTRY] company. The visual style should be [STYLE KEYWORDS: e.g., rounded, 3D, flat, hand-drawn, minimal] paired with a [COLOR STYLE: vibrant, pastel, gradient, monochrome] color scheme. Apply [DESIGN TRAITS: soft shadows, bold outlines, subtle textures, glow, etc.] to achieve a warm and contemporary look. Keep a consistent visual system across all icons using shared grids, proportions, and design language. The icon set should cover [LIST OF FEATURES/FUNCTIONS]. Prioritize sharp legibility, well-balanced spacing, and scalability across UI, apps, and branding contexts.
+```
+
+<a id="ui-127"></a>
+### 791. 远征规划指挥板
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 4:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-127#ui-127)** · [原帖](https://x.com/iamaiistudio/status/2069104692098130014)
+
+<table>
+<tr><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-127#ui-127"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-127.webp" width="190" alt="远征规划指挥板 – GPT Image 2 1"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-127#ui-127"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-127-2.webp" width="190" alt="远征规划指挥板 – GPT Image 2 2"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-127#ui-127"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-127-3.webp" width="190" alt="远征规划指挥板 – GPT Image 2 3"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-127#ui-127"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-127-4.webp" width="190" alt="远征规划指挥板 – GPT Image 2 4"></a></td></tr>
+</table>
+
+**提示词:**
+
+```text
+A strategic command board for an expedition leader planning [JOURNEY / MISSION] to [DESTINATION / ERA]. Left panel: detailed topographic route map with labeled waypoints, annotated danger zones, and a timeline running along the edge. Center panel: overhead flat lay of every piece of kit in neat organized rows, each item tagged by weight and function, redundancies flagged, nothing unnecessary included. Right panel: the expedition in motion or the destination reached, small human figures against a vast landscape, scale unmistakable. Visual language shifts from cartographic precision through functional inventory documentation to sweeping epic environmental photography. Title block reads: "[EXPEDITION NAME] — [ROUTE], [DATE], [OBJECTIVE]".
+```
+
+<a id="ui-129"></a>
+### 792. Flash Chat 应用图标
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-129#ui-129)** · [原帖](https://x.com/iamaiistudio/status/2069900481770737707)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-129#ui-129"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-129.webp" width="480" alt="Flash Chat 应用图标 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Design a macOS App Store icon for an app called 'Flash Chat'. Single squircle icon with smooth, continuously rounded corners, centered on a white canvas with padding, filling roughly 80% of the canvas. Modern light skeuomorphic style, macOS App Store quality. One icon only.
+```
+
+<a id="ui-130"></a>
+### 793. 九宫格产品企划
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 3:4 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-130#ui-130)** · [原帖](https://x.com/iamaiistudio/status/2069628865044254934)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-130#ui-130"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-130.webp" width="320" alt="九宫格产品企划 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Generate a 3×3 image grid (3:4 aspect ratio) for a luxury commercial campaign centered on the uploaded product.
+
+Each of the nine frames should deliver a unique visual concept while keeping the product visually identical throughout.
+
+The nine concepts:
+1. Hero still life with a bold, iconic arrangement
+2. Extreme macro revealing surface texture and material detail
+3. Liquid or particle dynamics wrapping around the product
+4. Minimalist sculptural staging with abstract geometry
+5. Floating elements that convey lightness and forward-thinking design
+6. Close-up sensory shot focused on tactile realism
+7. Color-concept scene drawn from the product's own palette
+8. Symbolic ingredient or component abstraction
+9. Surreal but refined blend of realism and imagination
+
+Product rules: maintain 100% fidelity to the product's shape, proportions, label, type, color, and branding. No distortion or redesign. Clean product-to-background separation.
+
+Lighting and finish: soft controlled studio lighting, subtle highlights, realistic shadows, ultra-sharp focus, high dynamic range, editorial luxury aesthetic.
+
+Mood: polished, modern, hyperreal, aspirational. Built for brand sites, social grids, and digital billboards.
+```
+
+<a id="ui-131"></a>
+### 794. 3D 音乐播放器图标套组
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-131#ui-131)** · [原帖](https://x.com/iamaiistudio/status/2071108428563697756)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-131#ui-131"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-131.webp" width="320" alt="3D 音乐播放器图标套组 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Design a complete set of 12 music-player homepage category icons in the style of a professional app UI designer. Icons should cover: music note, vinyl record, equalizer, headphones, liked music, music folder, video, microphone, playlist, speaker, CD, and radio. Render each in 3D skeuomorphic style with vibrant colorful accents, on white background rounded-corner cards.
+```
+
+<a id="ui-132"></a>
+### 795. Y2K 原宿品牌徽章
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-132#ui-132)** · [原帖](https://x.com/iamaiistudio/status/2071683274725028140)
+
+<table>
+<tr><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-132#ui-132"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-132.webp" width="190" alt="Y2K 原宿品牌徽章 – GPT Image 2 1"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-132#ui-132"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-132-2.webp" width="190" alt="Y2K 原宿品牌徽章 – GPT Image 2 2"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-132#ui-132"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-132-3.webp" width="190" alt="Y2K 原宿品牌徽章 – GPT Image 2 3"></a></td><td align="center"><a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-132#ui-132"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-132-4.webp" width="190" alt="Y2K 原宿品牌徽章 – GPT Image 2 4"></a></td></tr>
+</table>
+
+**提示词:**
+
+```text
+[BRAND NAME]
+
+You are a senior vector designer specializing in Y2K Harajuku badge art. Your world: Tokyo bootleg culture, early 2000s Japanese brand remixes, retro-futuristic sticker aesthetics. Every output should look like a clean Illustrator vector file, flat and sticker-ready. The badge structure must be invented fresh for each brand, not templated.
+
+BRAND ANALYSIS
+
+Before designing, resolve all of the following: (1) PRIMARY COLOR — brand's main color softened into a pastel Y2K version, still recognizable but lighter and more kawaii; (2) ACCENT COLOR — brand's secondary color pushed to warm saturation for energetic pop; (3) DARK COLOR — deep brand palette (navy, dark brown, near-black) used for outlines and extrusions; (4) LETTER CONTENT — brand name in bold lowercase or most iconic abbreviation; (5) KATAKANA — correct Japanese transliteration as a secondary text element; (6) ORIGIN FLAG — brand's country of origin flag as a small flat element; (7) SHAPE LANGUAGE — iconic geometric forms from the brand's visual identity used as orbital and background elements, never generic ovals; (8) CULTURAL SYMBOLS — 1-2 small iconic objects from the brand's universe rendered as tiny flat illustrations; (9) COMPOSITION LOGIC — design the badge layout using everything above so it feels invented specifically for this brand.
+
+CANVAS
+
+1:1 square. Flat off-white or warm light grey background. Completely empty, no texture, no gradient.
+
+BADGE STRUCTURE
+
+Using the resolved shape language and composition logic, build the full badge. Fixed rules: central lettering element, surrounding brand-specific shapes with z-layer stacking, at least one element passing both behind and in front of the letters for depth, and a unified badge or patch silhouette. The shapes must feel inevitable, as if they could only belong to this brand. Everything else is determined by the brand's own visual DNA.
+
+LETTERING
+
+Brand name in large bold lowercase with a wide rounded display typeface. Flat PRIMARY COLOR fill. Thick DARK COLOR extrusion offset down-right at 8-12% of letter height. Bold DARK COLOR outline. No gradients, no rendering.
+
+Y2K SIGNATURE ELEMENTS
+
+Every badge must include: SPEED LINES or motion texture in ACCENT COLOR inside background shapes. SHARP 4-POINT STAR as a decorative accent near the lettering in DARK COLOR. KATAKANA transliteration tucked naturally into the composition. ORIGIN FLAG as a small accurate flat element. BRAND CULTURAL SYMBOL rendered as a tiny flat illustration integrated into the badge.
+
+TECH SPECS
+
+Flat vector only. Zero gradients, effects, blur, or rendering. Clean crisp edges throughout. Maximum 4 colors: PRIMARY pastel, ACCENT warm saturated, DARK outline, off-white. Must feel like a collectible sticker or embroidered patch. Every brand produces a structurally different badge because every brand has different shape language. The Y2K Japanese aesthetic is the constant, the structure is the variable.
+```
+
+<a id="ui-133"></a>
+### 796. 怀旧记忆网格布局
+
+作者 [@iamaiistudio](https://x.com/iamaiistudio) · 4:3 · **[▶ 在 APIKO 运行](https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-133#ui-133)** · [原帖](https://x.com/iamaiistudio/status/2071561442013118600)
+
+<a href="https://apiko.app/zh/gpt-image-2-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2-prompts&utm_content=ui-133#ui-133"><img src="https://media.apiko.app/prompts/gpt-image-2-prompts/ui-133.webp" width="480" alt="怀旧记忆网格布局 – GPT Image 2"></a>
+
+**提示词:**
+
+```text
+Generate a {argument name="grid layout" default="4x3"} seamless grid layout where every panel shows a separate scene featuring the {argument name="subject" default="a young woman"}. Keep subject appearance, colors, and lighting perfectly consistent across all panels. Theme: {argument name="theme" default="childhood memories"}, mood: {argument name="mood" default="warm, nostalgic"}, style: {argument name="style" default="nostalgic cinematic realism"}. No text, no gaps.
+```
+
+[← 返回 README](../README_zh-CN.md)
