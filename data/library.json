@@ -193,6 +193,10 @@
      {
       "label": "AI image generator",
       "href": "/image-generator"
+     },
+     {
+      "label": "GPT Image 2 prompts on GitHub",
+      "href": "https://github.com/tong0619453646-dev/awesome-gpt-image-2-prompts"
      }
     ]
    }
@@ -363,6 +367,10 @@
      {
       "label": "AI 图像生成器",
       "href": "/image-generator"
+     },
+     {
+      "label": "GitHub 上的 GPT Image 2 提示词合集",
+      "href": "https://github.com/tong0619453646-dev/awesome-gpt-image-2-prompts/blob/main/README_zh-CN.md"
      }
     ]
    }
@@ -533,6 +541,10 @@
      {
       "label": "AI 圖像生成器",
       "href": "/image-generator"
+     },
+     {
+      "label": "GitHub 上的 GPT Image 2 提示詞合集",
+      "href": "https://github.com/tong0619453646-dev/awesome-gpt-image-2-prompts/blob/main/README_zh-TW.md"
      }
     ]
    }
@@ -703,6 +715,10 @@
      {
       "label": "AI 이미지 생성기",
       "href": "/image-generator"
+     },
+     {
+      "label": "GitHub의 GPT Image 2 프롬프트 모음",
+      "href": "https://github.com/tong0619453646-dev/awesome-gpt-image-2-prompts/blob/main/README_ko.md"
      }
     ]
    }
